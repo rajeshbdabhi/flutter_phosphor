@@ -37,30 +37,33 @@ class PhosphorIcon extends Icon {
 
   @override
   Widget build(BuildContext context) {
-    if (icon is PhosphorDuotoneIconData) {
-      final duotoneIcon = icon as PhosphorDuotoneIconData;
-      return Stack(
-        alignment: Alignment.center,
-        children: [
-          Opacity(
-            opacity: duotoneSecondaryOpacity,
-            child: Icon(
-              duotoneIcon.secondary,
-              key: key,
-              size: size,
-              fill: fill,
-              weight: weight,
-              grade: grade,
-              opticalSize: opticalSize,
-              color: duotoneSecondaryColor ?? color,
-              shadows: shadows,
-              semanticLabel: semanticLabel,
-              textDirection: textDirection,
+    final current = icon;
+    if (current != null && current.fontFamily == 'PhosphorDuotone') {
+      final secondary = PhosphorIconsDuotone.secondaryFor[current.codePoint];
+      if (secondary != null) {
+        return Stack(
+          alignment: Alignment.center,
+          children: [
+            Opacity(
+              opacity: duotoneSecondaryOpacity,
+              child: Icon(
+                secondary,
+                key: key,
+                size: size,
+                fill: fill,
+                weight: weight,
+                grade: grade,
+                opticalSize: opticalSize,
+                color: duotoneSecondaryColor ?? color,
+                shadows: shadows,
+                semanticLabel: semanticLabel,
+                textDirection: textDirection,
+              ),
             ),
-          ),
-          super.build(context),
-        ],
-      );
+            super.build(context),
+          ],
+        );
+      }
     }
     return super.build(context);
   }
