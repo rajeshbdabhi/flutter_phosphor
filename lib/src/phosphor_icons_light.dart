@@ -1,6 +1,7 @@
 // Auto generated File
 // DON'T EDIT BY HAND
 
+import 'package:phosphor_flutter/src/phosphor_icon_data.dart';
 import 'package:flutter/widgets.dart';
 
 @staticIconProvider
@@ -8,4541 +9,4541 @@ class PhosphorIconsLight {
   const PhosphorIconsLight();
 
   /// ![acorn-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/acorn-light.svg)
-  static const acorn = IconData(0xeb9a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const acorn = PhosphorFlatIconData(0xeb9a, 'Light');
 
   /// ![address-book-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/address-book-light.svg)
-  static const addressBook = IconData(0xe6f8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const addressBook = PhosphorFlatIconData(0xe6f8, 'Light');
 
   /// ![address-book-tabs-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/address-book-tabs-light.svg)
-  static const addressBookTabs = IconData(0xee4e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const addressBookTabs = PhosphorFlatIconData(0xee4e, 'Light');
 
   /// ![air-traffic-control-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/air-traffic-control-light.svg)
-  static const airTrafficControl = IconData(0xecd8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const airTrafficControl = PhosphorFlatIconData(0xecd8, 'Light');
 
   /// ![airplane-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/airplane-light.svg)
-  static const airplane = IconData(0xe002, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const airplane = PhosphorFlatIconData(0xe002, 'Light');
 
   /// ![airplane-in-flight-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/airplane-in-flight-light.svg)
-  static const airplaneInFlight = IconData(0xe4fe, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const airplaneInFlight = PhosphorFlatIconData(0xe4fe, 'Light');
 
   /// ![airplane-landing-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/airplane-landing-light.svg)
-  static const airplaneLanding = IconData(0xe502, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const airplaneLanding = PhosphorFlatIconData(0xe502, 'Light');
 
   /// ![airplane-takeoff-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/airplane-takeoff-light.svg)
-  static const airplaneTakeoff = IconData(0xe504, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const airplaneTakeoff = PhosphorFlatIconData(0xe504, 'Light');
 
   /// ![airplane-taxiing-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/airplane-taxiing-light.svg)
-  static const airplaneTaxiing = IconData(0xe500, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const airplaneTaxiing = PhosphorFlatIconData(0xe500, 'Light');
 
   /// ![airplane-tilt-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/airplane-tilt-light.svg)
-  static const airplaneTilt = IconData(0xe5d6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const airplaneTilt = PhosphorFlatIconData(0xe5d6, 'Light');
 
   /// ![airplay-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/airplay-light.svg)
-  static const airplay = IconData(0xe004, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const airplay = PhosphorFlatIconData(0xe004, 'Light');
 
   /// ![alarm-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/alarm-light.svg)
-  static const alarm = IconData(0xe006, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const alarm = PhosphorFlatIconData(0xe006, 'Light');
 
   /// ![alien-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/alien-light.svg)
-  static const alien = IconData(0xe8a6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const alien = PhosphorFlatIconData(0xe8a6, 'Light');
 
   /// ![align-bottom-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-bottom-light.svg)
-  static const alignBottom = IconData(0xe506, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const alignBottom = PhosphorFlatIconData(0xe506, 'Light');
 
   /// ![align-bottom-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-bottom-simple-light.svg)
-  static const alignBottomSimple = IconData(0xeb0c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const alignBottomSimple = PhosphorFlatIconData(0xeb0c, 'Light');
 
   /// ![align-center-horizontal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-center-horizontal-light.svg)
-  static const alignCenterHorizontal = IconData(0xe50a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const alignCenterHorizontal = PhosphorFlatIconData(0xe50a, 'Light');
 
   /// ![align-center-horizontal-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-center-horizontal-simple-light.svg)
   static const alignCenterHorizontalSimple =
-      IconData(0xeb0e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+      PhosphorFlatIconData(0xeb0e, 'Light');
 
   /// ![align-center-vertical-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-center-vertical-light.svg)
-  static const alignCenterVertical = IconData(0xe50c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const alignCenterVertical = PhosphorFlatIconData(0xe50c, 'Light');
 
   /// ![align-center-vertical-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-center-vertical-simple-light.svg)
   static const alignCenterVerticalSimple =
-      IconData(0xeb10, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+      PhosphorFlatIconData(0xeb10, 'Light');
 
   /// ![align-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-left-light.svg)
-  static const alignLeft = IconData(0xe50e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const alignLeft = PhosphorFlatIconData(0xe50e, 'Light');
 
   /// ![align-left-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-left-simple-light.svg)
-  static const alignLeftSimple = IconData(0xeaee, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const alignLeftSimple = PhosphorFlatIconData(0xeaee, 'Light');
 
   /// ![align-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-right-light.svg)
-  static const alignRight = IconData(0xe510, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const alignRight = PhosphorFlatIconData(0xe510, 'Light');
 
   /// ![align-right-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-right-simple-light.svg)
-  static const alignRightSimple = IconData(0xeb12, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const alignRightSimple = PhosphorFlatIconData(0xeb12, 'Light');
 
   /// ![align-top-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-top-light.svg)
-  static const alignTop = IconData(0xe512, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const alignTop = PhosphorFlatIconData(0xe512, 'Light');
 
   /// ![align-top-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/align-top-simple-light.svg)
-  static const alignTopSimple = IconData(0xeb14, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const alignTopSimple = PhosphorFlatIconData(0xeb14, 'Light');
 
   /// ![amazon-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/amazon-logo-light.svg)
-  static const amazonLogo = IconData(0xe96c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const amazonLogo = PhosphorFlatIconData(0xe96c, 'Light');
 
   /// ![ambulance-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ambulance-light.svg)
-  static const ambulance = IconData(0xe572, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const ambulance = PhosphorFlatIconData(0xe572, 'Light');
 
   /// ![anchor-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/anchor-light.svg)
-  static const anchor = IconData(0xe514, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const anchor = PhosphorFlatIconData(0xe514, 'Light');
 
   /// ![anchor-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/anchor-simple-light.svg)
-  static const anchorSimple = IconData(0xe5d8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const anchorSimple = PhosphorFlatIconData(0xe5d8, 'Light');
 
   /// ![android-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/android-logo-light.svg)
-  static const androidLogo = IconData(0xe008, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const androidLogo = PhosphorFlatIconData(0xe008, 'Light');
 
   /// ![angle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/angle-light.svg)
-  static const angle = IconData(0xe7bc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const angle = PhosphorFlatIconData(0xe7bc, 'Light');
 
   /// ![angular-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/angular-logo-light.svg)
-  static const angularLogo = IconData(0xeb80, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const angularLogo = PhosphorFlatIconData(0xeb80, 'Light');
 
   /// ![aperture-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/aperture-light.svg)
-  static const aperture = IconData(0xe00a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const aperture = PhosphorFlatIconData(0xe00a, 'Light');
 
   /// ![app-store-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/app-store-logo-light.svg)
-  static const appStoreLogo = IconData(0xe974, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const appStoreLogo = PhosphorFlatIconData(0xe974, 'Light');
 
   /// ![app-window-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/app-window-light.svg)
-  static const appWindow = IconData(0xe5da, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const appWindow = PhosphorFlatIconData(0xe5da, 'Light');
 
   /// ![apple-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/apple-logo-light.svg)
-  static const appleLogo = IconData(0xe516, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const appleLogo = PhosphorFlatIconData(0xe516, 'Light');
 
   /// ![apple-podcasts-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/apple-podcasts-logo-light.svg)
-  static const applePodcastsLogo = IconData(0xeb96, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const applePodcastsLogo = PhosphorFlatIconData(0xeb96, 'Light');
 
   /// ![approximate-equals-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/approximate-equals-light.svg)
-  static const approximateEquals = IconData(0xedaa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const approximateEquals = PhosphorFlatIconData(0xedaa, 'Light');
 
   /// ![archive-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/archive-light.svg)
-  static const archive = IconData(0xe00c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const archive = PhosphorFlatIconData(0xe00c, 'Light');
 
   /// ![armchair-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/armchair-light.svg)
-  static const armchair = IconData(0xe012, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const armchair = PhosphorFlatIconData(0xe012, 'Light');
 
   /// ![arrow-arc-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-arc-left-light.svg)
-  static const arrowArcLeft = IconData(0xe014, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowArcLeft = PhosphorFlatIconData(0xe014, 'Light');
 
   /// ![arrow-arc-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-arc-right-light.svg)
-  static const arrowArcRight = IconData(0xe016, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowArcRight = PhosphorFlatIconData(0xe016, 'Light');
 
   /// ![arrow-bend-double-up-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-double-up-left-light.svg)
-  static const arrowBendDoubleUpLeft = IconData(0xe03a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowBendDoubleUpLeft = PhosphorFlatIconData(0xe03a, 'Light');
 
   /// ![arrow-bend-double-up-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-double-up-right-light.svg)
-  static const arrowBendDoubleUpRight = IconData(0xe03c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowBendDoubleUpRight = PhosphorFlatIconData(0xe03c, 'Light');
 
   /// ![arrow-bend-down-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-down-left-light.svg)
-  static const arrowBendDownLeft = IconData(0xe018, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowBendDownLeft = PhosphorFlatIconData(0xe018, 'Light');
 
   /// ![arrow-bend-down-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-down-right-light.svg)
-  static const arrowBendDownRight = IconData(0xe01a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowBendDownRight = PhosphorFlatIconData(0xe01a, 'Light');
 
   /// ![arrow-bend-left-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-left-down-light.svg)
-  static const arrowBendLeftDown = IconData(0xe01c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowBendLeftDown = PhosphorFlatIconData(0xe01c, 'Light');
 
   /// ![arrow-bend-left-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-left-up-light.svg)
-  static const arrowBendLeftUp = IconData(0xe01e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowBendLeftUp = PhosphorFlatIconData(0xe01e, 'Light');
 
   /// ![arrow-bend-right-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-right-down-light.svg)
-  static const arrowBendRightDown = IconData(0xe020, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowBendRightDown = PhosphorFlatIconData(0xe020, 'Light');
 
   /// ![arrow-bend-right-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-right-up-light.svg)
-  static const arrowBendRightUp = IconData(0xe022, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowBendRightUp = PhosphorFlatIconData(0xe022, 'Light');
 
   /// ![arrow-bend-up-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-up-left-light.svg)
-  static const arrowBendUpLeft = IconData(0xe024, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowBendUpLeft = PhosphorFlatIconData(0xe024, 'Light');
 
   /// ![arrow-bend-up-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-bend-up-right-light.svg)
-  static const arrowBendUpRight = IconData(0xe026, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowBendUpRight = PhosphorFlatIconData(0xe026, 'Light');
 
   /// ![arrow-circle-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-circle-down-light.svg)
-  static const arrowCircleDown = IconData(0xe028, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowCircleDown = PhosphorFlatIconData(0xe028, 'Light');
 
   /// ![arrow-circle-down-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-circle-down-left-light.svg)
-  static const arrowCircleDownLeft = IconData(0xe02a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowCircleDownLeft = PhosphorFlatIconData(0xe02a, 'Light');
 
   /// ![arrow-circle-down-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-circle-down-right-light.svg)
-  static const arrowCircleDownRight = IconData(0xe02c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowCircleDownRight = PhosphorFlatIconData(0xe02c, 'Light');
 
   /// ![arrow-circle-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-circle-left-light.svg)
-  static const arrowCircleLeft = IconData(0xe05a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowCircleLeft = PhosphorFlatIconData(0xe05a, 'Light');
 
   /// ![arrow-circle-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-circle-right-light.svg)
-  static const arrowCircleRight = IconData(0xe02e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowCircleRight = PhosphorFlatIconData(0xe02e, 'Light');
 
   /// ![arrow-circle-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-circle-up-light.svg)
-  static const arrowCircleUp = IconData(0xe030, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowCircleUp = PhosphorFlatIconData(0xe030, 'Light');
 
   /// ![arrow-circle-up-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-circle-up-left-light.svg)
-  static const arrowCircleUpLeft = IconData(0xe032, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowCircleUpLeft = PhosphorFlatIconData(0xe032, 'Light');
 
   /// ![arrow-circle-up-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-circle-up-right-light.svg)
-  static const arrowCircleUpRight = IconData(0xe034, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowCircleUpRight = PhosphorFlatIconData(0xe034, 'Light');
 
   /// ![arrow-clockwise-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-clockwise-light.svg)
-  static const arrowClockwise = IconData(0xe036, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowClockwise = PhosphorFlatIconData(0xe036, 'Light');
 
   /// ![arrow-counter-clockwise-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-counter-clockwise-light.svg)
-  static const arrowCounterClockwise = IconData(0xe038, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowCounterClockwise = PhosphorFlatIconData(0xe038, 'Light');
 
   /// ![arrow-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-down-light.svg)
-  static const arrowDown = IconData(0xe03e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowDown = PhosphorFlatIconData(0xe03e, 'Light');
 
   /// ![arrow-down-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-down-left-light.svg)
-  static const arrowDownLeft = IconData(0xe040, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowDownLeft = PhosphorFlatIconData(0xe040, 'Light');
 
   /// ![arrow-down-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-down-right-light.svg)
-  static const arrowDownRight = IconData(0xe042, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowDownRight = PhosphorFlatIconData(0xe042, 'Light');
 
   /// ![arrow-elbow-down-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-down-left-light.svg)
-  static const arrowElbowDownLeft = IconData(0xe044, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowElbowDownLeft = PhosphorFlatIconData(0xe044, 'Light');
 
   /// ![arrow-elbow-down-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-down-right-light.svg)
-  static const arrowElbowDownRight = IconData(0xe046, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowElbowDownRight = PhosphorFlatIconData(0xe046, 'Light');
 
   /// ![arrow-elbow-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-left-light.svg)
-  static const arrowElbowLeft = IconData(0xe048, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowElbowLeft = PhosphorFlatIconData(0xe048, 'Light');
 
   /// ![arrow-elbow-left-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-left-down-light.svg)
-  static const arrowElbowLeftDown = IconData(0xe04a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowElbowLeftDown = PhosphorFlatIconData(0xe04a, 'Light');
 
   /// ![arrow-elbow-left-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-left-up-light.svg)
-  static const arrowElbowLeftUp = IconData(0xe04c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowElbowLeftUp = PhosphorFlatIconData(0xe04c, 'Light');
 
   /// ![arrow-elbow-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-right-light.svg)
-  static const arrowElbowRight = IconData(0xe04e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowElbowRight = PhosphorFlatIconData(0xe04e, 'Light');
 
   /// ![arrow-elbow-right-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-right-down-light.svg)
-  static const arrowElbowRightDown = IconData(0xe050, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowElbowRightDown = PhosphorFlatIconData(0xe050, 'Light');
 
   /// ![arrow-elbow-right-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-right-up-light.svg)
-  static const arrowElbowRightUp = IconData(0xe052, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowElbowRightUp = PhosphorFlatIconData(0xe052, 'Light');
 
   /// ![arrow-elbow-up-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-up-left-light.svg)
-  static const arrowElbowUpLeft = IconData(0xe054, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowElbowUpLeft = PhosphorFlatIconData(0xe054, 'Light');
 
   /// ![arrow-elbow-up-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-elbow-up-right-light.svg)
-  static const arrowElbowUpRight = IconData(0xe056, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowElbowUpRight = PhosphorFlatIconData(0xe056, 'Light');
 
   /// ![arrow-fat-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-down-light.svg)
-  static const arrowFatDown = IconData(0xe518, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowFatDown = PhosphorFlatIconData(0xe518, 'Light');
 
   /// ![arrow-fat-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-left-light.svg)
-  static const arrowFatLeft = IconData(0xe51a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowFatLeft = PhosphorFlatIconData(0xe51a, 'Light');
 
   /// ![arrow-fat-line-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-line-down-light.svg)
-  static const arrowFatLineDown = IconData(0xe51c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowFatLineDown = PhosphorFlatIconData(0xe51c, 'Light');
 
   /// ![arrow-fat-line-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-line-left-light.svg)
-  static const arrowFatLineLeft = IconData(0xe51e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowFatLineLeft = PhosphorFlatIconData(0xe51e, 'Light');
 
   /// ![arrow-fat-line-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-line-right-light.svg)
-  static const arrowFatLineRight = IconData(0xe520, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowFatLineRight = PhosphorFlatIconData(0xe520, 'Light');
 
   /// ![arrow-fat-line-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-line-up-light.svg)
-  static const arrowFatLineUp = IconData(0xe522, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowFatLineUp = PhosphorFlatIconData(0xe522, 'Light');
 
   /// ![arrow-fat-lines-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-lines-down-light.svg)
-  static const arrowFatLinesDown = IconData(0xe524, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowFatLinesDown = PhosphorFlatIconData(0xe524, 'Light');
 
   /// ![arrow-fat-lines-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-lines-left-light.svg)
-  static const arrowFatLinesLeft = IconData(0xe526, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowFatLinesLeft = PhosphorFlatIconData(0xe526, 'Light');
 
   /// ![arrow-fat-lines-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-lines-right-light.svg)
-  static const arrowFatLinesRight = IconData(0xe528, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowFatLinesRight = PhosphorFlatIconData(0xe528, 'Light');
 
   /// ![arrow-fat-lines-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-lines-up-light.svg)
-  static const arrowFatLinesUp = IconData(0xe52a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowFatLinesUp = PhosphorFlatIconData(0xe52a, 'Light');
 
   /// ![arrow-fat-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-right-light.svg)
-  static const arrowFatRight = IconData(0xe52c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowFatRight = PhosphorFlatIconData(0xe52c, 'Light');
 
   /// ![arrow-fat-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-fat-up-light.svg)
-  static const arrowFatUp = IconData(0xe52e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowFatUp = PhosphorFlatIconData(0xe52e, 'Light');
 
   /// ![arrow-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-left-light.svg)
-  static const arrowLeft = IconData(0xe058, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowLeft = PhosphorFlatIconData(0xe058, 'Light');
 
   /// ![arrow-line-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-line-down-light.svg)
-  static const arrowLineDown = IconData(0xe05c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowLineDown = PhosphorFlatIconData(0xe05c, 'Light');
 
   /// ![arrow-line-down-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-line-down-left-light.svg)
-  static const arrowLineDownLeft = IconData(0xe05e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowLineDownLeft = PhosphorFlatIconData(0xe05e, 'Light');
 
   /// ![arrow-line-down-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-line-down-right-light.svg)
-  static const arrowLineDownRight = IconData(0xe060, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowLineDownRight = PhosphorFlatIconData(0xe060, 'Light');
 
   /// ![arrow-line-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-line-left-light.svg)
-  static const arrowLineLeft = IconData(0xe062, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowLineLeft = PhosphorFlatIconData(0xe062, 'Light');
 
   /// ![arrow-line-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-line-right-light.svg)
-  static const arrowLineRight = IconData(0xe064, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowLineRight = PhosphorFlatIconData(0xe064, 'Light');
 
   /// ![arrow-line-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-line-up-light.svg)
-  static const arrowLineUp = IconData(0xe066, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowLineUp = PhosphorFlatIconData(0xe066, 'Light');
 
   /// ![arrow-line-up-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-line-up-left-light.svg)
-  static const arrowLineUpLeft = IconData(0xe068, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowLineUpLeft = PhosphorFlatIconData(0xe068, 'Light');
 
   /// ![arrow-line-up-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-line-up-right-light.svg)
-  static const arrowLineUpRight = IconData(0xe06a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowLineUpRight = PhosphorFlatIconData(0xe06a, 'Light');
 
   /// ![arrow-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-right-light.svg)
-  static const arrowRight = IconData(0xe06c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowRight = PhosphorFlatIconData(0xe06c, 'Light');
 
   /// ![arrow-square-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-down-light.svg)
-  static const arrowSquareDown = IconData(0xe06e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowSquareDown = PhosphorFlatIconData(0xe06e, 'Light');
 
   /// ![arrow-square-down-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-down-left-light.svg)
-  static const arrowSquareDownLeft = IconData(0xe070, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowSquareDownLeft = PhosphorFlatIconData(0xe070, 'Light');
 
   /// ![arrow-square-down-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-down-right-light.svg)
-  static const arrowSquareDownRight = IconData(0xe072, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowSquareDownRight = PhosphorFlatIconData(0xe072, 'Light');
 
   /// ![arrow-square-in-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-in-light.svg)
-  static const arrowSquareIn = IconData(0xe5dc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowSquareIn = PhosphorFlatIconData(0xe5dc, 'Light');
 
   /// ![arrow-square-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-left-light.svg)
-  static const arrowSquareLeft = IconData(0xe074, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowSquareLeft = PhosphorFlatIconData(0xe074, 'Light');
 
   /// ![arrow-square-out-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-out-light.svg)
-  static const arrowSquareOut = IconData(0xe5de, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowSquareOut = PhosphorFlatIconData(0xe5de, 'Light');
 
   /// ![arrow-square-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-right-light.svg)
-  static const arrowSquareRight = IconData(0xe076, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowSquareRight = PhosphorFlatIconData(0xe076, 'Light');
 
   /// ![arrow-square-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-up-light.svg)
-  static const arrowSquareUp = IconData(0xe078, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowSquareUp = PhosphorFlatIconData(0xe078, 'Light');
 
   /// ![arrow-square-up-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-up-left-light.svg)
-  static const arrowSquareUpLeft = IconData(0xe07a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowSquareUpLeft = PhosphorFlatIconData(0xe07a, 'Light');
 
   /// ![arrow-square-up-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-square-up-right-light.svg)
-  static const arrowSquareUpRight = IconData(0xe07c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowSquareUpRight = PhosphorFlatIconData(0xe07c, 'Light');
 
   /// ![arrow-u-down-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-u-down-left-light.svg)
-  static const arrowUDownLeft = IconData(0xe07e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowUDownLeft = PhosphorFlatIconData(0xe07e, 'Light');
 
   /// ![arrow-u-down-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-u-down-right-light.svg)
-  static const arrowUDownRight = IconData(0xe080, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowUDownRight = PhosphorFlatIconData(0xe080, 'Light');
 
   /// ![arrow-u-left-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-u-left-down-light.svg)
-  static const arrowULeftDown = IconData(0xe082, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowULeftDown = PhosphorFlatIconData(0xe082, 'Light');
 
   /// ![arrow-u-left-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-u-left-up-light.svg)
-  static const arrowULeftUp = IconData(0xe084, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowULeftUp = PhosphorFlatIconData(0xe084, 'Light');
 
   /// ![arrow-u-right-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-u-right-down-light.svg)
-  static const arrowURightDown = IconData(0xe086, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowURightDown = PhosphorFlatIconData(0xe086, 'Light');
 
   /// ![arrow-u-right-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-u-right-up-light.svg)
-  static const arrowURightUp = IconData(0xe088, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowURightUp = PhosphorFlatIconData(0xe088, 'Light');
 
   /// ![arrow-u-up-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-u-up-left-light.svg)
-  static const arrowUUpLeft = IconData(0xe08a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowUUpLeft = PhosphorFlatIconData(0xe08a, 'Light');
 
   /// ![arrow-u-up-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-u-up-right-light.svg)
-  static const arrowUUpRight = IconData(0xe08c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowUUpRight = PhosphorFlatIconData(0xe08c, 'Light');
 
   /// ![arrow-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-up-light.svg)
-  static const arrowUp = IconData(0xe08e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowUp = PhosphorFlatIconData(0xe08e, 'Light');
 
   /// ![arrow-up-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-up-left-light.svg)
-  static const arrowUpLeft = IconData(0xe090, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowUpLeft = PhosphorFlatIconData(0xe090, 'Light');
 
   /// ![arrow-up-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrow-up-right-light.svg)
-  static const arrowUpRight = IconData(0xe092, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowUpRight = PhosphorFlatIconData(0xe092, 'Light');
 
   /// ![arrows-clockwise-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-clockwise-light.svg)
-  static const arrowsClockwise = IconData(0xe094, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsClockwise = PhosphorFlatIconData(0xe094, 'Light');
 
   /// ![arrows-counter-clockwise-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-counter-clockwise-light.svg)
-  static const arrowsCounterClockwise = IconData(0xe096, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsCounterClockwise = PhosphorFlatIconData(0xe096, 'Light');
 
   /// ![arrows-down-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-down-up-light.svg)
-  static const arrowsDownUp = IconData(0xe098, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsDownUp = PhosphorFlatIconData(0xe098, 'Light');
 
   /// ![arrows-horizontal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-horizontal-light.svg)
-  static const arrowsHorizontal = IconData(0xeb06, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsHorizontal = PhosphorFlatIconData(0xeb06, 'Light');
 
   /// ![arrows-in-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-in-light.svg)
-  static const arrowsIn = IconData(0xe09a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsIn = PhosphorFlatIconData(0xe09a, 'Light');
 
   /// ![arrows-in-cardinal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-in-cardinal-light.svg)
-  static const arrowsInCardinal = IconData(0xe09c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsInCardinal = PhosphorFlatIconData(0xe09c, 'Light');
 
   /// ![arrows-in-line-horizontal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-in-line-horizontal-light.svg)
-  static const arrowsInLineHorizontal = IconData(0xe530, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsInLineHorizontal = PhosphorFlatIconData(0xe530, 'Light');
 
   /// ![arrows-in-line-vertical-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-in-line-vertical-light.svg)
-  static const arrowsInLineVertical = IconData(0xe532, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsInLineVertical = PhosphorFlatIconData(0xe532, 'Light');
 
   /// ![arrows-in-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-in-simple-light.svg)
-  static const arrowsInSimple = IconData(0xe09e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsInSimple = PhosphorFlatIconData(0xe09e, 'Light');
 
   /// ![arrows-left-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-left-right-light.svg)
-  static const arrowsLeftRight = IconData(0xe0a0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsLeftRight = PhosphorFlatIconData(0xe0a0, 'Light');
 
   /// ![arrows-merge-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-merge-light.svg)
-  static const arrowsMerge = IconData(0xed3e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsMerge = PhosphorFlatIconData(0xed3e, 'Light');
 
   /// ![arrows-out-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-out-light.svg)
-  static const arrowsOut = IconData(0xe0a2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsOut = PhosphorFlatIconData(0xe0a2, 'Light');
 
   /// ![arrows-out-cardinal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-out-cardinal-light.svg)
-  static const arrowsOutCardinal = IconData(0xe0a4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsOutCardinal = PhosphorFlatIconData(0xe0a4, 'Light');
 
   /// ![arrows-out-line-horizontal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-out-line-horizontal-light.svg)
-  static const arrowsOutLineHorizontal = IconData(0xe534, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsOutLineHorizontal = PhosphorFlatIconData(0xe534, 'Light');
 
   /// ![arrows-out-line-vertical-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-out-line-vertical-light.svg)
-  static const arrowsOutLineVertical = IconData(0xe536, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsOutLineVertical = PhosphorFlatIconData(0xe536, 'Light');
 
   /// ![arrows-out-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-out-simple-light.svg)
-  static const arrowsOutSimple = IconData(0xe0a6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsOutSimple = PhosphorFlatIconData(0xe0a6, 'Light');
 
   /// ![arrows-split-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-split-light.svg)
-  static const arrowsSplit = IconData(0xed3c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsSplit = PhosphorFlatIconData(0xed3c, 'Light');
 
   /// ![arrows-vertical-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/arrows-vertical-light.svg)
-  static const arrowsVertical = IconData(0xeb04, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const arrowsVertical = PhosphorFlatIconData(0xeb04, 'Light');
 
   /// ![article-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/article-light.svg)
-  static const article = IconData(0xe0a8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const article = PhosphorFlatIconData(0xe0a8, 'Light');
 
   /// ![article-medium-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/article-medium-light.svg)
-  static const articleMedium = IconData(0xe5e0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const articleMedium = PhosphorFlatIconData(0xe5e0, 'Light');
 
   /// ![article-ny-times-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/article-ny-times-light.svg)
-  static const articleNyTimes = IconData(0xe5e2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const articleNyTimes = PhosphorFlatIconData(0xe5e2, 'Light');
 
   /// ![asclepius-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/asclepius-light.svg)
-  static const asclepius = IconData(0xee34, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const asclepius = PhosphorFlatIconData(0xee34, 'Light');
 
   /// ![asterisk-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/asterisk-light.svg)
-  static const asterisk = IconData(0xe0aa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const asterisk = PhosphorFlatIconData(0xe0aa, 'Light');
 
   /// ![asterisk-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/asterisk-simple-light.svg)
-  static const asteriskSimple = IconData(0xe832, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const asteriskSimple = PhosphorFlatIconData(0xe832, 'Light');
 
   /// ![at-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/at-light.svg)
-  static const at = IconData(0xe0ac, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const at = PhosphorFlatIconData(0xe0ac, 'Light');
 
   /// ![atom-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/atom-light.svg)
-  static const atom = IconData(0xe5e4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const atom = PhosphorFlatIconData(0xe5e4, 'Light');
 
   /// ![avocado-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/avocado-light.svg)
-  static const avocado = IconData(0xee04, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const avocado = PhosphorFlatIconData(0xee04, 'Light');
 
   /// ![axe-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/axe-light.svg)
-  static const axe = IconData(0xe9fc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const axe = PhosphorFlatIconData(0xe9fc, 'Light');
 
   /// ![baby-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/baby-light.svg)
-  static const baby = IconData(0xe774, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const baby = PhosphorFlatIconData(0xe774, 'Light');
 
   /// ![baby-carriage-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/baby-carriage-light.svg)
-  static const babyCarriage = IconData(0xe818, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const babyCarriage = PhosphorFlatIconData(0xe818, 'Light');
 
   /// ![backpack-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/backpack-light.svg)
-  static const backpack = IconData(0xe922, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const backpack = PhosphorFlatIconData(0xe922, 'Light');
 
   /// ![backspace-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/backspace-light.svg)
-  static const backspace = IconData(0xe0ae, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const backspace = PhosphorFlatIconData(0xe0ae, 'Light');
 
   /// ![bag-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bag-light.svg)
-  static const bag = IconData(0xe0b0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bag = PhosphorFlatIconData(0xe0b0, 'Light');
 
   /// ![bag-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bag-simple-light.svg)
-  static const bagSimple = IconData(0xe5e6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bagSimple = PhosphorFlatIconData(0xe5e6, 'Light');
 
   /// ![balloon-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/balloon-light.svg)
-  static const balloon = IconData(0xe76c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const balloon = PhosphorFlatIconData(0xe76c, 'Light');
 
   /// ![bandaids-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bandaids-light.svg)
-  static const bandaids = IconData(0xe0b2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bandaids = PhosphorFlatIconData(0xe0b2, 'Light');
 
   /// ![bank-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bank-light.svg)
-  static const bank = IconData(0xe0b4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bank = PhosphorFlatIconData(0xe0b4, 'Light');
 
   /// ![barbell-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/barbell-light.svg)
-  static const barbell = IconData(0xe0b6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const barbell = PhosphorFlatIconData(0xe0b6, 'Light');
 
   /// ![barcode-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/barcode-light.svg)
-  static const barcode = IconData(0xe0b8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const barcode = PhosphorFlatIconData(0xe0b8, 'Light');
 
   /// ![barn-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/barn-light.svg)
-  static const barn = IconData(0xec72, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const barn = PhosphorFlatIconData(0xec72, 'Light');
 
   /// ![barricade-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/barricade-light.svg)
-  static const barricade = IconData(0xe948, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const barricade = PhosphorFlatIconData(0xe948, 'Light');
 
   /// ![baseball-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/baseball-light.svg)
-  static const baseball = IconData(0xe71a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const baseball = PhosphorFlatIconData(0xe71a, 'Light');
 
   /// ![baseball-cap-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/baseball-cap-light.svg)
-  static const baseballCap = IconData(0xea28, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const baseballCap = PhosphorFlatIconData(0xea28, 'Light');
 
   /// ![baseball-helmet-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/baseball-helmet-light.svg)
-  static const baseballHelmet = IconData(0xee4a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const baseballHelmet = PhosphorFlatIconData(0xee4a, 'Light');
 
   /// ![basket-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/basket-light.svg)
-  static const basket = IconData(0xe964, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const basket = PhosphorFlatIconData(0xe964, 'Light');
 
   /// ![basketball-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/basketball-light.svg)
-  static const basketball = IconData(0xe724, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const basketball = PhosphorFlatIconData(0xe724, 'Light');
 
   /// ![bathtub-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bathtub-light.svg)
-  static const bathtub = IconData(0xe81e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bathtub = PhosphorFlatIconData(0xe81e, 'Light');
 
   /// ![battery-charging-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-charging-light.svg)
-  static const batteryCharging = IconData(0xe0ba, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const batteryCharging = PhosphorFlatIconData(0xe0ba, 'Light');
 
   /// ![battery-charging-vertical-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-charging-vertical-light.svg)
-  static const batteryChargingVertical = IconData(0xe0bc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const batteryChargingVertical = PhosphorFlatIconData(0xe0bc, 'Light');
 
   /// ![battery-empty-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-empty-light.svg)
-  static const batteryEmpty = IconData(0xe0be, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const batteryEmpty = PhosphorFlatIconData(0xe0be, 'Light');
 
   /// ![battery-full-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-full-light.svg)
-  static const batteryFull = IconData(0xe0c0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const batteryFull = PhosphorFlatIconData(0xe0c0, 'Light');
 
   /// ![battery-high-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-high-light.svg)
-  static const batteryHigh = IconData(0xe0c2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const batteryHigh = PhosphorFlatIconData(0xe0c2, 'Light');
 
   /// ![battery-low-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-low-light.svg)
-  static const batteryLow = IconData(0xe0c4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const batteryLow = PhosphorFlatIconData(0xe0c4, 'Light');
 
   /// ![battery-medium-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-medium-light.svg)
-  static const batteryMedium = IconData(0xe0c6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const batteryMedium = PhosphorFlatIconData(0xe0c6, 'Light');
 
   /// ![battery-plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-plus-light.svg)
-  static const batteryPlus = IconData(0xe808, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const batteryPlus = PhosphorFlatIconData(0xe808, 'Light');
 
   /// ![battery-plus-vertical-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-plus-vertical-light.svg)
-  static const batteryPlusVertical = IconData(0xec50, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const batteryPlusVertical = PhosphorFlatIconData(0xec50, 'Light');
 
   /// ![battery-vertical-empty-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-vertical-empty-light.svg)
-  static const batteryVerticalEmpty = IconData(0xe7c6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const batteryVerticalEmpty = PhosphorFlatIconData(0xe7c6, 'Light');
 
   /// ![battery-vertical-full-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-vertical-full-light.svg)
-  static const batteryVerticalFull = IconData(0xe7c4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const batteryVerticalFull = PhosphorFlatIconData(0xe7c4, 'Light');
 
   /// ![battery-vertical-high-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-vertical-high-light.svg)
-  static const batteryVerticalHigh = IconData(0xe7c2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const batteryVerticalHigh = PhosphorFlatIconData(0xe7c2, 'Light');
 
   /// ![battery-vertical-low-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-vertical-low-light.svg)
-  static const batteryVerticalLow = IconData(0xe7be, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const batteryVerticalLow = PhosphorFlatIconData(0xe7be, 'Light');
 
   /// ![battery-vertical-medium-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-vertical-medium-light.svg)
-  static const batteryVerticalMedium = IconData(0xe7c0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const batteryVerticalMedium = PhosphorFlatIconData(0xe7c0, 'Light');
 
   /// ![battery-warning-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-warning-light.svg)
-  static const batteryWarning = IconData(0xe0c8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const batteryWarning = PhosphorFlatIconData(0xe0c8, 'Light');
 
   /// ![battery-warning-vertical-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/battery-warning-vertical-light.svg)
-  static const batteryWarningVertical = IconData(0xe0ca, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const batteryWarningVertical = PhosphorFlatIconData(0xe0ca, 'Light');
 
   /// ![beach-ball-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/beach-ball-light.svg)
-  static const beachBall = IconData(0xed24, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const beachBall = PhosphorFlatIconData(0xed24, 'Light');
 
   /// ![beanie-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/beanie-light.svg)
-  static const beanie = IconData(0xea2a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const beanie = PhosphorFlatIconData(0xea2a, 'Light');
 
   /// ![bed-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bed-light.svg)
-  static const bed = IconData(0xe0cc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bed = PhosphorFlatIconData(0xe0cc, 'Light');
 
   /// ![beer-bottle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/beer-bottle-light.svg)
-  static const beerBottle = IconData(0xe7b0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const beerBottle = PhosphorFlatIconData(0xe7b0, 'Light');
 
   /// ![beer-stein-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/beer-stein-light.svg)
-  static const beerStein = IconData(0xeb62, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const beerStein = PhosphorFlatIconData(0xeb62, 'Light');
 
   /// ![behance-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/behance-logo-light.svg)
-  static const behanceLogo = IconData(0xe7f4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const behanceLogo = PhosphorFlatIconData(0xe7f4, 'Light');
 
   /// ![bell-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bell-light.svg)
-  static const bell = IconData(0xe0ce, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bell = PhosphorFlatIconData(0xe0ce, 'Light');
 
   /// ![bell-ringing-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bell-ringing-light.svg)
-  static const bellRinging = IconData(0xe5e8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bellRinging = PhosphorFlatIconData(0xe5e8, 'Light');
 
   /// ![bell-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bell-simple-light.svg)
-  static const bellSimple = IconData(0xe0d0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bellSimple = PhosphorFlatIconData(0xe0d0, 'Light');
 
   /// ![bell-simple-ringing-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bell-simple-ringing-light.svg)
-  static const bellSimpleRinging = IconData(0xe5ea, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bellSimpleRinging = PhosphorFlatIconData(0xe5ea, 'Light');
 
   /// ![bell-simple-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bell-simple-slash-light.svg)
-  static const bellSimpleSlash = IconData(0xe0d2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bellSimpleSlash = PhosphorFlatIconData(0xe0d2, 'Light');
 
   /// ![bell-simple-z-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bell-simple-z-light.svg)
-  static const bellSimpleZ = IconData(0xe5ec, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bellSimpleZ = PhosphorFlatIconData(0xe5ec, 'Light');
 
   /// ![bell-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bell-slash-light.svg)
-  static const bellSlash = IconData(0xe0d4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bellSlash = PhosphorFlatIconData(0xe0d4, 'Light');
 
   /// ![bell-z-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bell-z-light.svg)
-  static const bellZ = IconData(0xe5ee, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bellZ = PhosphorFlatIconData(0xe5ee, 'Light');
 
   /// ![belt-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/belt-light.svg)
-  static const belt = IconData(0xea2c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const belt = PhosphorFlatIconData(0xea2c, 'Light');
 
   /// ![bezier-curve-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bezier-curve-light.svg)
-  static const bezierCurve = IconData(0xeb00, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bezierCurve = PhosphorFlatIconData(0xeb00, 'Light');
 
   /// ![bicycle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bicycle-light.svg)
-  static const bicycle = IconData(0xe0d6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bicycle = PhosphorFlatIconData(0xe0d6, 'Light');
 
   /// ![binary-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/binary-light.svg)
-  static const binary = IconData(0xee60, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const binary = PhosphorFlatIconData(0xee60, 'Light');
 
   /// ![binoculars-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/binoculars-light.svg)
-  static const binoculars = IconData(0xea64, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const binoculars = PhosphorFlatIconData(0xea64, 'Light');
 
   /// ![biohazard-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/biohazard-light.svg)
-  static const biohazard = IconData(0xe9e0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const biohazard = PhosphorFlatIconData(0xe9e0, 'Light');
 
   /// ![bird-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bird-light.svg)
-  static const bird = IconData(0xe72c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bird = PhosphorFlatIconData(0xe72c, 'Light');
 
   /// ![blueprint-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/blueprint-light.svg)
-  static const blueprint = IconData(0xeda0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const blueprint = PhosphorFlatIconData(0xeda0, 'Light');
 
   /// ![bluetooth-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bluetooth-light.svg)
-  static const bluetooth = IconData(0xe0da, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bluetooth = PhosphorFlatIconData(0xe0da, 'Light');
 
   /// ![bluetooth-connected-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bluetooth-connected-light.svg)
-  static const bluetoothConnected = IconData(0xe0dc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bluetoothConnected = PhosphorFlatIconData(0xe0dc, 'Light');
 
   /// ![bluetooth-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bluetooth-slash-light.svg)
-  static const bluetoothSlash = IconData(0xe0de, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bluetoothSlash = PhosphorFlatIconData(0xe0de, 'Light');
 
   /// ![bluetooth-x-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bluetooth-x-light.svg)
-  static const bluetoothX = IconData(0xe0e0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bluetoothX = PhosphorFlatIconData(0xe0e0, 'Light');
 
   /// ![boat-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/boat-light.svg)
-  static const boat = IconData(0xe786, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const boat = PhosphorFlatIconData(0xe786, 'Light');
 
   /// ![bomb-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bomb-light.svg)
-  static const bomb = IconData(0xee0a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bomb = PhosphorFlatIconData(0xee0a, 'Light');
 
   /// ![bone-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bone-light.svg)
-  static const bone = IconData(0xe7f2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bone = PhosphorFlatIconData(0xe7f2, 'Light');
 
   /// ![book-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/book-light.svg)
-  static const book = IconData(0xe0e2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const book = PhosphorFlatIconData(0xe0e2, 'Light');
 
   /// ![book-bookmark-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/book-bookmark-light.svg)
-  static const bookBookmark = IconData(0xe0e4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bookBookmark = PhosphorFlatIconData(0xe0e4, 'Light');
 
   /// ![book-open-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/book-open-light.svg)
-  static const bookOpen = IconData(0xe0e6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bookOpen = PhosphorFlatIconData(0xe0e6, 'Light');
 
   /// ![book-open-text-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/book-open-text-light.svg)
-  static const bookOpenText = IconData(0xe8f2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bookOpenText = PhosphorFlatIconData(0xe8f2, 'Light');
 
   /// ![book-open-user-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/book-open-user-light.svg)
-  static const bookOpenUser = IconData(0xede0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bookOpenUser = PhosphorFlatIconData(0xede0, 'Light');
 
   /// ![bookmark-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bookmark-light.svg)
-  static const bookmark = IconData(0xe0e8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bookmark = PhosphorFlatIconData(0xe0e8, 'Light');
 
   /// ![bookmark-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bookmark-simple-light.svg)
-  static const bookmarkSimple = IconData(0xe0ea, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bookmarkSimple = PhosphorFlatIconData(0xe0ea, 'Light');
 
   /// ![bookmarks-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bookmarks-light.svg)
-  static const bookmarks = IconData(0xe0ec, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bookmarks = PhosphorFlatIconData(0xe0ec, 'Light');
 
   /// ![bookmarks-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bookmarks-simple-light.svg)
-  static const bookmarksSimple = IconData(0xe5f0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bookmarksSimple = PhosphorFlatIconData(0xe5f0, 'Light');
 
   /// ![books-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/books-light.svg)
-  static const books = IconData(0xe758, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const books = PhosphorFlatIconData(0xe758, 'Light');
 
   /// ![boot-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/boot-light.svg)
-  static const boot = IconData(0xecca, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const boot = PhosphorFlatIconData(0xecca, 'Light');
 
   /// ![boules-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/boules-light.svg)
-  static const boules = IconData(0xe722, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const boules = PhosphorFlatIconData(0xe722, 'Light');
 
   /// ![bounding-box-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bounding-box-light.svg)
-  static const boundingBox = IconData(0xe6ce, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const boundingBox = PhosphorFlatIconData(0xe6ce, 'Light');
 
   /// ![bowl-food-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bowl-food-light.svg)
-  static const bowlFood = IconData(0xeaa4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bowlFood = PhosphorFlatIconData(0xeaa4, 'Light');
 
   /// ![bowl-steam-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bowl-steam-light.svg)
-  static const bowlSteam = IconData(0xe8e4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bowlSteam = PhosphorFlatIconData(0xe8e4, 'Light');
 
   /// ![bowling-ball-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bowling-ball-light.svg)
-  static const bowlingBall = IconData(0xea34, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bowlingBall = PhosphorFlatIconData(0xea34, 'Light');
 
   /// ![box-arrow-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/box-arrow-down-light.svg)
-  static const boxArrowDown = IconData(0xe00e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const boxArrowDown = PhosphorFlatIconData(0xe00e, 'Light');
 
   /// ![box-arrow-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/box-arrow-up-light.svg)
-  static const boxArrowUp = IconData(0xee54, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const boxArrowUp = PhosphorFlatIconData(0xee54, 'Light');
 
   /// ![boxing-glove-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/boxing-glove-light.svg)
-  static const boxingGlove = IconData(0xea36, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const boxingGlove = PhosphorFlatIconData(0xea36, 'Light');
 
   /// ![brackets-angle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/brackets-angle-light.svg)
-  static const bracketsAngle = IconData(0xe862, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bracketsAngle = PhosphorFlatIconData(0xe862, 'Light');
 
   /// ![brackets-curly-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/brackets-curly-light.svg)
-  static const bracketsCurly = IconData(0xe860, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bracketsCurly = PhosphorFlatIconData(0xe860, 'Light');
 
   /// ![brackets-round-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/brackets-round-light.svg)
-  static const bracketsRound = IconData(0xe864, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bracketsRound = PhosphorFlatIconData(0xe864, 'Light');
 
   /// ![brackets-square-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/brackets-square-light.svg)
-  static const bracketsSquare = IconData(0xe85e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bracketsSquare = PhosphorFlatIconData(0xe85e, 'Light');
 
   /// ![brain-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/brain-light.svg)
-  static const brain = IconData(0xe74e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const brain = PhosphorFlatIconData(0xe74e, 'Light');
 
   /// ![brandy-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/brandy-light.svg)
-  static const brandy = IconData(0xe6b4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const brandy = PhosphorFlatIconData(0xe6b4, 'Light');
 
   /// ![bread-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bread-light.svg)
-  static const bread = IconData(0xe81c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bread = PhosphorFlatIconData(0xe81c, 'Light');
 
   /// ![bridge-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bridge-light.svg)
-  static const bridge = IconData(0xea68, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bridge = PhosphorFlatIconData(0xea68, 'Light');
 
   /// ![briefcase-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/briefcase-light.svg)
-  static const briefcase = IconData(0xe0ee, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const briefcase = PhosphorFlatIconData(0xe0ee, 'Light');
 
   /// ![briefcase-metal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/briefcase-metal-light.svg)
-  static const briefcaseMetal = IconData(0xe5f2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const briefcaseMetal = PhosphorFlatIconData(0xe5f2, 'Light');
 
   /// ![broadcast-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/broadcast-light.svg)
-  static const broadcast = IconData(0xe0f2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const broadcast = PhosphorFlatIconData(0xe0f2, 'Light');
 
   /// ![broom-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/broom-light.svg)
-  static const broom = IconData(0xec54, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const broom = PhosphorFlatIconData(0xec54, 'Light');
 
   /// ![browser-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/browser-light.svg)
-  static const browser = IconData(0xe0f4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const browser = PhosphorFlatIconData(0xe0f4, 'Light');
 
   /// ![browsers-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/browsers-light.svg)
-  static const browsers = IconData(0xe0f6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const browsers = PhosphorFlatIconData(0xe0f6, 'Light');
 
   /// ![bug-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bug-light.svg)
-  static const bug = IconData(0xe5f4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bug = PhosphorFlatIconData(0xe5f4, 'Light');
 
   /// ![bug-beetle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bug-beetle-light.svg)
-  static const bugBeetle = IconData(0xe5f6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bugBeetle = PhosphorFlatIconData(0xe5f6, 'Light');
 
   /// ![bug-droid-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bug-droid-light.svg)
-  static const bugDroid = IconData(0xe5f8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bugDroid = PhosphorFlatIconData(0xe5f8, 'Light');
 
   /// ![building-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/building-light.svg)
-  static const building = IconData(0xe100, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const building = PhosphorFlatIconData(0xe100, 'Light');
 
   /// ![building-apartment-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/building-apartment-light.svg)
-  static const buildingApartment = IconData(0xe0fe, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const buildingApartment = PhosphorFlatIconData(0xe0fe, 'Light');
 
   /// ![building-office-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/building-office-light.svg)
-  static const buildingOffice = IconData(0xe0ff, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const buildingOffice = PhosphorFlatIconData(0xe0ff, 'Light');
 
   /// ![buildings-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/buildings-light.svg)
-  static const buildings = IconData(0xe102, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const buildings = PhosphorFlatIconData(0xe102, 'Light');
 
   /// ![bulldozer-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bulldozer-light.svg)
-  static const bulldozer = IconData(0xec6c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bulldozer = PhosphorFlatIconData(0xec6c, 'Light');
 
   /// ![bus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/bus-light.svg)
-  static const bus = IconData(0xe106, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const bus = PhosphorFlatIconData(0xe106, 'Light');
 
   /// ![butterfly-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/butterfly-light.svg)
-  static const butterfly = IconData(0xea6e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const butterfly = PhosphorFlatIconData(0xea6e, 'Light');
 
   /// ![cable-car-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cable-car-light.svg)
-  static const cableCar = IconData(0xe49c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cableCar = PhosphorFlatIconData(0xe49c, 'Light');
 
   /// ![cactus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cactus-light.svg)
-  static const cactus = IconData(0xe918, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cactus = PhosphorFlatIconData(0xe918, 'Light');
 
   /// ![cake-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cake-light.svg)
-  static const cake = IconData(0xe780, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cake = PhosphorFlatIconData(0xe780, 'Light');
 
   /// ![calculator-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calculator-light.svg)
-  static const calculator = IconData(0xe538, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const calculator = PhosphorFlatIconData(0xe538, 'Light');
 
   /// ![calendar-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-light.svg)
-  static const calendar = IconData(0xe108, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const calendar = PhosphorFlatIconData(0xe108, 'Light');
 
   /// ![calendar-blank-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-blank-light.svg)
-  static const calendarBlank = IconData(0xe10a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const calendarBlank = PhosphorFlatIconData(0xe10a, 'Light');
 
   /// ![calendar-check-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-check-light.svg)
-  static const calendarCheck = IconData(0xe712, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const calendarCheck = PhosphorFlatIconData(0xe712, 'Light');
 
   /// ![calendar-dot-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-dot-light.svg)
-  static const calendarDot = IconData(0xe7b2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const calendarDot = PhosphorFlatIconData(0xe7b2, 'Light');
 
   /// ![calendar-dots-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-dots-light.svg)
-  static const calendarDots = IconData(0xe7b4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const calendarDots = PhosphorFlatIconData(0xe7b4, 'Light');
 
   /// ![calendar-heart-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-heart-light.svg)
-  static const calendarHeart = IconData(0xe8b0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const calendarHeart = PhosphorFlatIconData(0xe8b0, 'Light');
 
   /// ![calendar-minus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-minus-light.svg)
-  static const calendarMinus = IconData(0xea14, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const calendarMinus = PhosphorFlatIconData(0xea14, 'Light');
 
   /// ![calendar-plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-plus-light.svg)
-  static const calendarPlus = IconData(0xe714, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const calendarPlus = PhosphorFlatIconData(0xe714, 'Light');
 
   /// ![calendar-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-slash-light.svg)
-  static const calendarSlash = IconData(0xea12, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const calendarSlash = PhosphorFlatIconData(0xea12, 'Light');
 
   /// ![calendar-star-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-star-light.svg)
-  static const calendarStar = IconData(0xe8b2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const calendarStar = PhosphorFlatIconData(0xe8b2, 'Light');
 
   /// ![calendar-x-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/calendar-x-light.svg)
-  static const calendarX = IconData(0xe10c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const calendarX = PhosphorFlatIconData(0xe10c, 'Light');
 
   /// ![call-bell-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/call-bell-light.svg)
-  static const callBell = IconData(0xe7de, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const callBell = PhosphorFlatIconData(0xe7de, 'Light');
 
   /// ![camera-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/camera-light.svg)
-  static const camera = IconData(0xe10e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const camera = PhosphorFlatIconData(0xe10e, 'Light');
 
   /// ![camera-plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/camera-plus-light.svg)
-  static const cameraPlus = IconData(0xec58, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cameraPlus = PhosphorFlatIconData(0xec58, 'Light');
 
   /// ![camera-rotate-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/camera-rotate-light.svg)
-  static const cameraRotate = IconData(0xe7a4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cameraRotate = PhosphorFlatIconData(0xe7a4, 'Light');
 
   /// ![camera-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/camera-slash-light.svg)
-  static const cameraSlash = IconData(0xe110, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cameraSlash = PhosphorFlatIconData(0xe110, 'Light');
 
   /// ![campfire-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/campfire-light.svg)
-  static const campfire = IconData(0xe9d8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const campfire = PhosphorFlatIconData(0xe9d8, 'Light');
 
   /// ![car-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/car-light.svg)
-  static const car = IconData(0xe112, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const car = PhosphorFlatIconData(0xe112, 'Light');
 
   /// ![car-battery-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/car-battery-light.svg)
-  static const carBattery = IconData(0xee30, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const carBattery = PhosphorFlatIconData(0xee30, 'Light');
 
   /// ![car-profile-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/car-profile-light.svg)
-  static const carProfile = IconData(0xe8cc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const carProfile = PhosphorFlatIconData(0xe8cc, 'Light');
 
   /// ![car-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/car-simple-light.svg)
-  static const carSimple = IconData(0xe114, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const carSimple = PhosphorFlatIconData(0xe114, 'Light');
 
   /// ![cardholder-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cardholder-light.svg)
-  static const cardholder = IconData(0xe5fa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cardholder = PhosphorFlatIconData(0xe5fa, 'Light');
 
   /// ![cards-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cards-light.svg)
-  static const cards = IconData(0xe0f8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cards = PhosphorFlatIconData(0xe0f8, 'Light');
 
   /// ![cards-three-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cards-three-light.svg)
-  static const cardsThree = IconData(0xee50, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cardsThree = PhosphorFlatIconData(0xee50, 'Light');
 
   /// ![caret-circle-double-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-double-down-light.svg)
-  static const caretCircleDoubleDown = IconData(0xe116, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretCircleDoubleDown = PhosphorFlatIconData(0xe116, 'Light');
 
   /// ![caret-circle-double-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-double-left-light.svg)
-  static const caretCircleDoubleLeft = IconData(0xe118, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretCircleDoubleLeft = PhosphorFlatIconData(0xe118, 'Light');
 
   /// ![caret-circle-double-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-double-right-light.svg)
-  static const caretCircleDoubleRight = IconData(0xe11a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretCircleDoubleRight = PhosphorFlatIconData(0xe11a, 'Light');
 
   /// ![caret-circle-double-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-double-up-light.svg)
-  static const caretCircleDoubleUp = IconData(0xe11c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretCircleDoubleUp = PhosphorFlatIconData(0xe11c, 'Light');
 
   /// ![caret-circle-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-down-light.svg)
-  static const caretCircleDown = IconData(0xe11e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretCircleDown = PhosphorFlatIconData(0xe11e, 'Light');
 
   /// ![caret-circle-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-left-light.svg)
-  static const caretCircleLeft = IconData(0xe120, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretCircleLeft = PhosphorFlatIconData(0xe120, 'Light');
 
   /// ![caret-circle-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-right-light.svg)
-  static const caretCircleRight = IconData(0xe122, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretCircleRight = PhosphorFlatIconData(0xe122, 'Light');
 
   /// ![caret-circle-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-up-light.svg)
-  static const caretCircleUp = IconData(0xe124, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretCircleUp = PhosphorFlatIconData(0xe124, 'Light');
 
   /// ![caret-circle-up-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-circle-up-down-light.svg)
-  static const caretCircleUpDown = IconData(0xe13e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretCircleUpDown = PhosphorFlatIconData(0xe13e, 'Light');
 
   /// ![caret-double-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-double-down-light.svg)
-  static const caretDoubleDown = IconData(0xe126, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretDoubleDown = PhosphorFlatIconData(0xe126, 'Light');
 
   /// ![caret-double-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-double-left-light.svg)
-  static const caretDoubleLeft = IconData(0xe128, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretDoubleLeft = PhosphorFlatIconData(0xe128, 'Light');
 
   /// ![caret-double-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-double-right-light.svg)
-  static const caretDoubleRight = IconData(0xe12a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretDoubleRight = PhosphorFlatIconData(0xe12a, 'Light');
 
   /// ![caret-double-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-double-up-light.svg)
-  static const caretDoubleUp = IconData(0xe12c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretDoubleUp = PhosphorFlatIconData(0xe12c, 'Light');
 
   /// ![caret-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-down-light.svg)
-  static const caretDown = IconData(0xe136, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretDown = PhosphorFlatIconData(0xe136, 'Light');
 
   /// ![caret-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-left-light.svg)
-  static const caretLeft = IconData(0xe138, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretLeft = PhosphorFlatIconData(0xe138, 'Light');
 
   /// ![caret-line-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-line-down-light.svg)
-  static const caretLineDown = IconData(0xe134, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretLineDown = PhosphorFlatIconData(0xe134, 'Light');
 
   /// ![caret-line-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-line-left-light.svg)
-  static const caretLineLeft = IconData(0xe132, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretLineLeft = PhosphorFlatIconData(0xe132, 'Light');
 
   /// ![caret-line-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-line-right-light.svg)
-  static const caretLineRight = IconData(0xe130, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretLineRight = PhosphorFlatIconData(0xe130, 'Light');
 
   /// ![caret-line-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-line-up-light.svg)
-  static const caretLineUp = IconData(0xe12e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretLineUp = PhosphorFlatIconData(0xe12e, 'Light');
 
   /// ![caret-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-right-light.svg)
-  static const caretRight = IconData(0xe13a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretRight = PhosphorFlatIconData(0xe13a, 'Light');
 
   /// ![caret-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-up-light.svg)
-  static const caretUp = IconData(0xe13c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretUp = PhosphorFlatIconData(0xe13c, 'Light');
 
   /// ![caret-up-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/caret-up-down-light.svg)
-  static const caretUpDown = IconData(0xe140, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const caretUpDown = PhosphorFlatIconData(0xe140, 'Light');
 
   /// ![carrot-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/carrot-light.svg)
-  static const carrot = IconData(0xed38, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const carrot = PhosphorFlatIconData(0xed38, 'Light');
 
   /// ![cash-register-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cash-register-light.svg)
-  static const cashRegister = IconData(0xed80, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cashRegister = PhosphorFlatIconData(0xed80, 'Light');
 
   /// ![cassette-tape-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cassette-tape-light.svg)
-  static const cassetteTape = IconData(0xed2e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cassetteTape = PhosphorFlatIconData(0xed2e, 'Light');
 
   /// ![castle-turret-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/castle-turret-light.svg)
-  static const castleTurret = IconData(0xe9d0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const castleTurret = PhosphorFlatIconData(0xe9d0, 'Light');
 
   /// ![cat-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cat-light.svg)
-  static const cat = IconData(0xe748, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cat = PhosphorFlatIconData(0xe748, 'Light');
 
   /// ![cell-signal-full-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cell-signal-full-light.svg)
-  static const cellSignalFull = IconData(0xe142, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cellSignalFull = PhosphorFlatIconData(0xe142, 'Light');
 
   /// ![cell-signal-high-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cell-signal-high-light.svg)
-  static const cellSignalHigh = IconData(0xe144, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cellSignalHigh = PhosphorFlatIconData(0xe144, 'Light');
 
   /// ![cell-signal-low-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cell-signal-low-light.svg)
-  static const cellSignalLow = IconData(0xe146, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cellSignalLow = PhosphorFlatIconData(0xe146, 'Light');
 
   /// ![cell-signal-medium-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cell-signal-medium-light.svg)
-  static const cellSignalMedium = IconData(0xe148, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cellSignalMedium = PhosphorFlatIconData(0xe148, 'Light');
 
   /// ![cell-signal-none-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cell-signal-none-light.svg)
-  static const cellSignalNone = IconData(0xe14a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cellSignalNone = PhosphorFlatIconData(0xe14a, 'Light');
 
   /// ![cell-signal-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cell-signal-slash-light.svg)
-  static const cellSignalSlash = IconData(0xe14c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cellSignalSlash = PhosphorFlatIconData(0xe14c, 'Light');
 
   /// ![cell-signal-x-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cell-signal-x-light.svg)
-  static const cellSignalX = IconData(0xe14e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cellSignalX = PhosphorFlatIconData(0xe14e, 'Light');
 
   /// ![cell-tower-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cell-tower-light.svg)
-  static const cellTower = IconData(0xebaa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cellTower = PhosphorFlatIconData(0xebaa, 'Light');
 
   /// ![certificate-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/certificate-light.svg)
-  static const certificate = IconData(0xe766, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const certificate = PhosphorFlatIconData(0xe766, 'Light');
 
   /// ![chair-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chair-light.svg)
-  static const chair = IconData(0xe950, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chair = PhosphorFlatIconData(0xe950, 'Light');
 
   /// ![chalkboard-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chalkboard-light.svg)
-  static const chalkboard = IconData(0xe5fc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chalkboard = PhosphorFlatIconData(0xe5fc, 'Light');
 
   /// ![chalkboard-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chalkboard-simple-light.svg)
-  static const chalkboardSimple = IconData(0xe5fe, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chalkboardSimple = PhosphorFlatIconData(0xe5fe, 'Light');
 
   /// ![chalkboard-teacher-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chalkboard-teacher-light.svg)
-  static const chalkboardTeacher = IconData(0xe600, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chalkboardTeacher = PhosphorFlatIconData(0xe600, 'Light');
 
   /// ![champagne-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/champagne-light.svg)
-  static const champagne = IconData(0xeaca, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const champagne = PhosphorFlatIconData(0xeaca, 'Light');
 
   /// ![charging-station-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/charging-station-light.svg)
-  static const chargingStation = IconData(0xe8d0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chargingStation = PhosphorFlatIconData(0xe8d0, 'Light');
 
   /// ![chart-bar-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-bar-light.svg)
-  static const chartBar = IconData(0xe150, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chartBar = PhosphorFlatIconData(0xe150, 'Light');
 
   /// ![chart-bar-horizontal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-bar-horizontal-light.svg)
-  static const chartBarHorizontal = IconData(0xe152, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chartBarHorizontal = PhosphorFlatIconData(0xe152, 'Light');
 
   /// ![chart-donut-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-donut-light.svg)
-  static const chartDonut = IconData(0xeaa6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chartDonut = PhosphorFlatIconData(0xeaa6, 'Light');
 
   /// ![chart-line-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-line-light.svg)
-  static const chartLine = IconData(0xe154, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chartLine = PhosphorFlatIconData(0xe154, 'Light');
 
   /// ![chart-line-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-line-down-light.svg)
-  static const chartLineDown = IconData(0xe8b6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chartLineDown = PhosphorFlatIconData(0xe8b6, 'Light');
 
   /// ![chart-line-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-line-up-light.svg)
-  static const chartLineUp = IconData(0xe156, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chartLineUp = PhosphorFlatIconData(0xe156, 'Light');
 
   /// ![chart-pie-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-pie-light.svg)
-  static const chartPie = IconData(0xe158, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chartPie = PhosphorFlatIconData(0xe158, 'Light');
 
   /// ![chart-pie-slice-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-pie-slice-light.svg)
-  static const chartPieSlice = IconData(0xe15a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chartPieSlice = PhosphorFlatIconData(0xe15a, 'Light');
 
   /// ![chart-polar-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-polar-light.svg)
-  static const chartPolar = IconData(0xeaa8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chartPolar = PhosphorFlatIconData(0xeaa8, 'Light');
 
   /// ![chart-scatter-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chart-scatter-light.svg)
-  static const chartScatter = IconData(0xeaac, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chartScatter = PhosphorFlatIconData(0xeaac, 'Light');
 
   /// ![chat-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-light.svg)
-  static const chat = IconData(0xe15c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chat = PhosphorFlatIconData(0xe15c, 'Light');
 
   /// ![chat-centered-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-centered-light.svg)
-  static const chatCentered = IconData(0xe160, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chatCentered = PhosphorFlatIconData(0xe160, 'Light');
 
   /// ![chat-centered-dots-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-centered-dots-light.svg)
-  static const chatCenteredDots = IconData(0xe164, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chatCenteredDots = PhosphorFlatIconData(0xe164, 'Light');
 
   /// ![chat-centered-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-centered-slash-light.svg)
-  static const chatCenteredSlash = IconData(0xe162, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chatCenteredSlash = PhosphorFlatIconData(0xe162, 'Light');
 
   /// ![chat-centered-text-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-centered-text-light.svg)
-  static const chatCenteredText = IconData(0xe166, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chatCenteredText = PhosphorFlatIconData(0xe166, 'Light');
 
   /// ![chat-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-circle-light.svg)
-  static const chatCircle = IconData(0xe168, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chatCircle = PhosphorFlatIconData(0xe168, 'Light');
 
   /// ![chat-circle-dots-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-circle-dots-light.svg)
-  static const chatCircleDots = IconData(0xe16c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chatCircleDots = PhosphorFlatIconData(0xe16c, 'Light');
 
   /// ![chat-circle-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-circle-slash-light.svg)
-  static const chatCircleSlash = IconData(0xe16a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chatCircleSlash = PhosphorFlatIconData(0xe16a, 'Light');
 
   /// ![chat-circle-text-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-circle-text-light.svg)
-  static const chatCircleText = IconData(0xe16e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chatCircleText = PhosphorFlatIconData(0xe16e, 'Light');
 
   /// ![chat-dots-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-dots-light.svg)
-  static const chatDots = IconData(0xe170, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chatDots = PhosphorFlatIconData(0xe170, 'Light');
 
   /// ![chat-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-slash-light.svg)
-  static const chatSlash = IconData(0xe15e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chatSlash = PhosphorFlatIconData(0xe15e, 'Light');
 
   /// ![chat-teardrop-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-teardrop-light.svg)
-  static const chatTeardrop = IconData(0xe172, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chatTeardrop = PhosphorFlatIconData(0xe172, 'Light');
 
   /// ![chat-teardrop-dots-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-teardrop-dots-light.svg)
-  static const chatTeardropDots = IconData(0xe176, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chatTeardropDots = PhosphorFlatIconData(0xe176, 'Light');
 
   /// ![chat-teardrop-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-teardrop-slash-light.svg)
-  static const chatTeardropSlash = IconData(0xe174, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chatTeardropSlash = PhosphorFlatIconData(0xe174, 'Light');
 
   /// ![chat-teardrop-text-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-teardrop-text-light.svg)
-  static const chatTeardropText = IconData(0xe178, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chatTeardropText = PhosphorFlatIconData(0xe178, 'Light');
 
   /// ![chat-text-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chat-text-light.svg)
-  static const chatText = IconData(0xe17a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chatText = PhosphorFlatIconData(0xe17a, 'Light');
 
   /// ![chats-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chats-light.svg)
-  static const chats = IconData(0xe17c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chats = PhosphorFlatIconData(0xe17c, 'Light');
 
   /// ![chats-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chats-circle-light.svg)
-  static const chatsCircle = IconData(0xe17e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chatsCircle = PhosphorFlatIconData(0xe17e, 'Light');
 
   /// ![chats-teardrop-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chats-teardrop-light.svg)
-  static const chatsTeardrop = IconData(0xe180, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chatsTeardrop = PhosphorFlatIconData(0xe180, 'Light');
 
   /// ![check-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/check-light.svg)
-  static const check = IconData(0xe182, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const check = PhosphorFlatIconData(0xe182, 'Light');
 
   /// ![check-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/check-circle-light.svg)
-  static const checkCircle = IconData(0xe184, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const checkCircle = PhosphorFlatIconData(0xe184, 'Light');
 
   /// ![check-fat-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/check-fat-light.svg)
-  static const checkFat = IconData(0xeba6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const checkFat = PhosphorFlatIconData(0xeba6, 'Light');
 
   /// ![check-square-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/check-square-light.svg)
-  static const checkSquare = IconData(0xe186, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const checkSquare = PhosphorFlatIconData(0xe186, 'Light');
 
   /// ![check-square-offset-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/check-square-offset-light.svg)
-  static const checkSquareOffset = IconData(0xe188, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const checkSquareOffset = PhosphorFlatIconData(0xe188, 'Light');
 
   /// ![checkerboard-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/checkerboard-light.svg)
-  static const checkerboard = IconData(0xe8c4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const checkerboard = PhosphorFlatIconData(0xe8c4, 'Light');
 
   /// ![checks-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/checks-light.svg)
-  static const checks = IconData(0xe53a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const checks = PhosphorFlatIconData(0xe53a, 'Light');
 
   /// ![cheers-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cheers-light.svg)
-  static const cheers = IconData(0xea4a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cheers = PhosphorFlatIconData(0xea4a, 'Light');
 
   /// ![cheese-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cheese-light.svg)
-  static const cheese = IconData(0xe9fe, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cheese = PhosphorFlatIconData(0xe9fe, 'Light');
 
   /// ![chef-hat-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/chef-hat-light.svg)
-  static const chefHat = IconData(0xed8e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const chefHat = PhosphorFlatIconData(0xed8e, 'Light');
 
   /// ![cherries-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cherries-light.svg)
-  static const cherries = IconData(0xe830, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cherries = PhosphorFlatIconData(0xe830, 'Light');
 
   /// ![church-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/church-light.svg)
-  static const church = IconData(0xecea, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const church = PhosphorFlatIconData(0xecea, 'Light');
 
   /// ![cigarette-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cigarette-light.svg)
-  static const cigarette = IconData(0xed90, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cigarette = PhosphorFlatIconData(0xed90, 'Light');
 
   /// ![cigarette-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cigarette-slash-light.svg)
-  static const cigaretteSlash = IconData(0xed92, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cigaretteSlash = PhosphorFlatIconData(0xed92, 'Light');
 
   /// ![circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circle-light.svg)
-  static const circle = IconData(0xe18a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const circle = PhosphorFlatIconData(0xe18a, 'Light');
 
   /// ![circle-dashed-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circle-dashed-light.svg)
-  static const circleDashed = IconData(0xe602, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const circleDashed = PhosphorFlatIconData(0xe602, 'Light');
 
   /// ![circle-half-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circle-half-light.svg)
-  static const circleHalf = IconData(0xe18c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const circleHalf = PhosphorFlatIconData(0xe18c, 'Light');
 
   /// ![circle-half-tilt-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circle-half-tilt-light.svg)
-  static const circleHalfTilt = IconData(0xe18e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const circleHalfTilt = PhosphorFlatIconData(0xe18e, 'Light');
 
   /// ![circle-notch-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circle-notch-light.svg)
-  static const circleNotch = IconData(0xeb44, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const circleNotch = PhosphorFlatIconData(0xeb44, 'Light');
 
   /// ![circles-four-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circles-four-light.svg)
-  static const circlesFour = IconData(0xe190, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const circlesFour = PhosphorFlatIconData(0xe190, 'Light');
 
   /// ![circles-three-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circles-three-light.svg)
-  static const circlesThree = IconData(0xe192, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const circlesThree = PhosphorFlatIconData(0xe192, 'Light');
 
   /// ![circles-three-plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circles-three-plus-light.svg)
-  static const circlesThreePlus = IconData(0xe194, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const circlesThreePlus = PhosphorFlatIconData(0xe194, 'Light');
 
   /// ![circuitry-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/circuitry-light.svg)
-  static const circuitry = IconData(0xe9c2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const circuitry = PhosphorFlatIconData(0xe9c2, 'Light');
 
   /// ![city-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/city-light.svg)
-  static const city = IconData(0xea6a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const city = PhosphorFlatIconData(0xea6a, 'Light');
 
   /// ![clipboard-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clipboard-light.svg)
-  static const clipboard = IconData(0xe196, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const clipboard = PhosphorFlatIconData(0xe196, 'Light');
 
   /// ![clipboard-text-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clipboard-text-light.svg)
-  static const clipboardText = IconData(0xe198, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const clipboardText = PhosphorFlatIconData(0xe198, 'Light');
 
   /// ![clock-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clock-light.svg)
-  static const clock = IconData(0xe19a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const clock = PhosphorFlatIconData(0xe19a, 'Light');
 
   /// ![clock-afternoon-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clock-afternoon-light.svg)
-  static const clockAfternoon = IconData(0xe19c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const clockAfternoon = PhosphorFlatIconData(0xe19c, 'Light');
 
   /// ![clock-clockwise-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clock-clockwise-light.svg)
-  static const clockClockwise = IconData(0xe19e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const clockClockwise = PhosphorFlatIconData(0xe19e, 'Light');
 
   /// ![clock-countdown-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clock-countdown-light.svg)
-  static const clockCountdown = IconData(0xed2c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const clockCountdown = PhosphorFlatIconData(0xed2c, 'Light');
 
   /// ![clock-counter-clockwise-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clock-counter-clockwise-light.svg)
-  static const clockCounterClockwise = IconData(0xe1a0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const clockCounterClockwise = PhosphorFlatIconData(0xe1a0, 'Light');
 
   /// ![clock-user-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clock-user-light.svg)
-  static const clockUser = IconData(0xedec, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const clockUser = PhosphorFlatIconData(0xedec, 'Light');
 
   /// ![closed-captioning-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/closed-captioning-light.svg)
-  static const closedCaptioning = IconData(0xe1a4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const closedCaptioning = PhosphorFlatIconData(0xe1a4, 'Light');
 
   /// ![cloud-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-light.svg)
-  static const cloud = IconData(0xe1aa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cloud = PhosphorFlatIconData(0xe1aa, 'Light');
 
   /// ![cloud-arrow-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-arrow-down-light.svg)
-  static const cloudArrowDown = IconData(0xe1ac, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cloudArrowDown = PhosphorFlatIconData(0xe1ac, 'Light');
 
   /// ![cloud-arrow-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-arrow-up-light.svg)
-  static const cloudArrowUp = IconData(0xe1ae, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cloudArrowUp = PhosphorFlatIconData(0xe1ae, 'Light');
 
   /// ![cloud-check-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-check-light.svg)
-  static const cloudCheck = IconData(0xe1b0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cloudCheck = PhosphorFlatIconData(0xe1b0, 'Light');
 
   /// ![cloud-fog-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-fog-light.svg)
-  static const cloudFog = IconData(0xe53c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cloudFog = PhosphorFlatIconData(0xe53c, 'Light');
 
   /// ![cloud-lightning-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-lightning-light.svg)
-  static const cloudLightning = IconData(0xe1b2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cloudLightning = PhosphorFlatIconData(0xe1b2, 'Light');
 
   /// ![cloud-moon-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-moon-light.svg)
-  static const cloudMoon = IconData(0xe53e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cloudMoon = PhosphorFlatIconData(0xe53e, 'Light');
 
   /// ![cloud-rain-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-rain-light.svg)
-  static const cloudRain = IconData(0xe1b4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cloudRain = PhosphorFlatIconData(0xe1b4, 'Light');
 
   /// ![cloud-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-slash-light.svg)
-  static const cloudSlash = IconData(0xe1b6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cloudSlash = PhosphorFlatIconData(0xe1b6, 'Light');
 
   /// ![cloud-snow-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-snow-light.svg)
-  static const cloudSnow = IconData(0xe1b8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cloudSnow = PhosphorFlatIconData(0xe1b8, 'Light');
 
   /// ![cloud-sun-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-sun-light.svg)
-  static const cloudSun = IconData(0xe540, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cloudSun = PhosphorFlatIconData(0xe540, 'Light');
 
   /// ![cloud-warning-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-warning-light.svg)
-  static const cloudWarning = IconData(0xea98, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cloudWarning = PhosphorFlatIconData(0xea98, 'Light');
 
   /// ![cloud-x-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cloud-x-light.svg)
-  static const cloudX = IconData(0xea96, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cloudX = PhosphorFlatIconData(0xea96, 'Light');
 
   /// ![clover-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/clover-light.svg)
-  static const clover = IconData(0xedc8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const clover = PhosphorFlatIconData(0xedc8, 'Light');
 
   /// ![club-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/club-light.svg)
-  static const club = IconData(0xe1ba, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const club = PhosphorFlatIconData(0xe1ba, 'Light');
 
   /// ![coat-hanger-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/coat-hanger-light.svg)
-  static const coatHanger = IconData(0xe7fe, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const coatHanger = PhosphorFlatIconData(0xe7fe, 'Light');
 
   /// ![coda-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/coda-logo-light.svg)
-  static const codaLogo = IconData(0xe7ce, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const codaLogo = PhosphorFlatIconData(0xe7ce, 'Light');
 
   /// ![code-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/code-light.svg)
-  static const code = IconData(0xe1bc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const code = PhosphorFlatIconData(0xe1bc, 'Light');
 
   /// ![code-block-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/code-block-light.svg)
-  static const codeBlock = IconData(0xeafe, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const codeBlock = PhosphorFlatIconData(0xeafe, 'Light');
 
   /// ![code-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/code-simple-light.svg)
-  static const codeSimple = IconData(0xe1be, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const codeSimple = PhosphorFlatIconData(0xe1be, 'Light');
 
   /// ![codepen-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/codepen-logo-light.svg)
-  static const codepenLogo = IconData(0xe978, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const codepenLogo = PhosphorFlatIconData(0xe978, 'Light');
 
   /// ![codesandbox-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/codesandbox-logo-light.svg)
-  static const codesandboxLogo = IconData(0xea06, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const codesandboxLogo = PhosphorFlatIconData(0xea06, 'Light');
 
   /// ![coffee-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/coffee-light.svg)
-  static const coffee = IconData(0xe1c2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const coffee = PhosphorFlatIconData(0xe1c2, 'Light');
 
   /// ![coffee-bean-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/coffee-bean-light.svg)
-  static const coffeeBean = IconData(0xe1c0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const coffeeBean = PhosphorFlatIconData(0xe1c0, 'Light');
 
   /// ![coin-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/coin-light.svg)
-  static const coin = IconData(0xe60e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const coin = PhosphorFlatIconData(0xe60e, 'Light');
 
   /// ![coin-vertical-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/coin-vertical-light.svg)
-  static const coinVertical = IconData(0xeb48, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const coinVertical = PhosphorFlatIconData(0xeb48, 'Light');
 
   /// ![coins-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/coins-light.svg)
-  static const coins = IconData(0xe78e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const coins = PhosphorFlatIconData(0xe78e, 'Light');
 
   /// ![columns-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/columns-light.svg)
-  static const columns = IconData(0xe546, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const columns = PhosphorFlatIconData(0xe546, 'Light');
 
   /// ![columns-plus-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/columns-plus-left-light.svg)
-  static const columnsPlusLeft = IconData(0xe544, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const columnsPlusLeft = PhosphorFlatIconData(0xe544, 'Light');
 
   /// ![columns-plus-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/columns-plus-right-light.svg)
-  static const columnsPlusRight = IconData(0xe542, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const columnsPlusRight = PhosphorFlatIconData(0xe542, 'Light');
 
   /// ![command-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/command-light.svg)
-  static const command = IconData(0xe1c4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const command = PhosphorFlatIconData(0xe1c4, 'Light');
 
   /// ![compass-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/compass-light.svg)
-  static const compass = IconData(0xe1c8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const compass = PhosphorFlatIconData(0xe1c8, 'Light');
 
   /// ![compass-rose-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/compass-rose-light.svg)
-  static const compassRose = IconData(0xe1c6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const compassRose = PhosphorFlatIconData(0xe1c6, 'Light');
 
   /// ![compass-tool-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/compass-tool-light.svg)
-  static const compassTool = IconData(0xea0e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const compassTool = PhosphorFlatIconData(0xea0e, 'Light');
 
   /// ![computer-tower-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/computer-tower-light.svg)
-  static const computerTower = IconData(0xe548, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const computerTower = PhosphorFlatIconData(0xe548, 'Light');
 
   /// ![confetti-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/confetti-light.svg)
-  static const confetti = IconData(0xe81a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const confetti = PhosphorFlatIconData(0xe81a, 'Light');
 
   /// ![contactless-payment-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/contactless-payment-light.svg)
-  static const contactlessPayment = IconData(0xed42, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const contactlessPayment = PhosphorFlatIconData(0xed42, 'Light');
 
   /// ![control-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/control-light.svg)
-  static const control = IconData(0xeca6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const control = PhosphorFlatIconData(0xeca6, 'Light');
 
   /// ![cookie-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cookie-light.svg)
-  static const cookie = IconData(0xe6ca, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cookie = PhosphorFlatIconData(0xe6ca, 'Light');
 
   /// ![cooking-pot-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cooking-pot-light.svg)
-  static const cookingPot = IconData(0xe764, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cookingPot = PhosphorFlatIconData(0xe764, 'Light');
 
   /// ![copy-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/copy-light.svg)
-  static const copy = IconData(0xe1ca, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const copy = PhosphorFlatIconData(0xe1ca, 'Light');
 
   /// ![copy-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/copy-simple-light.svg)
-  static const copySimple = IconData(0xe1cc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const copySimple = PhosphorFlatIconData(0xe1cc, 'Light');
 
   /// ![copyleft-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/copyleft-light.svg)
-  static const copyleft = IconData(0xe86a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const copyleft = PhosphorFlatIconData(0xe86a, 'Light');
 
   /// ![copyright-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/copyright-light.svg)
-  static const copyright = IconData(0xe54a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const copyright = PhosphorFlatIconData(0xe54a, 'Light');
 
   /// ![corners-in-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/corners-in-light.svg)
-  static const cornersIn = IconData(0xe1ce, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cornersIn = PhosphorFlatIconData(0xe1ce, 'Light');
 
   /// ![corners-out-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/corners-out-light.svg)
-  static const cornersOut = IconData(0xe1d0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cornersOut = PhosphorFlatIconData(0xe1d0, 'Light');
 
   /// ![couch-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/couch-light.svg)
-  static const couch = IconData(0xe7f6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const couch = PhosphorFlatIconData(0xe7f6, 'Light');
 
   /// ![court-basketball-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/court-basketball-light.svg)
-  static const courtBasketball = IconData(0xee36, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const courtBasketball = PhosphorFlatIconData(0xee36, 'Light');
 
   /// ![cow-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cow-light.svg)
-  static const cow = IconData(0xeabe, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cow = PhosphorFlatIconData(0xeabe, 'Light');
 
   /// ![cowboy-hat-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cowboy-hat-light.svg)
-  static const cowboyHat = IconData(0xed12, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cowboyHat = PhosphorFlatIconData(0xed12, 'Light');
 
   /// ![cpu-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cpu-light.svg)
-  static const cpu = IconData(0xe610, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cpu = PhosphorFlatIconData(0xe610, 'Light');
 
   /// ![crane-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/crane-light.svg)
-  static const crane = IconData(0xed48, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const crane = PhosphorFlatIconData(0xed48, 'Light');
 
   /// ![crane-tower-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/crane-tower-light.svg)
-  static const craneTower = IconData(0xed49, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const craneTower = PhosphorFlatIconData(0xed49, 'Light');
 
   /// ![credit-card-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/credit-card-light.svg)
-  static const creditCard = IconData(0xe1d2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const creditCard = PhosphorFlatIconData(0xe1d2, 'Light');
 
   /// ![cricket-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cricket-light.svg)
-  static const cricket = IconData(0xee12, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cricket = PhosphorFlatIconData(0xee12, 'Light');
 
   /// ![crop-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/crop-light.svg)
-  static const crop = IconData(0xe1d4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const crop = PhosphorFlatIconData(0xe1d4, 'Light');
 
   /// ![cross-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cross-light.svg)
-  static const cross = IconData(0xe8a0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cross = PhosphorFlatIconData(0xe8a0, 'Light');
 
   /// ![crosshair-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/crosshair-light.svg)
-  static const crosshair = IconData(0xe1d6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const crosshair = PhosphorFlatIconData(0xe1d6, 'Light');
 
   /// ![crosshair-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/crosshair-simple-light.svg)
-  static const crosshairSimple = IconData(0xe1d8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const crosshairSimple = PhosphorFlatIconData(0xe1d8, 'Light');
 
   /// ![crown-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/crown-light.svg)
-  static const crown = IconData(0xe614, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const crown = PhosphorFlatIconData(0xe614, 'Light');
 
   /// ![crown-cross-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/crown-cross-light.svg)
-  static const crownCross = IconData(0xee5e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const crownCross = PhosphorFlatIconData(0xee5e, 'Light');
 
   /// ![crown-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/crown-simple-light.svg)
-  static const crownSimple = IconData(0xe616, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const crownSimple = PhosphorFlatIconData(0xe616, 'Light');
 
   /// ![cube-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cube-light.svg)
-  static const cube = IconData(0xe1da, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cube = PhosphorFlatIconData(0xe1da, 'Light');
 
   /// ![cube-focus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cube-focus-light.svg)
-  static const cubeFocus = IconData(0xed0a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cubeFocus = PhosphorFlatIconData(0xed0a, 'Light');
 
   /// ![cube-transparent-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cube-transparent-light.svg)
-  static const cubeTransparent = IconData(0xec7c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cubeTransparent = PhosphorFlatIconData(0xec7c, 'Light');
 
   /// ![currency-btc-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-btc-light.svg)
-  static const currencyBtc = IconData(0xe618, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const currencyBtc = PhosphorFlatIconData(0xe618, 'Light');
 
   /// ![currency-circle-dollar-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-circle-dollar-light.svg)
-  static const currencyCircleDollar = IconData(0xe54c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const currencyCircleDollar = PhosphorFlatIconData(0xe54c, 'Light');
 
   /// ![currency-cny-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-cny-light.svg)
-  static const currencyCny = IconData(0xe54e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const currencyCny = PhosphorFlatIconData(0xe54e, 'Light');
 
   /// ![currency-dollar-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-dollar-light.svg)
-  static const currencyDollar = IconData(0xe550, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const currencyDollar = PhosphorFlatIconData(0xe550, 'Light');
 
   /// ![currency-dollar-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-dollar-simple-light.svg)
-  static const currencyDollarSimple = IconData(0xe552, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const currencyDollarSimple = PhosphorFlatIconData(0xe552, 'Light');
 
   /// ![currency-eth-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-eth-light.svg)
-  static const currencyEth = IconData(0xeada, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const currencyEth = PhosphorFlatIconData(0xeada, 'Light');
 
   /// ![currency-eur-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-eur-light.svg)
-  static const currencyEur = IconData(0xe554, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const currencyEur = PhosphorFlatIconData(0xe554, 'Light');
 
   /// ![currency-gbp-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-gbp-light.svg)
-  static const currencyGbp = IconData(0xe556, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const currencyGbp = PhosphorFlatIconData(0xe556, 'Light');
 
   /// ![currency-inr-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-inr-light.svg)
-  static const currencyInr = IconData(0xe558, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const currencyInr = PhosphorFlatIconData(0xe558, 'Light');
 
   /// ![currency-jpy-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-jpy-light.svg)
-  static const currencyJpy = IconData(0xe55a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const currencyJpy = PhosphorFlatIconData(0xe55a, 'Light');
 
   /// ![currency-krw-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-krw-light.svg)
-  static const currencyKrw = IconData(0xe55c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const currencyKrw = PhosphorFlatIconData(0xe55c, 'Light');
 
   /// ![currency-kzt-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-kzt-light.svg)
-  static const currencyKzt = IconData(0xec4c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const currencyKzt = PhosphorFlatIconData(0xec4c, 'Light');
 
   /// ![currency-ngn-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-ngn-light.svg)
-  static const currencyNgn = IconData(0xeb52, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const currencyNgn = PhosphorFlatIconData(0xeb52, 'Light');
 
   /// ![currency-rub-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/currency-rub-light.svg)
-  static const currencyRub = IconData(0xe55e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const currencyRub = PhosphorFlatIconData(0xe55e, 'Light');
 
   /// ![cursor-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cursor-light.svg)
-  static const cursor = IconData(0xe1dc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cursor = PhosphorFlatIconData(0xe1dc, 'Light');
 
   /// ![cursor-click-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cursor-click-light.svg)
-  static const cursorClick = IconData(0xe7c8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cursorClick = PhosphorFlatIconData(0xe7c8, 'Light');
 
   /// ![cursor-text-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cursor-text-light.svg)
-  static const cursorText = IconData(0xe7d8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cursorText = PhosphorFlatIconData(0xe7d8, 'Light');
 
   /// ![cylinder-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/cylinder-light.svg)
-  static const cylinder = IconData(0xe8fc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const cylinder = PhosphorFlatIconData(0xe8fc, 'Light');
 
   /// ![database-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/database-light.svg)
-  static const database = IconData(0xe1de, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const database = PhosphorFlatIconData(0xe1de, 'Light');
 
   /// ![desk-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/desk-light.svg)
-  static const desk = IconData(0xed16, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const desk = PhosphorFlatIconData(0xed16, 'Light');
 
   /// ![desktop-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/desktop-light.svg)
-  static const desktop = IconData(0xe560, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const desktop = PhosphorFlatIconData(0xe560, 'Light');
 
   /// ![desktop-tower-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/desktop-tower-light.svg)
-  static const desktopTower = IconData(0xe562, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const desktopTower = PhosphorFlatIconData(0xe562, 'Light');
 
   /// ![detective-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/detective-light.svg)
-  static const detective = IconData(0xe83e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const detective = PhosphorFlatIconData(0xe83e, 'Light');
 
   /// ![dev-to-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dev-to-logo-light.svg)
-  static const devToLogo = IconData(0xed0e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const devToLogo = PhosphorFlatIconData(0xed0e, 'Light');
 
   /// ![device-mobile-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/device-mobile-light.svg)
-  static const deviceMobile = IconData(0xe1e0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const deviceMobile = PhosphorFlatIconData(0xe1e0, 'Light');
 
   /// ![device-mobile-camera-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/device-mobile-camera-light.svg)
-  static const deviceMobileCamera = IconData(0xe1e2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const deviceMobileCamera = PhosphorFlatIconData(0xe1e2, 'Light');
 
   /// ![device-mobile-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/device-mobile-slash-light.svg)
-  static const deviceMobileSlash = IconData(0xee46, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const deviceMobileSlash = PhosphorFlatIconData(0xee46, 'Light');
 
   /// ![device-mobile-speaker-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/device-mobile-speaker-light.svg)
-  static const deviceMobileSpeaker = IconData(0xe1e4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const deviceMobileSpeaker = PhosphorFlatIconData(0xe1e4, 'Light');
 
   /// ![device-rotate-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/device-rotate-light.svg)
-  static const deviceRotate = IconData(0xedf2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const deviceRotate = PhosphorFlatIconData(0xedf2, 'Light');
 
   /// ![device-tablet-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/device-tablet-light.svg)
-  static const deviceTablet = IconData(0xe1e6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const deviceTablet = PhosphorFlatIconData(0xe1e6, 'Light');
 
   /// ![device-tablet-camera-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/device-tablet-camera-light.svg)
-  static const deviceTabletCamera = IconData(0xe1e8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const deviceTabletCamera = PhosphorFlatIconData(0xe1e8, 'Light');
 
   /// ![device-tablet-speaker-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/device-tablet-speaker-light.svg)
-  static const deviceTabletSpeaker = IconData(0xe1ea, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const deviceTabletSpeaker = PhosphorFlatIconData(0xe1ea, 'Light');
 
   /// ![devices-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/devices-light.svg)
-  static const devices = IconData(0xeba4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const devices = PhosphorFlatIconData(0xeba4, 'Light');
 
   /// ![diamond-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/diamond-light.svg)
-  static const diamond = IconData(0xe1ec, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const diamond = PhosphorFlatIconData(0xe1ec, 'Light');
 
   /// ![diamonds-four-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/diamonds-four-light.svg)
-  static const diamondsFour = IconData(0xe8f4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const diamondsFour = PhosphorFlatIconData(0xe8f4, 'Light');
 
   /// ![dice-five-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dice-five-light.svg)
-  static const diceFive = IconData(0xe1ee, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const diceFive = PhosphorFlatIconData(0xe1ee, 'Light');
 
   /// ![dice-four-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dice-four-light.svg)
-  static const diceFour = IconData(0xe1f0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const diceFour = PhosphorFlatIconData(0xe1f0, 'Light');
 
   /// ![dice-one-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dice-one-light.svg)
-  static const diceOne = IconData(0xe1f2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const diceOne = PhosphorFlatIconData(0xe1f2, 'Light');
 
   /// ![dice-six-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dice-six-light.svg)
-  static const diceSix = IconData(0xe1f4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const diceSix = PhosphorFlatIconData(0xe1f4, 'Light');
 
   /// ![dice-three-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dice-three-light.svg)
-  static const diceThree = IconData(0xe1f6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const diceThree = PhosphorFlatIconData(0xe1f6, 'Light');
 
   /// ![dice-two-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dice-two-light.svg)
-  static const diceTwo = IconData(0xe1f8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const diceTwo = PhosphorFlatIconData(0xe1f8, 'Light');
 
   /// ![disc-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/disc-light.svg)
-  static const disc = IconData(0xe564, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const disc = PhosphorFlatIconData(0xe564, 'Light');
 
   /// ![disco-ball-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/disco-ball-light.svg)
-  static const discoBall = IconData(0xed98, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const discoBall = PhosphorFlatIconData(0xed98, 'Light');
 
   /// ![discord-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/discord-logo-light.svg)
-  static const discordLogo = IconData(0xe61a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const discordLogo = PhosphorFlatIconData(0xe61a, 'Light');
 
   /// ![divide-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/divide-light.svg)
-  static const divide = IconData(0xe1fa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const divide = PhosphorFlatIconData(0xe1fa, 'Light');
 
   /// ![dna-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dna-light.svg)
-  static const dna = IconData(0xe924, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dna = PhosphorFlatIconData(0xe924, 'Light');
 
   /// ![dog-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dog-light.svg)
-  static const dog = IconData(0xe74a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dog = PhosphorFlatIconData(0xe74a, 'Light');
 
   /// ![door-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/door-light.svg)
-  static const door = IconData(0xe61c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const door = PhosphorFlatIconData(0xe61c, 'Light');
 
   /// ![door-open-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/door-open-light.svg)
-  static const doorOpen = IconData(0xe7e6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const doorOpen = PhosphorFlatIconData(0xe7e6, 'Light');
 
   /// ![dot-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dot-light.svg)
-  static const dot = IconData(0xecde, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dot = PhosphorFlatIconData(0xecde, 'Light');
 
   /// ![dot-outline-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dot-outline-light.svg)
-  static const dotOutline = IconData(0xece0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dotOutline = PhosphorFlatIconData(0xece0, 'Light');
 
   /// ![dots-nine-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-nine-light.svg)
-  static const dotsNine = IconData(0xe1fc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dotsNine = PhosphorFlatIconData(0xe1fc, 'Light');
 
   /// ![dots-six-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-six-light.svg)
-  static const dotsSix = IconData(0xe794, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dotsSix = PhosphorFlatIconData(0xe794, 'Light');
 
   /// ![dots-six-vertical-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-six-vertical-light.svg)
-  static const dotsSixVertical = IconData(0xeae2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dotsSixVertical = PhosphorFlatIconData(0xeae2, 'Light');
 
   /// ![dots-three-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-three-light.svg)
-  static const dotsThree = IconData(0xe1fe, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dotsThree = PhosphorFlatIconData(0xe1fe, 'Light');
 
   /// ![dots-three-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-three-circle-light.svg)
-  static const dotsThreeCircle = IconData(0xe200, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dotsThreeCircle = PhosphorFlatIconData(0xe200, 'Light');
 
   /// ![dots-three-circle-vertical-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-three-circle-vertical-light.svg)
-  static const dotsThreeCircleVertical = IconData(0xe202, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dotsThreeCircleVertical = PhosphorFlatIconData(0xe202, 'Light');
 
   /// ![dots-three-outline-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-three-outline-light.svg)
-  static const dotsThreeOutline = IconData(0xe204, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dotsThreeOutline = PhosphorFlatIconData(0xe204, 'Light');
 
   /// ![dots-three-outline-vertical-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-three-outline-vertical-light.svg)
-  static const dotsThreeOutlineVertical = IconData(0xe206, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dotsThreeOutlineVertical = PhosphorFlatIconData(0xe206, 'Light');
 
   /// ![dots-three-vertical-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dots-three-vertical-light.svg)
-  static const dotsThreeVertical = IconData(0xe208, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dotsThreeVertical = PhosphorFlatIconData(0xe208, 'Light');
 
   /// ![download-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/download-light.svg)
-  static const download = IconData(0xe20a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const download = PhosphorFlatIconData(0xe20a, 'Light');
 
   /// ![download-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/download-simple-light.svg)
-  static const downloadSimple = IconData(0xe20c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const downloadSimple = PhosphorFlatIconData(0xe20c, 'Light');
 
   /// ![dress-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dress-light.svg)
-  static const dress = IconData(0xea7e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dress = PhosphorFlatIconData(0xea7e, 'Light');
 
   /// ![dresser-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dresser-light.svg)
-  static const dresser = IconData(0xe94e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dresser = PhosphorFlatIconData(0xe94e, 'Light');
 
   /// ![dribbble-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dribbble-logo-light.svg)
-  static const dribbbleLogo = IconData(0xe20e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dribbbleLogo = PhosphorFlatIconData(0xe20e, 'Light');
 
   /// ![drone-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/drone-light.svg)
-  static const drone = IconData(0xed74, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const drone = PhosphorFlatIconData(0xed74, 'Light');
 
   /// ![drop-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/drop-light.svg)
-  static const drop = IconData(0xe210, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const drop = PhosphorFlatIconData(0xe210, 'Light');
 
   /// ![drop-half-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/drop-half-light.svg)
-  static const dropHalf = IconData(0xe566, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dropHalf = PhosphorFlatIconData(0xe566, 'Light');
 
   /// ![drop-half-bottom-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/drop-half-bottom-light.svg)
-  static const dropHalfBottom = IconData(0xeb40, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dropHalfBottom = PhosphorFlatIconData(0xeb40, 'Light');
 
   /// ![drop-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/drop-simple-light.svg)
-  static const dropSimple = IconData(0xee32, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dropSimple = PhosphorFlatIconData(0xee32, 'Light');
 
   /// ![drop-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/drop-slash-light.svg)
-  static const dropSlash = IconData(0xe954, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dropSlash = PhosphorFlatIconData(0xe954, 'Light');
 
   /// ![dropbox-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/dropbox-logo-light.svg)
-  static const dropboxLogo = IconData(0xe7d0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const dropboxLogo = PhosphorFlatIconData(0xe7d0, 'Light');
 
   /// ![ear-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ear-light.svg)
-  static const ear = IconData(0xe70c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const ear = PhosphorFlatIconData(0xe70c, 'Light');
 
   /// ![ear-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ear-slash-light.svg)
-  static const earSlash = IconData(0xe70e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const earSlash = PhosphorFlatIconData(0xe70e, 'Light');
 
   /// ![egg-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/egg-light.svg)
-  static const egg = IconData(0xe812, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const egg = PhosphorFlatIconData(0xe812, 'Light');
 
   /// ![egg-crack-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/egg-crack-light.svg)
-  static const eggCrack = IconData(0xeb64, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const eggCrack = PhosphorFlatIconData(0xeb64, 'Light');
 
   /// ![eject-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eject-light.svg)
-  static const eject = IconData(0xe212, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const eject = PhosphorFlatIconData(0xe212, 'Light');
 
   /// ![eject-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eject-simple-light.svg)
-  static const ejectSimple = IconData(0xe6ae, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const ejectSimple = PhosphorFlatIconData(0xe6ae, 'Light');
 
   /// ![elevator-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/elevator-light.svg)
-  static const elevator = IconData(0xecc0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const elevator = PhosphorFlatIconData(0xecc0, 'Light');
 
   /// ![empty-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/empty-light.svg)
-  static const empty = IconData(0xedbc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const empty = PhosphorFlatIconData(0xedbc, 'Light');
 
   /// ![engine-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/engine-light.svg)
-  static const engine = IconData(0xea80, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const engine = PhosphorFlatIconData(0xea80, 'Light');
 
   /// ![envelope-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/envelope-light.svg)
-  static const envelope = IconData(0xe214, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const envelope = PhosphorFlatIconData(0xe214, 'Light');
 
   /// ![envelope-open-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/envelope-open-light.svg)
-  static const envelopeOpen = IconData(0xe216, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const envelopeOpen = PhosphorFlatIconData(0xe216, 'Light');
 
   /// ![envelope-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/envelope-simple-light.svg)
-  static const envelopeSimple = IconData(0xe218, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const envelopeSimple = PhosphorFlatIconData(0xe218, 'Light');
 
   /// ![envelope-simple-open-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/envelope-simple-open-light.svg)
-  static const envelopeSimpleOpen = IconData(0xe21a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const envelopeSimpleOpen = PhosphorFlatIconData(0xe21a, 'Light');
 
   /// ![equalizer-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/equalizer-light.svg)
-  static const equalizer = IconData(0xebbc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const equalizer = PhosphorFlatIconData(0xebbc, 'Light');
 
   /// ![equals-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/equals-light.svg)
-  static const equals = IconData(0xe21c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const equals = PhosphorFlatIconData(0xe21c, 'Light');
 
   /// ![eraser-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eraser-light.svg)
-  static const eraser = IconData(0xe21e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const eraser = PhosphorFlatIconData(0xe21e, 'Light');
 
   /// ![escalator-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/escalator-down-light.svg)
-  static const escalatorDown = IconData(0xecba, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const escalatorDown = PhosphorFlatIconData(0xecba, 'Light');
 
   /// ![escalator-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/escalator-up-light.svg)
-  static const escalatorUp = IconData(0xecbc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const escalatorUp = PhosphorFlatIconData(0xecbc, 'Light');
 
   /// ![exam-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/exam-light.svg)
-  static const exam = IconData(0xe742, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const exam = PhosphorFlatIconData(0xe742, 'Light');
 
   /// ![exclamation-mark-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/exclamation-mark-light.svg)
-  static const exclamationMark = IconData(0xee44, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const exclamationMark = PhosphorFlatIconData(0xee44, 'Light');
 
   /// ![exclude-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/exclude-light.svg)
-  static const exclude = IconData(0xe882, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const exclude = PhosphorFlatIconData(0xe882, 'Light');
 
   /// ![exclude-square-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/exclude-square-light.svg)
-  static const excludeSquare = IconData(0xe880, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const excludeSquare = PhosphorFlatIconData(0xe880, 'Light');
 
   /// ![export-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/export-light.svg)
-  static const export = IconData(0xeaf0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const export = PhosphorFlatIconData(0xeaf0, 'Light');
 
   /// ![eye-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eye-light.svg)
-  static const eye = IconData(0xe220, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const eye = PhosphorFlatIconData(0xe220, 'Light');
 
   /// ![eye-closed-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eye-closed-light.svg)
-  static const eyeClosed = IconData(0xe222, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const eyeClosed = PhosphorFlatIconData(0xe222, 'Light');
 
   /// ![eye-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eye-slash-light.svg)
-  static const eyeSlash = IconData(0xe224, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const eyeSlash = PhosphorFlatIconData(0xe224, 'Light');
 
   /// ![eyedropper-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eyedropper-light.svg)
-  static const eyedropper = IconData(0xe568, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const eyedropper = PhosphorFlatIconData(0xe568, 'Light');
 
   /// ![eyedropper-sample-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eyedropper-sample-light.svg)
-  static const eyedropperSample = IconData(0xeac4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const eyedropperSample = PhosphorFlatIconData(0xeac4, 'Light');
 
   /// ![eyeglasses-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eyeglasses-light.svg)
-  static const eyeglasses = IconData(0xe7ba, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const eyeglasses = PhosphorFlatIconData(0xe7ba, 'Light');
 
   /// ![eyes-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/eyes-light.svg)
-  static const eyes = IconData(0xee5c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const eyes = PhosphorFlatIconData(0xee5c, 'Light');
 
   /// ![face-mask-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/face-mask-light.svg)
-  static const faceMask = IconData(0xe56a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const faceMask = PhosphorFlatIconData(0xe56a, 'Light');
 
   /// ![facebook-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/facebook-logo-light.svg)
-  static const facebookLogo = IconData(0xe226, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const facebookLogo = PhosphorFlatIconData(0xe226, 'Light');
 
   /// ![factory-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/factory-light.svg)
-  static const factory = IconData(0xe760, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const factory = PhosphorFlatIconData(0xe760, 'Light');
 
   /// ![faders-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/faders-light.svg)
-  static const faders = IconData(0xe228, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const faders = PhosphorFlatIconData(0xe228, 'Light');
 
   /// ![faders-horizontal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/faders-horizontal-light.svg)
-  static const fadersHorizontal = IconData(0xe22a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fadersHorizontal = PhosphorFlatIconData(0xe22a, 'Light');
 
   /// ![fallout-shelter-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fallout-shelter-light.svg)
-  static const falloutShelter = IconData(0xe9de, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const falloutShelter = PhosphorFlatIconData(0xe9de, 'Light');
 
   /// ![fan-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fan-light.svg)
-  static const fan = IconData(0xe9f2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fan = PhosphorFlatIconData(0xe9f2, 'Light');
 
   /// ![farm-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/farm-light.svg)
-  static const farm = IconData(0xec70, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const farm = PhosphorFlatIconData(0xec70, 'Light');
 
   /// ![fast-forward-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fast-forward-light.svg)
-  static const fastForward = IconData(0xe6a6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fastForward = PhosphorFlatIconData(0xe6a6, 'Light');
 
   /// ![fast-forward-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fast-forward-circle-light.svg)
-  static const fastForwardCircle = IconData(0xe22c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fastForwardCircle = PhosphorFlatIconData(0xe22c, 'Light');
 
   /// ![feather-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/feather-light.svg)
-  static const feather = IconData(0xe9c0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const feather = PhosphorFlatIconData(0xe9c0, 'Light');
 
   /// ![fediverse-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fediverse-logo-light.svg)
-  static const fediverseLogo = IconData(0xed66, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fediverseLogo = PhosphorFlatIconData(0xed66, 'Light');
 
   /// ![figma-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/figma-logo-light.svg)
-  static const figmaLogo = IconData(0xe22e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const figmaLogo = PhosphorFlatIconData(0xe22e, 'Light');
 
   /// ![file-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-light.svg)
-  static const file = IconData(0xe230, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const file = PhosphorFlatIconData(0xe230, 'Light');
 
   /// ![file-archive-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-archive-light.svg)
-  static const fileArchive = IconData(0xeb2a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileArchive = PhosphorFlatIconData(0xeb2a, 'Light');
 
   /// ![file-arrow-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-arrow-down-light.svg)
-  static const fileArrowDown = IconData(0xe232, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileArrowDown = PhosphorFlatIconData(0xe232, 'Light');
 
   /// ![file-arrow-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-arrow-up-light.svg)
-  static const fileArrowUp = IconData(0xe61e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileArrowUp = PhosphorFlatIconData(0xe61e, 'Light');
 
   /// ![file-audio-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-audio-light.svg)
-  static const fileAudio = IconData(0xea20, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileAudio = PhosphorFlatIconData(0xea20, 'Light');
 
   /// ![file-c-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-c-light.svg)
-  static const fileC = IconData(0xeb32, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileC = PhosphorFlatIconData(0xeb32, 'Light');
 
   /// ![file-c-sharp-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-c-sharp-light.svg)
-  static const fileCSharp = IconData(0xeb30, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileCSharp = PhosphorFlatIconData(0xeb30, 'Light');
 
   /// ![file-cloud-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-cloud-light.svg)
-  static const fileCloud = IconData(0xe95e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileCloud = PhosphorFlatIconData(0xe95e, 'Light');
 
   /// ![file-code-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-code-light.svg)
-  static const fileCode = IconData(0xe914, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileCode = PhosphorFlatIconData(0xe914, 'Light');
 
   /// ![file-cpp-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-cpp-light.svg)
-  static const fileCpp = IconData(0xeb2e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileCpp = PhosphorFlatIconData(0xeb2e, 'Light');
 
   /// ![file-css-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-css-light.svg)
-  static const fileCss = IconData(0xeb34, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileCss = PhosphorFlatIconData(0xeb34, 'Light');
 
   /// ![file-csv-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-csv-light.svg)
-  static const fileCsv = IconData(0xeb1c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileCsv = PhosphorFlatIconData(0xeb1c, 'Light');
 
   /// ![file-dashed-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-dashed-light.svg)
-  static const fileDashed = IconData(0xe704, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileDashed = PhosphorFlatIconData(0xe704, 'Light');
 
   /// ![file-doc-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-doc-light.svg)
-  static const fileDoc = IconData(0xeb1e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileDoc = PhosphorFlatIconData(0xeb1e, 'Light');
 
   /// ![file-html-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-html-light.svg)
-  static const fileHtml = IconData(0xeb38, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileHtml = PhosphorFlatIconData(0xeb38, 'Light');
 
   /// ![file-image-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-image-light.svg)
-  static const fileImage = IconData(0xea24, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileImage = PhosphorFlatIconData(0xea24, 'Light');
 
   /// ![file-ini-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-ini-light.svg)
-  static const fileIni = IconData(0xeb33, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileIni = PhosphorFlatIconData(0xeb33, 'Light');
 
   /// ![file-jpg-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-jpg-light.svg)
-  static const fileJpg = IconData(0xeb1a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileJpg = PhosphorFlatIconData(0xeb1a, 'Light');
 
   /// ![file-js-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-js-light.svg)
-  static const fileJs = IconData(0xeb24, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileJs = PhosphorFlatIconData(0xeb24, 'Light');
 
   /// ![file-jsx-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-jsx-light.svg)
-  static const fileJsx = IconData(0xeb3a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileJsx = PhosphorFlatIconData(0xeb3a, 'Light');
 
   /// ![file-lock-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-lock-light.svg)
-  static const fileLock = IconData(0xe95c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileLock = PhosphorFlatIconData(0xe95c, 'Light');
 
   /// ![file-magnifying-glass-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-magnifying-glass-light.svg)
-  static const fileMagnifyingGlass = IconData(0xe238, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileMagnifyingGlass = PhosphorFlatIconData(0xe238, 'Light');
 
   /// ![file-md-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-md-light.svg)
-  static const fileMd = IconData(0xed50, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileMd = PhosphorFlatIconData(0xed50, 'Light');
 
   /// ![file-minus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-minus-light.svg)
-  static const fileMinus = IconData(0xe234, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileMinus = PhosphorFlatIconData(0xe234, 'Light');
 
   /// ![file-pdf-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-pdf-light.svg)
-  static const filePdf = IconData(0xe702, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const filePdf = PhosphorFlatIconData(0xe702, 'Light');
 
   /// ![file-plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-plus-light.svg)
-  static const filePlus = IconData(0xe236, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const filePlus = PhosphorFlatIconData(0xe236, 'Light');
 
   /// ![file-png-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-png-light.svg)
-  static const filePng = IconData(0xeb18, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const filePng = PhosphorFlatIconData(0xeb18, 'Light');
 
   /// ![file-ppt-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-ppt-light.svg)
-  static const filePpt = IconData(0xeb20, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const filePpt = PhosphorFlatIconData(0xeb20, 'Light');
 
   /// ![file-py-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-py-light.svg)
-  static const filePy = IconData(0xeb2c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const filePy = PhosphorFlatIconData(0xeb2c, 'Light');
 
   /// ![file-rs-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-rs-light.svg)
-  static const fileRs = IconData(0xeb28, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileRs = PhosphorFlatIconData(0xeb28, 'Light');
 
   /// ![file-sql-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-sql-light.svg)
-  static const fileSql = IconData(0xed4e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileSql = PhosphorFlatIconData(0xed4e, 'Light');
 
   /// ![file-svg-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-svg-light.svg)
-  static const fileSvg = IconData(0xed08, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileSvg = PhosphorFlatIconData(0xed08, 'Light');
 
   /// ![file-text-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-text-light.svg)
-  static const fileText = IconData(0xe23a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileText = PhosphorFlatIconData(0xe23a, 'Light');
 
   /// ![file-ts-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-ts-light.svg)
-  static const fileTs = IconData(0xeb26, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileTs = PhosphorFlatIconData(0xeb26, 'Light');
 
   /// ![file-tsx-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-tsx-light.svg)
-  static const fileTsx = IconData(0xeb3c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileTsx = PhosphorFlatIconData(0xeb3c, 'Light');
 
   /// ![file-txt-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-txt-light.svg)
-  static const fileTxt = IconData(0xeb35, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileTxt = PhosphorFlatIconData(0xeb35, 'Light');
 
   /// ![file-video-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-video-light.svg)
-  static const fileVideo = IconData(0xea22, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileVideo = PhosphorFlatIconData(0xea22, 'Light');
 
   /// ![file-vue-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-vue-light.svg)
-  static const fileVue = IconData(0xeb3e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileVue = PhosphorFlatIconData(0xeb3e, 'Light');
 
   /// ![file-x-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-x-light.svg)
-  static const fileX = IconData(0xe23c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileX = PhosphorFlatIconData(0xe23c, 'Light');
 
   /// ![file-xls-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-xls-light.svg)
-  static const fileXls = IconData(0xeb22, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileXls = PhosphorFlatIconData(0xeb22, 'Light');
 
   /// ![file-zip-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/file-zip-light.svg)
-  static const fileZip = IconData(0xe958, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fileZip = PhosphorFlatIconData(0xe958, 'Light');
 
   /// ![files-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/files-light.svg)
-  static const files = IconData(0xe710, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const files = PhosphorFlatIconData(0xe710, 'Light');
 
   /// ![film-reel-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/film-reel-light.svg)
-  static const filmReel = IconData(0xe8c0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const filmReel = PhosphorFlatIconData(0xe8c0, 'Light');
 
   /// ![film-script-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/film-script-light.svg)
-  static const filmScript = IconData(0xeb50, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const filmScript = PhosphorFlatIconData(0xeb50, 'Light');
 
   /// ![film-slate-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/film-slate-light.svg)
-  static const filmSlate = IconData(0xe8c2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const filmSlate = PhosphorFlatIconData(0xe8c2, 'Light');
 
   /// ![film-strip-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/film-strip-light.svg)
-  static const filmStrip = IconData(0xe792, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const filmStrip = PhosphorFlatIconData(0xe792, 'Light');
 
   /// ![fingerprint-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fingerprint-light.svg)
-  static const fingerprint = IconData(0xe23e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fingerprint = PhosphorFlatIconData(0xe23e, 'Light');
 
   /// ![fingerprint-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fingerprint-simple-light.svg)
-  static const fingerprintSimple = IconData(0xe240, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fingerprintSimple = PhosphorFlatIconData(0xe240, 'Light');
 
   /// ![finn-the-human-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/finn-the-human-light.svg)
-  static const finnTheHuman = IconData(0xe56c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const finnTheHuman = PhosphorFlatIconData(0xe56c, 'Light');
 
   /// ![fire-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fire-light.svg)
-  static const fire = IconData(0xe242, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fire = PhosphorFlatIconData(0xe242, 'Light');
 
   /// ![fire-extinguisher-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fire-extinguisher-light.svg)
-  static const fireExtinguisher = IconData(0xe9e8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fireExtinguisher = PhosphorFlatIconData(0xe9e8, 'Light');
 
   /// ![fire-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fire-simple-light.svg)
-  static const fireSimple = IconData(0xe620, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fireSimple = PhosphorFlatIconData(0xe620, 'Light');
 
   /// ![fire-truck-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fire-truck-light.svg)
-  static const fireTruck = IconData(0xe574, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fireTruck = PhosphorFlatIconData(0xe574, 'Light');
 
   /// ![first-aid-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/first-aid-light.svg)
-  static const firstAid = IconData(0xe56e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const firstAid = PhosphorFlatIconData(0xe56e, 'Light');
 
   /// ![first-aid-kit-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/first-aid-kit-light.svg)
-  static const firstAidKit = IconData(0xe570, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const firstAidKit = PhosphorFlatIconData(0xe570, 'Light');
 
   /// ![fish-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fish-light.svg)
-  static const fish = IconData(0xe728, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fish = PhosphorFlatIconData(0xe728, 'Light');
 
   /// ![fish-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fish-simple-light.svg)
-  static const fishSimple = IconData(0xe72a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fishSimple = PhosphorFlatIconData(0xe72a, 'Light');
 
   /// ![flag-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flag-light.svg)
-  static const flag = IconData(0xe244, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const flag = PhosphorFlatIconData(0xe244, 'Light');
 
   /// ![flag-banner-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flag-banner-light.svg)
-  static const flagBanner = IconData(0xe622, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const flagBanner = PhosphorFlatIconData(0xe622, 'Light');
 
   /// ![flag-banner-fold-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flag-banner-fold-light.svg)
-  static const flagBannerFold = IconData(0xecf2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const flagBannerFold = PhosphorFlatIconData(0xecf2, 'Light');
 
   /// ![flag-checkered-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flag-checkered-light.svg)
-  static const flagCheckered = IconData(0xea38, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const flagCheckered = PhosphorFlatIconData(0xea38, 'Light');
 
   /// ![flag-pennant-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flag-pennant-light.svg)
-  static const flagPennant = IconData(0xecf0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const flagPennant = PhosphorFlatIconData(0xecf0, 'Light');
 
   /// ![flame-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flame-light.svg)
-  static const flame = IconData(0xe624, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const flame = PhosphorFlatIconData(0xe624, 'Light');
 
   /// ![flashlight-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flashlight-light.svg)
-  static const flashlight = IconData(0xe246, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const flashlight = PhosphorFlatIconData(0xe246, 'Light');
 
   /// ![flask-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flask-light.svg)
-  static const flask = IconData(0xe79e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const flask = PhosphorFlatIconData(0xe79e, 'Light');
 
   /// ![flip-horizontal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flip-horizontal-light.svg)
-  static const flipHorizontal = IconData(0xed6a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const flipHorizontal = PhosphorFlatIconData(0xed6a, 'Light');
 
   /// ![flip-vertical-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flip-vertical-light.svg)
-  static const flipVertical = IconData(0xed6c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const flipVertical = PhosphorFlatIconData(0xed6c, 'Light');
 
   /// ![floppy-disk-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/floppy-disk-light.svg)
-  static const floppyDisk = IconData(0xe248, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const floppyDisk = PhosphorFlatIconData(0xe248, 'Light');
 
   /// ![floppy-disk-back-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/floppy-disk-back-light.svg)
-  static const floppyDiskBack = IconData(0xeaf4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const floppyDiskBack = PhosphorFlatIconData(0xeaf4, 'Light');
 
   /// ![flow-arrow-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flow-arrow-light.svg)
-  static const flowArrow = IconData(0xe6ec, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const flowArrow = PhosphorFlatIconData(0xe6ec, 'Light');
 
   /// ![flower-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flower-light.svg)
-  static const flower = IconData(0xe75e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const flower = PhosphorFlatIconData(0xe75e, 'Light');
 
   /// ![flower-lotus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flower-lotus-light.svg)
-  static const flowerLotus = IconData(0xe6cc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const flowerLotus = PhosphorFlatIconData(0xe6cc, 'Light');
 
   /// ![flower-tulip-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flower-tulip-light.svg)
-  static const flowerTulip = IconData(0xeacc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const flowerTulip = PhosphorFlatIconData(0xeacc, 'Light');
 
   /// ![flying-saucer-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/flying-saucer-light.svg)
-  static const flyingSaucer = IconData(0xeb4a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const flyingSaucer = PhosphorFlatIconData(0xeb4a, 'Light');
 
   /// ![folder-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-light.svg)
-  static const folder = IconData(0xe24a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const folder = PhosphorFlatIconData(0xe24a, 'Light');
 
   /// ![folder-dashed-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-dashed-light.svg)
-  static const folderDashed = IconData(0xe8f8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const folderDashed = PhosphorFlatIconData(0xe8f8, 'Light');
 
   /// ![folder-lock-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-lock-light.svg)
-  static const folderLock = IconData(0xea3c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const folderLock = PhosphorFlatIconData(0xea3c, 'Light');
 
   /// ![folder-minus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-minus-light.svg)
-  static const folderMinus = IconData(0xe254, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const folderMinus = PhosphorFlatIconData(0xe254, 'Light');
 
   /// ![folder-open-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-open-light.svg)
-  static const folderOpen = IconData(0xe256, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const folderOpen = PhosphorFlatIconData(0xe256, 'Light');
 
   /// ![folder-plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-plus-light.svg)
-  static const folderPlus = IconData(0xe258, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const folderPlus = PhosphorFlatIconData(0xe258, 'Light');
 
   /// ![folder-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-simple-light.svg)
-  static const folderSimple = IconData(0xe25a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const folderSimple = PhosphorFlatIconData(0xe25a, 'Light');
 
   /// ![folder-simple-dashed-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-simple-dashed-light.svg)
-  static const folderSimpleDashed = IconData(0xec2a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const folderSimpleDashed = PhosphorFlatIconData(0xec2a, 'Light');
 
   /// ![folder-simple-lock-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-simple-lock-light.svg)
-  static const folderSimpleLock = IconData(0xeb5e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const folderSimpleLock = PhosphorFlatIconData(0xeb5e, 'Light');
 
   /// ![folder-simple-minus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-simple-minus-light.svg)
-  static const folderSimpleMinus = IconData(0xe25c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const folderSimpleMinus = PhosphorFlatIconData(0xe25c, 'Light');
 
   /// ![folder-simple-plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-simple-plus-light.svg)
-  static const folderSimplePlus = IconData(0xe25e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const folderSimplePlus = PhosphorFlatIconData(0xe25e, 'Light');
 
   /// ![folder-simple-star-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-simple-star-light.svg)
-  static const folderSimpleStar = IconData(0xec2e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const folderSimpleStar = PhosphorFlatIconData(0xec2e, 'Light');
 
   /// ![folder-simple-user-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-simple-user-light.svg)
-  static const folderSimpleUser = IconData(0xeb60, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const folderSimpleUser = PhosphorFlatIconData(0xeb60, 'Light');
 
   /// ![folder-star-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-star-light.svg)
-  static const folderStar = IconData(0xea86, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const folderStar = PhosphorFlatIconData(0xea86, 'Light');
 
   /// ![folder-user-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folder-user-light.svg)
-  static const folderUser = IconData(0xeb46, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const folderUser = PhosphorFlatIconData(0xeb46, 'Light');
 
   /// ![folders-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/folders-light.svg)
-  static const folders = IconData(0xe260, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const folders = PhosphorFlatIconData(0xe260, 'Light');
 
   /// ![football-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/football-light.svg)
-  static const football = IconData(0xe718, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const football = PhosphorFlatIconData(0xe718, 'Light');
 
   /// ![football-helmet-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/football-helmet-light.svg)
-  static const footballHelmet = IconData(0xee4c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const footballHelmet = PhosphorFlatIconData(0xee4c, 'Light');
 
   /// ![footprints-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/footprints-light.svg)
-  static const footprints = IconData(0xea88, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const footprints = PhosphorFlatIconData(0xea88, 'Light');
 
   /// ![fork-knife-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/fork-knife-light.svg)
-  static const forkKnife = IconData(0xe262, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const forkKnife = PhosphorFlatIconData(0xe262, 'Light');
 
   /// ![four-k-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/four-k-light.svg)
-  static const fourK = IconData(0xea5c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const fourK = PhosphorFlatIconData(0xea5c, 'Light');
 
   /// ![frame-corners-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/frame-corners-light.svg)
-  static const frameCorners = IconData(0xe626, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const frameCorners = PhosphorFlatIconData(0xe626, 'Light');
 
   /// ![framer-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/framer-logo-light.svg)
-  static const framerLogo = IconData(0xe264, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const framerLogo = PhosphorFlatIconData(0xe264, 'Light');
 
   /// ![function-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/function-light.svg)
-  static const function = IconData(0xebe4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const function = PhosphorFlatIconData(0xebe4, 'Light');
 
   /// ![funnel-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/funnel-light.svg)
-  static const funnel = IconData(0xe266, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const funnel = PhosphorFlatIconData(0xe266, 'Light');
 
   /// ![funnel-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/funnel-simple-light.svg)
-  static const funnelSimple = IconData(0xe268, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const funnelSimple = PhosphorFlatIconData(0xe268, 'Light');
 
   /// ![funnel-simple-x-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/funnel-simple-x-light.svg)
-  static const funnelSimpleX = IconData(0xe26a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const funnelSimpleX = PhosphorFlatIconData(0xe26a, 'Light');
 
   /// ![funnel-x-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/funnel-x-light.svg)
-  static const funnelX = IconData(0xe26c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const funnelX = PhosphorFlatIconData(0xe26c, 'Light');
 
   /// ![game-controller-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/game-controller-light.svg)
-  static const gameController = IconData(0xe26e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gameController = PhosphorFlatIconData(0xe26e, 'Light');
 
   /// ![garage-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/garage-light.svg)
-  static const garage = IconData(0xecd6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const garage = PhosphorFlatIconData(0xecd6, 'Light');
 
   /// ![gas-can-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gas-can-light.svg)
-  static const gasCan = IconData(0xe8ce, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gasCan = PhosphorFlatIconData(0xe8ce, 'Light');
 
   /// ![gas-pump-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gas-pump-light.svg)
-  static const gasPump = IconData(0xe768, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gasPump = PhosphorFlatIconData(0xe768, 'Light');
 
   /// ![gauge-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gauge-light.svg)
-  static const gauge = IconData(0xe628, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gauge = PhosphorFlatIconData(0xe628, 'Light');
 
   /// ![gavel-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gavel-light.svg)
-  static const gavel = IconData(0xea32, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gavel = PhosphorFlatIconData(0xea32, 'Light');
 
   /// ![gear-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gear-light.svg)
-  static const gear = IconData(0xe270, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gear = PhosphorFlatIconData(0xe270, 'Light');
 
   /// ![gear-fine-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gear-fine-light.svg)
-  static const gearFine = IconData(0xe87c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gearFine = PhosphorFlatIconData(0xe87c, 'Light');
 
   /// ![gear-six-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gear-six-light.svg)
-  static const gearSix = IconData(0xe272, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gearSix = PhosphorFlatIconData(0xe272, 'Light');
 
   /// ![gender-female-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gender-female-light.svg)
-  static const genderFemale = IconData(0xe6e0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const genderFemale = PhosphorFlatIconData(0xe6e0, 'Light');
 
   /// ![gender-intersex-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gender-intersex-light.svg)
-  static const genderIntersex = IconData(0xe6e6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const genderIntersex = PhosphorFlatIconData(0xe6e6, 'Light');
 
   /// ![gender-male-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gender-male-light.svg)
-  static const genderMale = IconData(0xe6e2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const genderMale = PhosphorFlatIconData(0xe6e2, 'Light');
 
   /// ![gender-neuter-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gender-neuter-light.svg)
-  static const genderNeuter = IconData(0xe6ea, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const genderNeuter = PhosphorFlatIconData(0xe6ea, 'Light');
 
   /// ![gender-nonbinary-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gender-nonbinary-light.svg)
-  static const genderNonbinary = IconData(0xe6e4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const genderNonbinary = PhosphorFlatIconData(0xe6e4, 'Light');
 
   /// ![gender-transgender-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gender-transgender-light.svg)
-  static const genderTransgender = IconData(0xe6e8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const genderTransgender = PhosphorFlatIconData(0xe6e8, 'Light');
 
   /// ![ghost-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ghost-light.svg)
-  static const ghost = IconData(0xe62a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const ghost = PhosphorFlatIconData(0xe62a, 'Light');
 
   /// ![gif-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gif-light.svg)
-  static const gif = IconData(0xe274, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gif = PhosphorFlatIconData(0xe274, 'Light');
 
   /// ![gift-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gift-light.svg)
-  static const gift = IconData(0xe276, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gift = PhosphorFlatIconData(0xe276, 'Light');
 
   /// ![git-branch-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/git-branch-light.svg)
-  static const gitBranch = IconData(0xe278, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gitBranch = PhosphorFlatIconData(0xe278, 'Light');
 
   /// ![git-commit-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/git-commit-light.svg)
-  static const gitCommit = IconData(0xe27a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gitCommit = PhosphorFlatIconData(0xe27a, 'Light');
 
   /// ![git-diff-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/git-diff-light.svg)
-  static const gitDiff = IconData(0xe27c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gitDiff = PhosphorFlatIconData(0xe27c, 'Light');
 
   /// ![git-fork-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/git-fork-light.svg)
-  static const gitFork = IconData(0xe27e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gitFork = PhosphorFlatIconData(0xe27e, 'Light');
 
   /// ![git-merge-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/git-merge-light.svg)
-  static const gitMerge = IconData(0xe280, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gitMerge = PhosphorFlatIconData(0xe280, 'Light');
 
   /// ![git-pull-request-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/git-pull-request-light.svg)
-  static const gitPullRequest = IconData(0xe282, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gitPullRequest = PhosphorFlatIconData(0xe282, 'Light');
 
   /// ![github-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/github-logo-light.svg)
-  static const githubLogo = IconData(0xe576, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const githubLogo = PhosphorFlatIconData(0xe576, 'Light');
 
   /// ![gitlab-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gitlab-logo-light.svg)
-  static const gitlabLogo = IconData(0xe694, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gitlabLogo = PhosphorFlatIconData(0xe694, 'Light');
 
   /// ![gitlab-logo-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gitlab-logo-simple-light.svg)
-  static const gitlabLogoSimple = IconData(0xe696, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gitlabLogoSimple = PhosphorFlatIconData(0xe696, 'Light');
 
   /// ![globe-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/globe-light.svg)
-  static const globe = IconData(0xe288, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const globe = PhosphorFlatIconData(0xe288, 'Light');
 
   /// ![globe-hemisphere-east-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/globe-hemisphere-east-light.svg)
-  static const globeHemisphereEast = IconData(0xe28a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const globeHemisphereEast = PhosphorFlatIconData(0xe28a, 'Light');
 
   /// ![globe-hemisphere-west-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/globe-hemisphere-west-light.svg)
-  static const globeHemisphereWest = IconData(0xe28c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const globeHemisphereWest = PhosphorFlatIconData(0xe28c, 'Light');
 
   /// ![globe-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/globe-simple-light.svg)
-  static const globeSimple = IconData(0xe28e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const globeSimple = PhosphorFlatIconData(0xe28e, 'Light');
 
   /// ![globe-simple-x-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/globe-simple-x-light.svg)
-  static const globeSimpleX = IconData(0xe284, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const globeSimpleX = PhosphorFlatIconData(0xe284, 'Light');
 
   /// ![globe-stand-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/globe-stand-light.svg)
-  static const globeStand = IconData(0xe290, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const globeStand = PhosphorFlatIconData(0xe290, 'Light');
 
   /// ![globe-x-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/globe-x-light.svg)
-  static const globeX = IconData(0xe286, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const globeX = PhosphorFlatIconData(0xe286, 'Light');
 
   /// ![goggles-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/goggles-light.svg)
-  static const goggles = IconData(0xecb4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const goggles = PhosphorFlatIconData(0xecb4, 'Light');
 
   /// ![golf-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/golf-light.svg)
-  static const golf = IconData(0xea3e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const golf = PhosphorFlatIconData(0xea3e, 'Light');
 
   /// ![goodreads-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/goodreads-logo-light.svg)
-  static const goodreadsLogo = IconData(0xed10, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const goodreadsLogo = PhosphorFlatIconData(0xed10, 'Light');
 
   /// ![google-cardboard-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/google-cardboard-logo-light.svg)
-  static const googleCardboardLogo = IconData(0xe7b6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const googleCardboardLogo = PhosphorFlatIconData(0xe7b6, 'Light');
 
   /// ![google-chrome-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/google-chrome-logo-light.svg)
-  static const googleChromeLogo = IconData(0xe976, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const googleChromeLogo = PhosphorFlatIconData(0xe976, 'Light');
 
   /// ![google-drive-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/google-drive-logo-light.svg)
-  static const googleDriveLogo = IconData(0xe8f6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const googleDriveLogo = PhosphorFlatIconData(0xe8f6, 'Light');
 
   /// ![google-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/google-logo-light.svg)
-  static const googleLogo = IconData(0xe292, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const googleLogo = PhosphorFlatIconData(0xe292, 'Light');
 
   /// ![google-photos-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/google-photos-logo-light.svg)
-  static const googlePhotosLogo = IconData(0xeb92, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const googlePhotosLogo = PhosphorFlatIconData(0xeb92, 'Light');
 
   /// ![google-play-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/google-play-logo-light.svg)
-  static const googlePlayLogo = IconData(0xe294, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const googlePlayLogo = PhosphorFlatIconData(0xe294, 'Light');
 
   /// ![google-podcasts-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/google-podcasts-logo-light.svg)
-  static const googlePodcastsLogo = IconData(0xeb94, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const googlePodcastsLogo = PhosphorFlatIconData(0xeb94, 'Light');
 
   /// ![gps-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gps-light.svg)
-  static const gps = IconData(0xedd8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gps = PhosphorFlatIconData(0xedd8, 'Light');
 
   /// ![gps-fix-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gps-fix-light.svg)
-  static const gpsFix = IconData(0xedd6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gpsFix = PhosphorFlatIconData(0xedd6, 'Light');
 
   /// ![gps-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gps-slash-light.svg)
-  static const gpsSlash = IconData(0xedd4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gpsSlash = PhosphorFlatIconData(0xedd4, 'Light');
 
   /// ![gradient-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/gradient-light.svg)
-  static const gradient = IconData(0xeb42, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gradient = PhosphorFlatIconData(0xeb42, 'Light');
 
   /// ![graduation-cap-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/graduation-cap-light.svg)
-  static const graduationCap = IconData(0xe62c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const graduationCap = PhosphorFlatIconData(0xe62c, 'Light');
 
   /// ![grains-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/grains-light.svg)
-  static const grains = IconData(0xec68, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const grains = PhosphorFlatIconData(0xec68, 'Light');
 
   /// ![grains-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/grains-slash-light.svg)
-  static const grainsSlash = IconData(0xec6a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const grainsSlash = PhosphorFlatIconData(0xec6a, 'Light');
 
   /// ![graph-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/graph-light.svg)
-  static const graph = IconData(0xeb58, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const graph = PhosphorFlatIconData(0xeb58, 'Light');
 
   /// ![graphics-card-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/graphics-card-light.svg)
-  static const graphicsCard = IconData(0xe612, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const graphicsCard = PhosphorFlatIconData(0xe612, 'Light');
 
   /// ![greater-than-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/greater-than-light.svg)
-  static const greaterThan = IconData(0xedc4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const greaterThan = PhosphorFlatIconData(0xedc4, 'Light');
 
   /// ![greater-than-or-equal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/greater-than-or-equal-light.svg)
-  static const greaterThanOrEqual = IconData(0xeda2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const greaterThanOrEqual = PhosphorFlatIconData(0xeda2, 'Light');
 
   /// ![grid-four-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/grid-four-light.svg)
-  static const gridFour = IconData(0xe296, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gridFour = PhosphorFlatIconData(0xe296, 'Light');
 
   /// ![grid-nine-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/grid-nine-light.svg)
-  static const gridNine = IconData(0xec8c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const gridNine = PhosphorFlatIconData(0xec8c, 'Light');
 
   /// ![guitar-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/guitar-light.svg)
-  static const guitar = IconData(0xea8a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const guitar = PhosphorFlatIconData(0xea8a, 'Light');
 
   /// ![hair-dryer-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hair-dryer-light.svg)
-  static const hairDryer = IconData(0xea66, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hairDryer = PhosphorFlatIconData(0xea66, 'Light');
 
   /// ![hamburger-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hamburger-light.svg)
-  static const hamburger = IconData(0xe790, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hamburger = PhosphorFlatIconData(0xe790, 'Light');
 
   /// ![hammer-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hammer-light.svg)
-  static const hammer = IconData(0xe80e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hammer = PhosphorFlatIconData(0xe80e, 'Light');
 
   /// ![hand-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-light.svg)
-  static const hand = IconData(0xe298, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hand = PhosphorFlatIconData(0xe298, 'Light');
 
   /// ![hand-arrow-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-arrow-down-light.svg)
-  static const handArrowDown = IconData(0xea4e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handArrowDown = PhosphorFlatIconData(0xea4e, 'Light');
 
   /// ![hand-arrow-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-arrow-up-light.svg)
-  static const handArrowUp = IconData(0xee5a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handArrowUp = PhosphorFlatIconData(0xee5a, 'Light');
 
   /// ![hand-coins-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-coins-light.svg)
-  static const handCoins = IconData(0xea8c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handCoins = PhosphorFlatIconData(0xea8c, 'Light');
 
   /// ![hand-deposit-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-deposit-light.svg)
-  static const handDeposit = IconData(0xee82, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handDeposit = PhosphorFlatIconData(0xee82, 'Light');
 
   /// ![hand-eye-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-eye-light.svg)
-  static const handEye = IconData(0xea4c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handEye = PhosphorFlatIconData(0xea4c, 'Light');
 
   /// ![hand-fist-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-fist-light.svg)
-  static const handFist = IconData(0xe57a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handFist = PhosphorFlatIconData(0xe57a, 'Light');
 
   /// ![hand-grabbing-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-grabbing-light.svg)
-  static const handGrabbing = IconData(0xe57c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handGrabbing = PhosphorFlatIconData(0xe57c, 'Light');
 
   /// ![hand-heart-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-heart-light.svg)
-  static const handHeart = IconData(0xe810, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handHeart = PhosphorFlatIconData(0xe810, 'Light');
 
   /// ![hand-palm-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-palm-light.svg)
-  static const handPalm = IconData(0xe57e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handPalm = PhosphorFlatIconData(0xe57e, 'Light');
 
   /// ![hand-peace-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-peace-light.svg)
-  static const handPeace = IconData(0xe7cc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handPeace = PhosphorFlatIconData(0xe7cc, 'Light');
 
   /// ![hand-pointing-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-pointing-light.svg)
-  static const handPointing = IconData(0xe29a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handPointing = PhosphorFlatIconData(0xe29a, 'Light');
 
   /// ![hand-soap-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-soap-light.svg)
-  static const handSoap = IconData(0xe630, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handSoap = PhosphorFlatIconData(0xe630, 'Light');
 
   /// ![hand-swipe-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-swipe-left-light.svg)
-  static const handSwipeLeft = IconData(0xec94, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handSwipeLeft = PhosphorFlatIconData(0xec94, 'Light');
 
   /// ![hand-swipe-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-swipe-right-light.svg)
-  static const handSwipeRight = IconData(0xec92, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handSwipeRight = PhosphorFlatIconData(0xec92, 'Light');
 
   /// ![hand-tap-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-tap-light.svg)
-  static const handTap = IconData(0xec90, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handTap = PhosphorFlatIconData(0xec90, 'Light');
 
   /// ![hand-waving-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-waving-light.svg)
-  static const handWaving = IconData(0xe580, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handWaving = PhosphorFlatIconData(0xe580, 'Light');
 
   /// ![hand-withdraw-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hand-withdraw-light.svg)
-  static const handWithdraw = IconData(0xee80, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handWithdraw = PhosphorFlatIconData(0xee80, 'Light');
 
   /// ![handbag-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/handbag-light.svg)
-  static const handbag = IconData(0xe29c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handbag = PhosphorFlatIconData(0xe29c, 'Light');
 
   /// ![handbag-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/handbag-simple-light.svg)
-  static const handbagSimple = IconData(0xe62e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handbagSimple = PhosphorFlatIconData(0xe62e, 'Light');
 
   /// ![hands-clapping-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hands-clapping-light.svg)
-  static const handsClapping = IconData(0xe6a0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handsClapping = PhosphorFlatIconData(0xe6a0, 'Light');
 
   /// ![hands-praying-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hands-praying-light.svg)
-  static const handsPraying = IconData(0xecc8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handsPraying = PhosphorFlatIconData(0xecc8, 'Light');
 
   /// ![handshake-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/handshake-light.svg)
-  static const handshake = IconData(0xe582, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const handshake = PhosphorFlatIconData(0xe582, 'Light');
 
   /// ![hard-drive-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hard-drive-light.svg)
-  static const hardDrive = IconData(0xe29e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hardDrive = PhosphorFlatIconData(0xe29e, 'Light');
 
   /// ![hard-drives-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hard-drives-light.svg)
-  static const hardDrives = IconData(0xe2a0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hardDrives = PhosphorFlatIconData(0xe2a0, 'Light');
 
   /// ![hard-hat-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hard-hat-light.svg)
-  static const hardHat = IconData(0xed46, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hardHat = PhosphorFlatIconData(0xed46, 'Light');
 
   /// ![hash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hash-light.svg)
-  static const hash = IconData(0xe2a2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hash = PhosphorFlatIconData(0xe2a2, 'Light');
 
   /// ![hash-straight-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hash-straight-light.svg)
-  static const hashStraight = IconData(0xe2a4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hashStraight = PhosphorFlatIconData(0xe2a4, 'Light');
 
   /// ![head-circuit-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/head-circuit-light.svg)
-  static const headCircuit = IconData(0xe7d4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const headCircuit = PhosphorFlatIconData(0xe7d4, 'Light');
 
   /// ![headlights-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/headlights-light.svg)
-  static const headlights = IconData(0xe6fe, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const headlights = PhosphorFlatIconData(0xe6fe, 'Light');
 
   /// ![headphones-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/headphones-light.svg)
-  static const headphones = IconData(0xe2a6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const headphones = PhosphorFlatIconData(0xe2a6, 'Light');
 
   /// ![headset-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/headset-light.svg)
-  static const headset = IconData(0xe584, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const headset = PhosphorFlatIconData(0xe584, 'Light');
 
   /// ![heart-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/heart-light.svg)
-  static const heart = IconData(0xe2a8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const heart = PhosphorFlatIconData(0xe2a8, 'Light');
 
   /// ![heart-break-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/heart-break-light.svg)
-  static const heartBreak = IconData(0xebe8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const heartBreak = PhosphorFlatIconData(0xebe8, 'Light');
 
   /// ![heart-half-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/heart-half-light.svg)
-  static const heartHalf = IconData(0xec48, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const heartHalf = PhosphorFlatIconData(0xec48, 'Light');
 
   /// ![heart-straight-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/heart-straight-light.svg)
-  static const heartStraight = IconData(0xe2aa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const heartStraight = PhosphorFlatIconData(0xe2aa, 'Light');
 
   /// ![heart-straight-break-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/heart-straight-break-light.svg)
-  static const heartStraightBreak = IconData(0xeb98, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const heartStraightBreak = PhosphorFlatIconData(0xeb98, 'Light');
 
   /// ![heartbeat-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/heartbeat-light.svg)
-  static const heartbeat = IconData(0xe2ac, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const heartbeat = PhosphorFlatIconData(0xe2ac, 'Light');
 
   /// ![hexagon-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hexagon-light.svg)
-  static const hexagon = IconData(0xe2ae, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hexagon = PhosphorFlatIconData(0xe2ae, 'Light');
 
   /// ![high-definition-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/high-definition-light.svg)
-  static const highDefinition = IconData(0xea8e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const highDefinition = PhosphorFlatIconData(0xea8e, 'Light');
 
   /// ![high-heel-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/high-heel-light.svg)
-  static const highHeel = IconData(0xe8e8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const highHeel = PhosphorFlatIconData(0xe8e8, 'Light');
 
   /// ![highlighter-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/highlighter-light.svg)
-  static const highlighter = IconData(0xec76, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const highlighter = PhosphorFlatIconData(0xec76, 'Light');
 
   /// ![highlighter-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/highlighter-circle-light.svg)
-  static const highlighterCircle = IconData(0xe632, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const highlighterCircle = PhosphorFlatIconData(0xe632, 'Light');
 
   /// ![hockey-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hockey-light.svg)
-  static const hockey = IconData(0xec86, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hockey = PhosphorFlatIconData(0xec86, 'Light');
 
   /// ![hoodie-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hoodie-light.svg)
-  static const hoodie = IconData(0xecd0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hoodie = PhosphorFlatIconData(0xecd0, 'Light');
 
   /// ![horse-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/horse-light.svg)
-  static const horse = IconData(0xe2b0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const horse = PhosphorFlatIconData(0xe2b0, 'Light');
 
   /// ![hospital-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hospital-light.svg)
-  static const hospital = IconData(0xe844, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hospital = PhosphorFlatIconData(0xe844, 'Light');
 
   /// ![hourglass-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hourglass-light.svg)
-  static const hourglass = IconData(0xe2b2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hourglass = PhosphorFlatIconData(0xe2b2, 'Light');
 
   /// ![hourglass-high-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hourglass-high-light.svg)
-  static const hourglassHigh = IconData(0xe2b4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hourglassHigh = PhosphorFlatIconData(0xe2b4, 'Light');
 
   /// ![hourglass-low-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hourglass-low-light.svg)
-  static const hourglassLow = IconData(0xe2b6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hourglassLow = PhosphorFlatIconData(0xe2b6, 'Light');
 
   /// ![hourglass-medium-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hourglass-medium-light.svg)
-  static const hourglassMedium = IconData(0xe2b8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hourglassMedium = PhosphorFlatIconData(0xe2b8, 'Light');
 
   /// ![hourglass-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hourglass-simple-light.svg)
-  static const hourglassSimple = IconData(0xe2ba, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hourglassSimple = PhosphorFlatIconData(0xe2ba, 'Light');
 
   /// ![hourglass-simple-high-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hourglass-simple-high-light.svg)
-  static const hourglassSimpleHigh = IconData(0xe2bc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hourglassSimpleHigh = PhosphorFlatIconData(0xe2bc, 'Light');
 
   /// ![hourglass-simple-low-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hourglass-simple-low-light.svg)
-  static const hourglassSimpleLow = IconData(0xe2be, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hourglassSimpleLow = PhosphorFlatIconData(0xe2be, 'Light');
 
   /// ![hourglass-simple-medium-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hourglass-simple-medium-light.svg)
-  static const hourglassSimpleMedium = IconData(0xe2c0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hourglassSimpleMedium = PhosphorFlatIconData(0xe2c0, 'Light');
 
   /// ![house-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/house-light.svg)
-  static const house = IconData(0xe2c2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const house = PhosphorFlatIconData(0xe2c2, 'Light');
 
   /// ![house-line-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/house-line-light.svg)
-  static const houseLine = IconData(0xe2c4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const houseLine = PhosphorFlatIconData(0xe2c4, 'Light');
 
   /// ![house-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/house-simple-light.svg)
-  static const houseSimple = IconData(0xe2c6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const houseSimple = PhosphorFlatIconData(0xe2c6, 'Light');
 
   /// ![hurricane-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/hurricane-light.svg)
-  static const hurricane = IconData(0xe88e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const hurricane = PhosphorFlatIconData(0xe88e, 'Light');
 
   /// ![ice-cream-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ice-cream-light.svg)
-  static const iceCream = IconData(0xe804, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const iceCream = PhosphorFlatIconData(0xe804, 'Light');
 
   /// ![identification-badge-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/identification-badge-light.svg)
-  static const identificationBadge = IconData(0xe6f6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const identificationBadge = PhosphorFlatIconData(0xe6f6, 'Light');
 
   /// ![identification-card-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/identification-card-light.svg)
-  static const identificationCard = IconData(0xe2c8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const identificationCard = PhosphorFlatIconData(0xe2c8, 'Light');
 
   /// ![image-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/image-light.svg)
-  static const image = IconData(0xe2ca, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const image = PhosphorFlatIconData(0xe2ca, 'Light');
 
   /// ![image-broken-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/image-broken-light.svg)
-  static const imageBroken = IconData(0xe7a8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const imageBroken = PhosphorFlatIconData(0xe7a8, 'Light');
 
   /// ![image-square-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/image-square-light.svg)
-  static const imageSquare = IconData(0xe2cc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const imageSquare = PhosphorFlatIconData(0xe2cc, 'Light');
 
   /// ![images-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/images-light.svg)
-  static const images = IconData(0xe836, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const images = PhosphorFlatIconData(0xe836, 'Light');
 
   /// ![images-square-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/images-square-light.svg)
-  static const imagesSquare = IconData(0xe834, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const imagesSquare = PhosphorFlatIconData(0xe834, 'Light');
 
   /// ![infinity-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/infinity-light.svg)
-  static const infinity = IconData(0xe634, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const infinity = PhosphorFlatIconData(0xe634, 'Light');
 
   /// ![info-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/info-light.svg)
-  static const info = IconData(0xe2ce, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const info = PhosphorFlatIconData(0xe2ce, 'Light');
 
   /// ![instagram-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/instagram-logo-light.svg)
-  static const instagramLogo = IconData(0xe2d0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const instagramLogo = PhosphorFlatIconData(0xe2d0, 'Light');
 
   /// ![intersect-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/intersect-light.svg)
-  static const intersect = IconData(0xe2d2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const intersect = PhosphorFlatIconData(0xe2d2, 'Light');
 
   /// ![intersect-square-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/intersect-square-light.svg)
-  static const intersectSquare = IconData(0xe87a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const intersectSquare = PhosphorFlatIconData(0xe87a, 'Light');
 
   /// ![intersect-three-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/intersect-three-light.svg)
-  static const intersectThree = IconData(0xecc4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const intersectThree = PhosphorFlatIconData(0xecc4, 'Light');
 
   /// ![intersection-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/intersection-light.svg)
-  static const intersection = IconData(0xedba, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const intersection = PhosphorFlatIconData(0xedba, 'Light');
 
   /// ![invoice-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/invoice-light.svg)
-  static const invoice = IconData(0xee42, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const invoice = PhosphorFlatIconData(0xee42, 'Light');
 
   /// ![island-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/island-light.svg)
-  static const island = IconData(0xee06, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const island = PhosphorFlatIconData(0xee06, 'Light');
 
   /// ![jar-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/jar-light.svg)
-  static const jar = IconData(0xe7e0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const jar = PhosphorFlatIconData(0xe7e0, 'Light');
 
   /// ![jar-label-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/jar-label-light.svg)
-  static const jarLabel = IconData(0xe7e1, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const jarLabel = PhosphorFlatIconData(0xe7e1, 'Light');
 
   /// ![jeep-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/jeep-light.svg)
-  static const jeep = IconData(0xe2d4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const jeep = PhosphorFlatIconData(0xe2d4, 'Light');
 
   /// ![joystick-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/joystick-light.svg)
-  static const joystick = IconData(0xea5e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const joystick = PhosphorFlatIconData(0xea5e, 'Light');
 
   /// ![kanban-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/kanban-light.svg)
-  static const kanban = IconData(0xeb54, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const kanban = PhosphorFlatIconData(0xeb54, 'Light');
 
   /// ![key-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/key-light.svg)
-  static const key = IconData(0xe2d6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const key = PhosphorFlatIconData(0xe2d6, 'Light');
 
   /// ![key-return-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/key-return-light.svg)
-  static const keyReturn = IconData(0xe782, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const keyReturn = PhosphorFlatIconData(0xe782, 'Light');
 
   /// ![keyboard-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/keyboard-light.svg)
-  static const keyboard = IconData(0xe2d8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const keyboard = PhosphorFlatIconData(0xe2d8, 'Light');
 
   /// ![keyhole-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/keyhole-light.svg)
-  static const keyhole = IconData(0xea78, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const keyhole = PhosphorFlatIconData(0xea78, 'Light');
 
   /// ![knife-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/knife-light.svg)
-  static const knife = IconData(0xe636, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const knife = PhosphorFlatIconData(0xe636, 'Light');
 
   /// ![ladder-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ladder-light.svg)
-  static const ladder = IconData(0xe9e4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const ladder = PhosphorFlatIconData(0xe9e4, 'Light');
 
   /// ![ladder-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ladder-simple-light.svg)
-  static const ladderSimple = IconData(0xec26, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const ladderSimple = PhosphorFlatIconData(0xec26, 'Light');
 
   /// ![lamp-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lamp-light.svg)
-  static const lamp = IconData(0xe638, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lamp = PhosphorFlatIconData(0xe638, 'Light');
 
   /// ![lamp-pendant-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lamp-pendant-light.svg)
-  static const lampPendant = IconData(0xee2e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lampPendant = PhosphorFlatIconData(0xee2e, 'Light');
 
   /// ![laptop-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/laptop-light.svg)
-  static const laptop = IconData(0xe586, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const laptop = PhosphorFlatIconData(0xe586, 'Light');
 
   /// ![lasso-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lasso-light.svg)
-  static const lasso = IconData(0xedc6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lasso = PhosphorFlatIconData(0xedc6, 'Light');
 
   /// ![lastfm-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lastfm-logo-light.svg)
-  static const lastfmLogo = IconData(0xe842, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lastfmLogo = PhosphorFlatIconData(0xe842, 'Light');
 
   /// ![layout-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/layout-light.svg)
-  static const layout = IconData(0xe6d6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const layout = PhosphorFlatIconData(0xe6d6, 'Light');
 
   /// ![leaf-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/leaf-light.svg)
-  static const leaf = IconData(0xe2da, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const leaf = PhosphorFlatIconData(0xe2da, 'Light');
 
   /// ![lectern-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lectern-light.svg)
-  static const lectern = IconData(0xe95a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lectern = PhosphorFlatIconData(0xe95a, 'Light');
 
   /// ![lego-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lego-light.svg)
-  static const lego = IconData(0xe8c6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lego = PhosphorFlatIconData(0xe8c6, 'Light');
 
   /// ![lego-smiley-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lego-smiley-light.svg)
-  static const legoSmiley = IconData(0xe8c7, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const legoSmiley = PhosphorFlatIconData(0xe8c7, 'Light');
 
   /// ![less-than-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/less-than-light.svg)
-  static const lessThan = IconData(0xedac, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lessThan = PhosphorFlatIconData(0xedac, 'Light');
 
   /// ![less-than-or-equal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/less-than-or-equal-light.svg)
-  static const lessThanOrEqual = IconData(0xeda4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lessThanOrEqual = PhosphorFlatIconData(0xeda4, 'Light');
 
   /// ![letter-circle-h-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/letter-circle-h-light.svg)
-  static const letterCircleH = IconData(0xebf8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const letterCircleH = PhosphorFlatIconData(0xebf8, 'Light');
 
   /// ![letter-circle-p-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/letter-circle-p-light.svg)
-  static const letterCircleP = IconData(0xec08, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const letterCircleP = PhosphorFlatIconData(0xec08, 'Light');
 
   /// ![letter-circle-v-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/letter-circle-v-light.svg)
-  static const letterCircleV = IconData(0xec14, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const letterCircleV = PhosphorFlatIconData(0xec14, 'Light');
 
   /// ![lifebuoy-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lifebuoy-light.svg)
-  static const lifebuoy = IconData(0xe63a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lifebuoy = PhosphorFlatIconData(0xe63a, 'Light');
 
   /// ![lightbulb-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lightbulb-light.svg)
-  static const lightbulb = IconData(0xe2dc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lightbulb = PhosphorFlatIconData(0xe2dc, 'Light');
 
   /// ![lightbulb-filament-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lightbulb-filament-light.svg)
-  static const lightbulbFilament = IconData(0xe63c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lightbulbFilament = PhosphorFlatIconData(0xe63c, 'Light');
 
   /// ![lighthouse-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lighthouse-light.svg)
-  static const lighthouse = IconData(0xe9f6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lighthouse = PhosphorFlatIconData(0xe9f6, 'Light');
 
   /// ![lightning-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lightning-light.svg)
-  static const lightning = IconData(0xe2de, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lightning = PhosphorFlatIconData(0xe2de, 'Light');
 
   /// ![lightning-a-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lightning-a-light.svg)
-  static const lightningA = IconData(0xea84, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lightningA = PhosphorFlatIconData(0xea84, 'Light');
 
   /// ![lightning-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lightning-slash-light.svg)
-  static const lightningSlash = IconData(0xe2e0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lightningSlash = PhosphorFlatIconData(0xe2e0, 'Light');
 
   /// ![line-segment-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/line-segment-light.svg)
-  static const lineSegment = IconData(0xe6d2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lineSegment = PhosphorFlatIconData(0xe6d2, 'Light');
 
   /// ![line-segments-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/line-segments-light.svg)
-  static const lineSegments = IconData(0xe6d4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lineSegments = PhosphorFlatIconData(0xe6d4, 'Light');
 
   /// ![line-vertical-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/line-vertical-light.svg)
-  static const lineVertical = IconData(0xed70, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lineVertical = PhosphorFlatIconData(0xed70, 'Light');
 
   /// ![link-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/link-light.svg)
-  static const link = IconData(0xe2e2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const link = PhosphorFlatIconData(0xe2e2, 'Light');
 
   /// ![link-break-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/link-break-light.svg)
-  static const linkBreak = IconData(0xe2e4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const linkBreak = PhosphorFlatIconData(0xe2e4, 'Light');
 
   /// ![link-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/link-simple-light.svg)
-  static const linkSimple = IconData(0xe2e6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const linkSimple = PhosphorFlatIconData(0xe2e6, 'Light');
 
   /// ![link-simple-break-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/link-simple-break-light.svg)
-  static const linkSimpleBreak = IconData(0xe2e8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const linkSimpleBreak = PhosphorFlatIconData(0xe2e8, 'Light');
 
   /// ![link-simple-horizontal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/link-simple-horizontal-light.svg)
-  static const linkSimpleHorizontal = IconData(0xe2ea, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const linkSimpleHorizontal = PhosphorFlatIconData(0xe2ea, 'Light');
 
   /// ![link-simple-horizontal-break-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/link-simple-horizontal-break-light.svg)
   static const linkSimpleHorizontalBreak =
-      IconData(0xe2ec, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+      PhosphorFlatIconData(0xe2ec, 'Light');
 
   /// ![linkedin-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/linkedin-logo-light.svg)
-  static const linkedinLogo = IconData(0xe2ee, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const linkedinLogo = PhosphorFlatIconData(0xe2ee, 'Light');
 
   /// ![linktree-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/linktree-logo-light.svg)
-  static const linktreeLogo = IconData(0xedee, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const linktreeLogo = PhosphorFlatIconData(0xedee, 'Light');
 
   /// ![linux-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/linux-logo-light.svg)
-  static const linuxLogo = IconData(0xeb02, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const linuxLogo = PhosphorFlatIconData(0xeb02, 'Light');
 
   /// ![list-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list-light.svg)
-  static const list = IconData(0xe2f0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const list = PhosphorFlatIconData(0xe2f0, 'Light');
 
   /// ![list-bullets-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list-bullets-light.svg)
-  static const listBullets = IconData(0xe2f2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const listBullets = PhosphorFlatIconData(0xe2f2, 'Light');
 
   /// ![list-checks-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list-checks-light.svg)
-  static const listChecks = IconData(0xeadc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const listChecks = PhosphorFlatIconData(0xeadc, 'Light');
 
   /// ![list-dashes-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list-dashes-light.svg)
-  static const listDashes = IconData(0xe2f4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const listDashes = PhosphorFlatIconData(0xe2f4, 'Light');
 
   /// ![list-heart-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list-heart-light.svg)
-  static const listHeart = IconData(0xebde, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const listHeart = PhosphorFlatIconData(0xebde, 'Light');
 
   /// ![list-magnifying-glass-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list-magnifying-glass-light.svg)
-  static const listMagnifyingGlass = IconData(0xebe0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const listMagnifyingGlass = PhosphorFlatIconData(0xebe0, 'Light');
 
   /// ![list-numbers-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list-numbers-light.svg)
-  static const listNumbers = IconData(0xe2f6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const listNumbers = PhosphorFlatIconData(0xe2f6, 'Light');
 
   /// ![list-plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list-plus-light.svg)
-  static const listPlus = IconData(0xe2f8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const listPlus = PhosphorFlatIconData(0xe2f8, 'Light');
 
   /// ![list-star-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/list-star-light.svg)
-  static const listStar = IconData(0xebdc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const listStar = PhosphorFlatIconData(0xebdc, 'Light');
 
   /// ![lock-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lock-light.svg)
-  static const lock = IconData(0xe2fa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lock = PhosphorFlatIconData(0xe2fa, 'Light');
 
   /// ![lock-key-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lock-key-light.svg)
-  static const lockKey = IconData(0xe2fe, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lockKey = PhosphorFlatIconData(0xe2fe, 'Light');
 
   /// ![lock-key-open-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lock-key-open-light.svg)
-  static const lockKeyOpen = IconData(0xe300, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lockKeyOpen = PhosphorFlatIconData(0xe300, 'Light');
 
   /// ![lock-laminated-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lock-laminated-light.svg)
-  static const lockLaminated = IconData(0xe302, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lockLaminated = PhosphorFlatIconData(0xe302, 'Light');
 
   /// ![lock-laminated-open-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lock-laminated-open-light.svg)
-  static const lockLaminatedOpen = IconData(0xe304, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lockLaminatedOpen = PhosphorFlatIconData(0xe304, 'Light');
 
   /// ![lock-open-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lock-open-light.svg)
-  static const lockOpen = IconData(0xe306, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lockOpen = PhosphorFlatIconData(0xe306, 'Light');
 
   /// ![lock-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lock-simple-light.svg)
-  static const lockSimple = IconData(0xe308, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lockSimple = PhosphorFlatIconData(0xe308, 'Light');
 
   /// ![lock-simple-open-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lock-simple-open-light.svg)
-  static const lockSimpleOpen = IconData(0xe30a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lockSimpleOpen = PhosphorFlatIconData(0xe30a, 'Light');
 
   /// ![lockers-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/lockers-light.svg)
-  static const lockers = IconData(0xecb8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const lockers = PhosphorFlatIconData(0xecb8, 'Light');
 
   /// ![log-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/log-light.svg)
-  static const log = IconData(0xed82, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const log = PhosphorFlatIconData(0xed82, 'Light');
 
   /// ![magic-wand-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/magic-wand-light.svg)
-  static const magicWand = IconData(0xe6b6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const magicWand = PhosphorFlatIconData(0xe6b6, 'Light');
 
   /// ![magnet-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/magnet-light.svg)
-  static const magnet = IconData(0xe680, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const magnet = PhosphorFlatIconData(0xe680, 'Light');
 
   /// ![magnet-straight-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/magnet-straight-light.svg)
-  static const magnetStraight = IconData(0xe682, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const magnetStraight = PhosphorFlatIconData(0xe682, 'Light');
 
   /// ![magnifying-glass-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/magnifying-glass-light.svg)
-  static const magnifyingGlass = IconData(0xe30c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const magnifyingGlass = PhosphorFlatIconData(0xe30c, 'Light');
 
   /// ![magnifying-glass-minus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/magnifying-glass-minus-light.svg)
-  static const magnifyingGlassMinus = IconData(0xe30e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const magnifyingGlassMinus = PhosphorFlatIconData(0xe30e, 'Light');
 
   /// ![magnifying-glass-plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/magnifying-glass-plus-light.svg)
-  static const magnifyingGlassPlus = IconData(0xe310, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const magnifyingGlassPlus = PhosphorFlatIconData(0xe310, 'Light');
 
   /// ![mailbox-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mailbox-light.svg)
-  static const mailbox = IconData(0xec1e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mailbox = PhosphorFlatIconData(0xec1e, 'Light');
 
   /// ![map-pin-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/map-pin-light.svg)
-  static const mapPin = IconData(0xe316, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mapPin = PhosphorFlatIconData(0xe316, 'Light');
 
   /// ![map-pin-area-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/map-pin-area-light.svg)
-  static const mapPinArea = IconData(0xee3a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mapPinArea = PhosphorFlatIconData(0xee3a, 'Light');
 
   /// ![map-pin-line-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/map-pin-line-light.svg)
-  static const mapPinLine = IconData(0xe318, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mapPinLine = PhosphorFlatIconData(0xe318, 'Light');
 
   /// ![map-pin-plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/map-pin-plus-light.svg)
-  static const mapPinPlus = IconData(0xe314, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mapPinPlus = PhosphorFlatIconData(0xe314, 'Light');
 
   /// ![map-pin-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/map-pin-simple-light.svg)
-  static const mapPinSimple = IconData(0xee3e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mapPinSimple = PhosphorFlatIconData(0xee3e, 'Light');
 
   /// ![map-pin-simple-area-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/map-pin-simple-area-light.svg)
-  static const mapPinSimpleArea = IconData(0xee3c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mapPinSimpleArea = PhosphorFlatIconData(0xee3c, 'Light');
 
   /// ![map-pin-simple-line-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/map-pin-simple-line-light.svg)
-  static const mapPinSimpleLine = IconData(0xee38, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mapPinSimpleLine = PhosphorFlatIconData(0xee38, 'Light');
 
   /// ![map-trifold-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/map-trifold-light.svg)
-  static const mapTrifold = IconData(0xe31a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mapTrifold = PhosphorFlatIconData(0xe31a, 'Light');
 
   /// ![markdown-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/markdown-logo-light.svg)
-  static const markdownLogo = IconData(0xe508, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const markdownLogo = PhosphorFlatIconData(0xe508, 'Light');
 
   /// ![marker-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/marker-circle-light.svg)
-  static const markerCircle = IconData(0xe640, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const markerCircle = PhosphorFlatIconData(0xe640, 'Light');
 
   /// ![martini-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/martini-light.svg)
-  static const martini = IconData(0xe31c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const martini = PhosphorFlatIconData(0xe31c, 'Light');
 
   /// ![mask-happy-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mask-happy-light.svg)
-  static const maskHappy = IconData(0xe9f4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const maskHappy = PhosphorFlatIconData(0xe9f4, 'Light');
 
   /// ![mask-sad-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mask-sad-light.svg)
-  static const maskSad = IconData(0xeb9e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const maskSad = PhosphorFlatIconData(0xeb9e, 'Light');
 
   /// ![mastodon-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mastodon-logo-light.svg)
-  static const mastodonLogo = IconData(0xed68, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mastodonLogo = PhosphorFlatIconData(0xed68, 'Light');
 
   /// ![math-operations-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/math-operations-light.svg)
-  static const mathOperations = IconData(0xe31e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mathOperations = PhosphorFlatIconData(0xe31e, 'Light');
 
   /// ![matrix-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/matrix-logo-light.svg)
-  static const matrixLogo = IconData(0xed64, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const matrixLogo = PhosphorFlatIconData(0xed64, 'Light');
 
   /// ![medal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/medal-light.svg)
-  static const medal = IconData(0xe320, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const medal = PhosphorFlatIconData(0xe320, 'Light');
 
   /// ![medal-military-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/medal-military-light.svg)
-  static const medalMilitary = IconData(0xecfc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const medalMilitary = PhosphorFlatIconData(0xecfc, 'Light');
 
   /// ![medium-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/medium-logo-light.svg)
-  static const mediumLogo = IconData(0xe322, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mediumLogo = PhosphorFlatIconData(0xe322, 'Light');
 
   /// ![megaphone-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/megaphone-light.svg)
-  static const megaphone = IconData(0xe324, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const megaphone = PhosphorFlatIconData(0xe324, 'Light');
 
   /// ![megaphone-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/megaphone-simple-light.svg)
-  static const megaphoneSimple = IconData(0xe642, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const megaphoneSimple = PhosphorFlatIconData(0xe642, 'Light');
 
   /// ![member-of-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/member-of-light.svg)
-  static const memberOf = IconData(0xedc2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const memberOf = PhosphorFlatIconData(0xedc2, 'Light');
 
   /// ![memory-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/memory-light.svg)
-  static const memory = IconData(0xe9c4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const memory = PhosphorFlatIconData(0xe9c4, 'Light');
 
   /// ![messenger-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/messenger-logo-light.svg)
-  static const messengerLogo = IconData(0xe6d8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const messengerLogo = PhosphorFlatIconData(0xe6d8, 'Light');
 
   /// ![meta-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/meta-logo-light.svg)
-  static const metaLogo = IconData(0xed02, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const metaLogo = PhosphorFlatIconData(0xed02, 'Light');
 
   /// ![meteor-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/meteor-light.svg)
-  static const meteor = IconData(0xe9ba, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const meteor = PhosphorFlatIconData(0xe9ba, 'Light');
 
   /// ![metronome-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/metronome-light.svg)
-  static const metronome = IconData(0xec8e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const metronome = PhosphorFlatIconData(0xec8e, 'Light');
 
   /// ![microphone-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microphone-light.svg)
-  static const microphone = IconData(0xe326, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const microphone = PhosphorFlatIconData(0xe326, 'Light');
 
   /// ![microphone-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microphone-slash-light.svg)
-  static const microphoneSlash = IconData(0xe328, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const microphoneSlash = PhosphorFlatIconData(0xe328, 'Light');
 
   /// ![microphone-stage-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microphone-stage-light.svg)
-  static const microphoneStage = IconData(0xe75c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const microphoneStage = PhosphorFlatIconData(0xe75c, 'Light');
 
   /// ![microscope-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microscope-light.svg)
-  static const microscope = IconData(0xec7a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const microscope = PhosphorFlatIconData(0xec7a, 'Light');
 
   /// ![microsoft-excel-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microsoft-excel-logo-light.svg)
-  static const microsoftExcelLogo = IconData(0xeb6c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const microsoftExcelLogo = PhosphorFlatIconData(0xeb6c, 'Light');
 
   /// ![microsoft-outlook-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microsoft-outlook-logo-light.svg)
-  static const microsoftOutlookLogo = IconData(0xeb70, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const microsoftOutlookLogo = PhosphorFlatIconData(0xeb70, 'Light');
 
   /// ![microsoft-powerpoint-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microsoft-powerpoint-logo-light.svg)
-  static const microsoftPowerpointLogo = IconData(0xeace, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const microsoftPowerpointLogo = PhosphorFlatIconData(0xeace, 'Light');
 
   /// ![microsoft-teams-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microsoft-teams-logo-light.svg)
-  static const microsoftTeamsLogo = IconData(0xeb66, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const microsoftTeamsLogo = PhosphorFlatIconData(0xeb66, 'Light');
 
   /// ![microsoft-word-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/microsoft-word-logo-light.svg)
-  static const microsoftWordLogo = IconData(0xeb6a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const microsoftWordLogo = PhosphorFlatIconData(0xeb6a, 'Light');
 
   /// ![minus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/minus-light.svg)
-  static const minus = IconData(0xe32a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const minus = PhosphorFlatIconData(0xe32a, 'Light');
 
   /// ![minus-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/minus-circle-light.svg)
-  static const minusCircle = IconData(0xe32c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const minusCircle = PhosphorFlatIconData(0xe32c, 'Light');
 
   /// ![minus-square-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/minus-square-light.svg)
-  static const minusSquare = IconData(0xed4c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const minusSquare = PhosphorFlatIconData(0xed4c, 'Light');
 
   /// ![money-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/money-light.svg)
-  static const money = IconData(0xe588, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const money = PhosphorFlatIconData(0xe588, 'Light');
 
   /// ![money-wavy-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/money-wavy-light.svg)
-  static const moneyWavy = IconData(0xee68, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const moneyWavy = PhosphorFlatIconData(0xee68, 'Light');
 
   /// ![monitor-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/monitor-light.svg)
-  static const monitor = IconData(0xe32e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const monitor = PhosphorFlatIconData(0xe32e, 'Light');
 
   /// ![monitor-arrow-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/monitor-arrow-up-light.svg)
-  static const monitorArrowUp = IconData(0xe58a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const monitorArrowUp = PhosphorFlatIconData(0xe58a, 'Light');
 
   /// ![monitor-play-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/monitor-play-light.svg)
-  static const monitorPlay = IconData(0xe58c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const monitorPlay = PhosphorFlatIconData(0xe58c, 'Light');
 
   /// ![moon-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/moon-light.svg)
-  static const moon = IconData(0xe330, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const moon = PhosphorFlatIconData(0xe330, 'Light');
 
   /// ![moon-stars-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/moon-stars-light.svg)
-  static const moonStars = IconData(0xe58e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const moonStars = PhosphorFlatIconData(0xe58e, 'Light');
 
   /// ![moped-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/moped-light.svg)
-  static const moped = IconData(0xe824, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const moped = PhosphorFlatIconData(0xe824, 'Light');
 
   /// ![moped-front-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/moped-front-light.svg)
-  static const mopedFront = IconData(0xe822, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mopedFront = PhosphorFlatIconData(0xe822, 'Light');
 
   /// ![mosque-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mosque-light.svg)
-  static const mosque = IconData(0xecee, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mosque = PhosphorFlatIconData(0xecee, 'Light');
 
   /// ![motorcycle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/motorcycle-light.svg)
-  static const motorcycle = IconData(0xe80a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const motorcycle = PhosphorFlatIconData(0xe80a, 'Light');
 
   /// ![mountains-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mountains-light.svg)
-  static const mountains = IconData(0xe7ae, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mountains = PhosphorFlatIconData(0xe7ae, 'Light');
 
   /// ![mouse-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mouse-light.svg)
-  static const mouse = IconData(0xe33a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mouse = PhosphorFlatIconData(0xe33a, 'Light');
 
   /// ![mouse-left-click-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mouse-left-click-light.svg)
-  static const mouseLeftClick = IconData(0xe334, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mouseLeftClick = PhosphorFlatIconData(0xe334, 'Light');
 
   /// ![mouse-middle-click-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mouse-middle-click-light.svg)
-  static const mouseMiddleClick = IconData(0xe338, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mouseMiddleClick = PhosphorFlatIconData(0xe338, 'Light');
 
   /// ![mouse-right-click-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mouse-right-click-light.svg)
-  static const mouseRightClick = IconData(0xe336, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mouseRightClick = PhosphorFlatIconData(0xe336, 'Light');
 
   /// ![mouse-scroll-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mouse-scroll-light.svg)
-  static const mouseScroll = IconData(0xe332, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mouseScroll = PhosphorFlatIconData(0xe332, 'Light');
 
   /// ![mouse-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/mouse-simple-light.svg)
-  static const mouseSimple = IconData(0xe644, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const mouseSimple = PhosphorFlatIconData(0xe644, 'Light');
 
   /// ![music-note-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/music-note-light.svg)
-  static const musicNote = IconData(0xe33c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const musicNote = PhosphorFlatIconData(0xe33c, 'Light');
 
   /// ![music-note-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/music-note-simple-light.svg)
-  static const musicNoteSimple = IconData(0xe33e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const musicNoteSimple = PhosphorFlatIconData(0xe33e, 'Light');
 
   /// ![music-notes-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/music-notes-light.svg)
-  static const musicNotes = IconData(0xe340, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const musicNotes = PhosphorFlatIconData(0xe340, 'Light');
 
   /// ![music-notes-minus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/music-notes-minus-light.svg)
-  static const musicNotesMinus = IconData(0xee0c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const musicNotesMinus = PhosphorFlatIconData(0xee0c, 'Light');
 
   /// ![music-notes-plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/music-notes-plus-light.svg)
-  static const musicNotesPlus = IconData(0xeb7c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const musicNotesPlus = PhosphorFlatIconData(0xeb7c, 'Light');
 
   /// ![music-notes-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/music-notes-simple-light.svg)
-  static const musicNotesSimple = IconData(0xe342, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const musicNotesSimple = PhosphorFlatIconData(0xe342, 'Light');
 
   /// ![navigation-arrow-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/navigation-arrow-light.svg)
-  static const navigationArrow = IconData(0xeade, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const navigationArrow = PhosphorFlatIconData(0xeade, 'Light');
 
   /// ![needle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/needle-light.svg)
-  static const needle = IconData(0xe82e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const needle = PhosphorFlatIconData(0xe82e, 'Light');
 
   /// ![network-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/network-light.svg)
-  static const network = IconData(0xedde, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const network = PhosphorFlatIconData(0xedde, 'Light');
 
   /// ![network-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/network-slash-light.svg)
-  static const networkSlash = IconData(0xeddc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const networkSlash = PhosphorFlatIconData(0xeddc, 'Light');
 
   /// ![network-x-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/network-x-light.svg)
-  static const networkX = IconData(0xedda, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const networkX = PhosphorFlatIconData(0xedda, 'Light');
 
   /// ![newspaper-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/newspaper-light.svg)
-  static const newspaper = IconData(0xe344, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const newspaper = PhosphorFlatIconData(0xe344, 'Light');
 
   /// ![newspaper-clipping-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/newspaper-clipping-light.svg)
-  static const newspaperClipping = IconData(0xe346, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const newspaperClipping = PhosphorFlatIconData(0xe346, 'Light');
 
   /// ![not-equals-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/not-equals-light.svg)
-  static const notEquals = IconData(0xeda6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const notEquals = PhosphorFlatIconData(0xeda6, 'Light');
 
   /// ![not-member-of-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/not-member-of-light.svg)
-  static const notMemberOf = IconData(0xedae, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const notMemberOf = PhosphorFlatIconData(0xedae, 'Light');
 
   /// ![not-subset-of-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/not-subset-of-light.svg)
-  static const notSubsetOf = IconData(0xedb0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const notSubsetOf = PhosphorFlatIconData(0xedb0, 'Light');
 
   /// ![not-superset-of-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/not-superset-of-light.svg)
-  static const notSupersetOf = IconData(0xedb2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const notSupersetOf = PhosphorFlatIconData(0xedb2, 'Light');
 
   /// ![notches-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/notches-light.svg)
-  static const notches = IconData(0xed3a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const notches = PhosphorFlatIconData(0xed3a, 'Light');
 
   /// ![note-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/note-light.svg)
-  static const note = IconData(0xe348, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const note = PhosphorFlatIconData(0xe348, 'Light');
 
   /// ![note-blank-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/note-blank-light.svg)
-  static const noteBlank = IconData(0xe34a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const noteBlank = PhosphorFlatIconData(0xe34a, 'Light');
 
   /// ![note-pencil-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/note-pencil-light.svg)
-  static const notePencil = IconData(0xe34c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const notePencil = PhosphorFlatIconData(0xe34c, 'Light');
 
   /// ![notebook-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/notebook-light.svg)
-  static const notebook = IconData(0xe34e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const notebook = PhosphorFlatIconData(0xe34e, 'Light');
 
   /// ![notepad-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/notepad-light.svg)
-  static const notepad = IconData(0xe63e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const notepad = PhosphorFlatIconData(0xe63e, 'Light');
 
   /// ![notification-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/notification-light.svg)
-  static const notification = IconData(0xe6fa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const notification = PhosphorFlatIconData(0xe6fa, 'Light');
 
   /// ![notion-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/notion-logo-light.svg)
-  static const notionLogo = IconData(0xe9a0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const notionLogo = PhosphorFlatIconData(0xe9a0, 'Light');
 
   /// ![nuclear-plant-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/nuclear-plant-light.svg)
-  static const nuclearPlant = IconData(0xed7c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const nuclearPlant = PhosphorFlatIconData(0xed7c, 'Light');
 
   /// ![number-circle-eight-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-eight-light.svg)
-  static const numberCircleEight = IconData(0xe352, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberCircleEight = PhosphorFlatIconData(0xe352, 'Light');
 
   /// ![number-circle-five-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-five-light.svg)
-  static const numberCircleFive = IconData(0xe358, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberCircleFive = PhosphorFlatIconData(0xe358, 'Light');
 
   /// ![number-circle-four-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-four-light.svg)
-  static const numberCircleFour = IconData(0xe35e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberCircleFour = PhosphorFlatIconData(0xe35e, 'Light');
 
   /// ![number-circle-nine-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-nine-light.svg)
-  static const numberCircleNine = IconData(0xe364, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberCircleNine = PhosphorFlatIconData(0xe364, 'Light');
 
   /// ![number-circle-one-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-one-light.svg)
-  static const numberCircleOne = IconData(0xe36a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberCircleOne = PhosphorFlatIconData(0xe36a, 'Light');
 
   /// ![number-circle-seven-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-seven-light.svg)
-  static const numberCircleSeven = IconData(0xe370, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberCircleSeven = PhosphorFlatIconData(0xe370, 'Light');
 
   /// ![number-circle-six-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-six-light.svg)
-  static const numberCircleSix = IconData(0xe376, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberCircleSix = PhosphorFlatIconData(0xe376, 'Light');
 
   /// ![number-circle-three-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-three-light.svg)
-  static const numberCircleThree = IconData(0xe37c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberCircleThree = PhosphorFlatIconData(0xe37c, 'Light');
 
   /// ![number-circle-two-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-two-light.svg)
-  static const numberCircleTwo = IconData(0xe382, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberCircleTwo = PhosphorFlatIconData(0xe382, 'Light');
 
   /// ![number-circle-zero-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-circle-zero-light.svg)
-  static const numberCircleZero = IconData(0xe388, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberCircleZero = PhosphorFlatIconData(0xe388, 'Light');
 
   /// ![number-eight-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-eight-light.svg)
-  static const numberEight = IconData(0xe350, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberEight = PhosphorFlatIconData(0xe350, 'Light');
 
   /// ![number-five-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-five-light.svg)
-  static const numberFive = IconData(0xe356, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberFive = PhosphorFlatIconData(0xe356, 'Light');
 
   /// ![number-four-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-four-light.svg)
-  static const numberFour = IconData(0xe35c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberFour = PhosphorFlatIconData(0xe35c, 'Light');
 
   /// ![number-nine-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-nine-light.svg)
-  static const numberNine = IconData(0xe362, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberNine = PhosphorFlatIconData(0xe362, 'Light');
 
   /// ![number-one-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-one-light.svg)
-  static const numberOne = IconData(0xe368, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberOne = PhosphorFlatIconData(0xe368, 'Light');
 
   /// ![number-seven-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-seven-light.svg)
-  static const numberSeven = IconData(0xe36e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberSeven = PhosphorFlatIconData(0xe36e, 'Light');
 
   /// ![number-six-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-six-light.svg)
-  static const numberSix = IconData(0xe374, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberSix = PhosphorFlatIconData(0xe374, 'Light');
 
   /// ![number-square-eight-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-eight-light.svg)
-  static const numberSquareEight = IconData(0xe354, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberSquareEight = PhosphorFlatIconData(0xe354, 'Light');
 
   /// ![number-square-five-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-five-light.svg)
-  static const numberSquareFive = IconData(0xe35a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberSquareFive = PhosphorFlatIconData(0xe35a, 'Light');
 
   /// ![number-square-four-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-four-light.svg)
-  static const numberSquareFour = IconData(0xe360, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberSquareFour = PhosphorFlatIconData(0xe360, 'Light');
 
   /// ![number-square-nine-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-nine-light.svg)
-  static const numberSquareNine = IconData(0xe366, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberSquareNine = PhosphorFlatIconData(0xe366, 'Light');
 
   /// ![number-square-one-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-one-light.svg)
-  static const numberSquareOne = IconData(0xe36c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberSquareOne = PhosphorFlatIconData(0xe36c, 'Light');
 
   /// ![number-square-seven-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-seven-light.svg)
-  static const numberSquareSeven = IconData(0xe372, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberSquareSeven = PhosphorFlatIconData(0xe372, 'Light');
 
   /// ![number-square-six-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-six-light.svg)
-  static const numberSquareSix = IconData(0xe378, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberSquareSix = PhosphorFlatIconData(0xe378, 'Light');
 
   /// ![number-square-three-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-three-light.svg)
-  static const numberSquareThree = IconData(0xe37e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberSquareThree = PhosphorFlatIconData(0xe37e, 'Light');
 
   /// ![number-square-two-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-two-light.svg)
-  static const numberSquareTwo = IconData(0xe384, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberSquareTwo = PhosphorFlatIconData(0xe384, 'Light');
 
   /// ![number-square-zero-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-square-zero-light.svg)
-  static const numberSquareZero = IconData(0xe38a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberSquareZero = PhosphorFlatIconData(0xe38a, 'Light');
 
   /// ![number-three-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-three-light.svg)
-  static const numberThree = IconData(0xe37a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberThree = PhosphorFlatIconData(0xe37a, 'Light');
 
   /// ![number-two-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-two-light.svg)
-  static const numberTwo = IconData(0xe380, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberTwo = PhosphorFlatIconData(0xe380, 'Light');
 
   /// ![number-zero-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/number-zero-light.svg)
-  static const numberZero = IconData(0xe386, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numberZero = PhosphorFlatIconData(0xe386, 'Light');
 
   /// ![numpad-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/numpad-light.svg)
-  static const numpad = IconData(0xe3c8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const numpad = PhosphorFlatIconData(0xe3c8, 'Light');
 
   /// ![nut-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/nut-light.svg)
-  static const nut = IconData(0xe38c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const nut = PhosphorFlatIconData(0xe38c, 'Light');
 
   /// ![ny-times-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ny-times-logo-light.svg)
-  static const nyTimesLogo = IconData(0xe646, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const nyTimesLogo = PhosphorFlatIconData(0xe646, 'Light');
 
   /// ![octagon-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/octagon-light.svg)
-  static const octagon = IconData(0xe38e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const octagon = PhosphorFlatIconData(0xe38e, 'Light');
 
   /// ![office-chair-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/office-chair-light.svg)
-  static const officeChair = IconData(0xea46, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const officeChair = PhosphorFlatIconData(0xea46, 'Light');
 
   /// ![onigiri-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/onigiri-light.svg)
-  static const onigiri = IconData(0xee2c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const onigiri = PhosphorFlatIconData(0xee2c, 'Light');
 
   /// ![open-ai-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/open-ai-logo-light.svg)
-  static const openAiLogo = IconData(0xe7d2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const openAiLogo = PhosphorFlatIconData(0xe7d2, 'Light');
 
   /// ![option-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/option-light.svg)
-  static const option = IconData(0xe8a8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const option = PhosphorFlatIconData(0xe8a8, 'Light');
 
   /// ![orange-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/orange-light.svg)
-  static const orange = IconData(0xee40, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const orange = PhosphorFlatIconData(0xee40, 'Light');
 
   /// ![orange-slice-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/orange-slice-light.svg)
-  static const orangeSlice = IconData(0xed36, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const orangeSlice = PhosphorFlatIconData(0xed36, 'Light');
 
   /// ![oven-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/oven-light.svg)
-  static const oven = IconData(0xed8c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const oven = PhosphorFlatIconData(0xed8c, 'Light');
 
   /// ![package-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/package-light.svg)
-  static const package = IconData(0xe390, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const package = PhosphorFlatIconData(0xe390, 'Light');
 
   /// ![paint-brush-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paint-brush-light.svg)
-  static const paintBrush = IconData(0xe6f0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const paintBrush = PhosphorFlatIconData(0xe6f0, 'Light');
 
   /// ![paint-brush-broad-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paint-brush-broad-light.svg)
-  static const paintBrushBroad = IconData(0xe590, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const paintBrushBroad = PhosphorFlatIconData(0xe590, 'Light');
 
   /// ![paint-brush-household-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paint-brush-household-light.svg)
-  static const paintBrushHousehold = IconData(0xe6f2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const paintBrushHousehold = PhosphorFlatIconData(0xe6f2, 'Light');
 
   /// ![paint-bucket-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paint-bucket-light.svg)
-  static const paintBucket = IconData(0xe392, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const paintBucket = PhosphorFlatIconData(0xe392, 'Light');
 
   /// ![paint-roller-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paint-roller-light.svg)
-  static const paintRoller = IconData(0xe6f4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const paintRoller = PhosphorFlatIconData(0xe6f4, 'Light');
 
   /// ![palette-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/palette-light.svg)
-  static const palette = IconData(0xe6c8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const palette = PhosphorFlatIconData(0xe6c8, 'Light');
 
   /// ![panorama-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/panorama-light.svg)
-  static const panorama = IconData(0xeaa2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const panorama = PhosphorFlatIconData(0xeaa2, 'Light');
 
   /// ![pants-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pants-light.svg)
-  static const pants = IconData(0xec88, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pants = PhosphorFlatIconData(0xec88, 'Light');
 
   /// ![paper-plane-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paper-plane-light.svg)
-  static const paperPlane = IconData(0xe394, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const paperPlane = PhosphorFlatIconData(0xe394, 'Light');
 
   /// ![paper-plane-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paper-plane-right-light.svg)
-  static const paperPlaneRight = IconData(0xe396, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const paperPlaneRight = PhosphorFlatIconData(0xe396, 'Light');
 
   /// ![paper-plane-tilt-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paper-plane-tilt-light.svg)
-  static const paperPlaneTilt = IconData(0xe398, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const paperPlaneTilt = PhosphorFlatIconData(0xe398, 'Light');
 
   /// ![paperclip-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paperclip-light.svg)
-  static const paperclip = IconData(0xe39a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const paperclip = PhosphorFlatIconData(0xe39a, 'Light');
 
   /// ![paperclip-horizontal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paperclip-horizontal-light.svg)
-  static const paperclipHorizontal = IconData(0xe592, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const paperclipHorizontal = PhosphorFlatIconData(0xe592, 'Light');
 
   /// ![parachute-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/parachute-light.svg)
-  static const parachute = IconData(0xea7c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const parachute = PhosphorFlatIconData(0xea7c, 'Light');
 
   /// ![paragraph-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paragraph-light.svg)
-  static const paragraph = IconData(0xe960, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const paragraph = PhosphorFlatIconData(0xe960, 'Light');
 
   /// ![parallelogram-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/parallelogram-light.svg)
-  static const parallelogram = IconData(0xecc6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const parallelogram = PhosphorFlatIconData(0xecc6, 'Light');
 
   /// ![park-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/park-light.svg)
-  static const park = IconData(0xecb2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const park = PhosphorFlatIconData(0xecb2, 'Light');
 
   /// ![password-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/password-light.svg)
-  static const password = IconData(0xe752, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const password = PhosphorFlatIconData(0xe752, 'Light');
 
   /// ![path-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/path-light.svg)
-  static const path = IconData(0xe39c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const path = PhosphorFlatIconData(0xe39c, 'Light');
 
   /// ![patreon-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/patreon-logo-light.svg)
-  static const patreonLogo = IconData(0xe98a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const patreonLogo = PhosphorFlatIconData(0xe98a, 'Light');
 
   /// ![pause-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pause-light.svg)
-  static const pause = IconData(0xe39e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pause = PhosphorFlatIconData(0xe39e, 'Light');
 
   /// ![pause-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pause-circle-light.svg)
-  static const pauseCircle = IconData(0xe3a0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pauseCircle = PhosphorFlatIconData(0xe3a0, 'Light');
 
   /// ![paw-print-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paw-print-light.svg)
-  static const pawPrint = IconData(0xe648, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pawPrint = PhosphorFlatIconData(0xe648, 'Light');
 
   /// ![paypal-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/paypal-logo-light.svg)
-  static const paypalLogo = IconData(0xe98c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const paypalLogo = PhosphorFlatIconData(0xe98c, 'Light');
 
   /// ![peace-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/peace-light.svg)
-  static const peace = IconData(0xe3a2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const peace = PhosphorFlatIconData(0xe3a2, 'Light');
 
   /// ![pen-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pen-light.svg)
-  static const pen = IconData(0xe3aa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pen = PhosphorFlatIconData(0xe3aa, 'Light');
 
   /// ![pen-nib-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pen-nib-light.svg)
-  static const penNib = IconData(0xe3ac, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const penNib = PhosphorFlatIconData(0xe3ac, 'Light');
 
   /// ![pen-nib-straight-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pen-nib-straight-light.svg)
-  static const penNibStraight = IconData(0xe64a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const penNibStraight = PhosphorFlatIconData(0xe64a, 'Light');
 
   /// ![pencil-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pencil-light.svg)
-  static const pencil = IconData(0xe3ae, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pencil = PhosphorFlatIconData(0xe3ae, 'Light');
 
   /// ![pencil-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pencil-circle-light.svg)
-  static const pencilCircle = IconData(0xe3b0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pencilCircle = PhosphorFlatIconData(0xe3b0, 'Light');
 
   /// ![pencil-line-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pencil-line-light.svg)
-  static const pencilLine = IconData(0xe3b2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pencilLine = PhosphorFlatIconData(0xe3b2, 'Light');
 
   /// ![pencil-ruler-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pencil-ruler-light.svg)
-  static const pencilRuler = IconData(0xe906, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pencilRuler = PhosphorFlatIconData(0xe906, 'Light');
 
   /// ![pencil-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pencil-simple-light.svg)
-  static const pencilSimple = IconData(0xe3b4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pencilSimple = PhosphorFlatIconData(0xe3b4, 'Light');
 
   /// ![pencil-simple-line-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pencil-simple-line-light.svg)
-  static const pencilSimpleLine = IconData(0xebc6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pencilSimpleLine = PhosphorFlatIconData(0xebc6, 'Light');
 
   /// ![pencil-simple-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pencil-simple-slash-light.svg)
-  static const pencilSimpleSlash = IconData(0xecf6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pencilSimpleSlash = PhosphorFlatIconData(0xecf6, 'Light');
 
   /// ![pencil-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pencil-slash-light.svg)
-  static const pencilSlash = IconData(0xecf8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pencilSlash = PhosphorFlatIconData(0xecf8, 'Light');
 
   /// ![pentagon-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pentagon-light.svg)
-  static const pentagon = IconData(0xec7e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pentagon = PhosphorFlatIconData(0xec7e, 'Light');
 
   /// ![pentagram-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pentagram-light.svg)
-  static const pentagram = IconData(0xec5c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pentagram = PhosphorFlatIconData(0xec5c, 'Light');
 
   /// ![pepper-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pepper-light.svg)
-  static const pepper = IconData(0xe94a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pepper = PhosphorFlatIconData(0xe94a, 'Light');
 
   /// ![percent-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/percent-light.svg)
-  static const percent = IconData(0xe3b6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const percent = PhosphorFlatIconData(0xe3b6, 'Light');
 
   /// ![person-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-light.svg)
-  static const person = IconData(0xe3a8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const person = PhosphorFlatIconData(0xe3a8, 'Light');
 
   /// ![person-arms-spread-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-arms-spread-light.svg)
-  static const personArmsSpread = IconData(0xecfe, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const personArmsSpread = PhosphorFlatIconData(0xecfe, 'Light');
 
   /// ![person-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-light.svg)
-  static const personSimple = IconData(0xe72e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const personSimple = PhosphorFlatIconData(0xe72e, 'Light');
 
   /// ![person-simple-bike-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-bike-light.svg)
-  static const personSimpleBike = IconData(0xe734, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const personSimpleBike = PhosphorFlatIconData(0xe734, 'Light');
 
   /// ![person-simple-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-circle-light.svg)
-  static const personSimpleCircle = IconData(0xee58, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const personSimpleCircle = PhosphorFlatIconData(0xee58, 'Light');
 
   /// ![person-simple-hike-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-hike-light.svg)
-  static const personSimpleHike = IconData(0xed54, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const personSimpleHike = PhosphorFlatIconData(0xed54, 'Light');
 
   /// ![person-simple-run-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-run-light.svg)
-  static const personSimpleRun = IconData(0xe730, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const personSimpleRun = PhosphorFlatIconData(0xe730, 'Light');
 
   /// ![person-simple-ski-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-ski-light.svg)
-  static const personSimpleSki = IconData(0xe71c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const personSimpleSki = PhosphorFlatIconData(0xe71c, 'Light');
 
   /// ![person-simple-snowboard-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-snowboard-light.svg)
-  static const personSimpleSnowboard = IconData(0xe71e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const personSimpleSnowboard = PhosphorFlatIconData(0xe71e, 'Light');
 
   /// ![person-simple-swim-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-swim-light.svg)
-  static const personSimpleSwim = IconData(0xe736, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const personSimpleSwim = PhosphorFlatIconData(0xe736, 'Light');
 
   /// ![person-simple-tai-chi-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-tai-chi-light.svg)
-  static const personSimpleTaiChi = IconData(0xed5c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const personSimpleTaiChi = PhosphorFlatIconData(0xed5c, 'Light');
 
   /// ![person-simple-throw-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-throw-light.svg)
-  static const personSimpleThrow = IconData(0xe732, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const personSimpleThrow = PhosphorFlatIconData(0xe732, 'Light');
 
   /// ![person-simple-walk-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/person-simple-walk-light.svg)
-  static const personSimpleWalk = IconData(0xe73a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const personSimpleWalk = PhosphorFlatIconData(0xe73a, 'Light');
 
   /// ![perspective-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/perspective-light.svg)
-  static const perspective = IconData(0xebe6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const perspective = PhosphorFlatIconData(0xebe6, 'Light');
 
   /// ![phone-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-light.svg)
-  static const phone = IconData(0xe3b8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const phone = PhosphorFlatIconData(0xe3b8, 'Light');
 
   /// ![phone-call-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-call-light.svg)
-  static const phoneCall = IconData(0xe3ba, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const phoneCall = PhosphorFlatIconData(0xe3ba, 'Light');
 
   /// ![phone-disconnect-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-disconnect-light.svg)
-  static const phoneDisconnect = IconData(0xe3bc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const phoneDisconnect = PhosphorFlatIconData(0xe3bc, 'Light');
 
   /// ![phone-incoming-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-incoming-light.svg)
-  static const phoneIncoming = IconData(0xe3be, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const phoneIncoming = PhosphorFlatIconData(0xe3be, 'Light');
 
   /// ![phone-list-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-list-light.svg)
-  static const phoneList = IconData(0xe3cc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const phoneList = PhosphorFlatIconData(0xe3cc, 'Light');
 
   /// ![phone-outgoing-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-outgoing-light.svg)
-  static const phoneOutgoing = IconData(0xe3c0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const phoneOutgoing = PhosphorFlatIconData(0xe3c0, 'Light');
 
   /// ![phone-pause-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-pause-light.svg)
-  static const phonePause = IconData(0xe3ca, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const phonePause = PhosphorFlatIconData(0xe3ca, 'Light');
 
   /// ![phone-plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-plus-light.svg)
-  static const phonePlus = IconData(0xec56, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const phonePlus = PhosphorFlatIconData(0xec56, 'Light');
 
   /// ![phone-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-slash-light.svg)
-  static const phoneSlash = IconData(0xe3c2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const phoneSlash = PhosphorFlatIconData(0xe3c2, 'Light');
 
   /// ![phone-transfer-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-transfer-light.svg)
-  static const phoneTransfer = IconData(0xe3c6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const phoneTransfer = PhosphorFlatIconData(0xe3c6, 'Light');
 
   /// ![phone-x-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phone-x-light.svg)
-  static const phoneX = IconData(0xe3c4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const phoneX = PhosphorFlatIconData(0xe3c4, 'Light');
 
   /// ![phosphor-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/phosphor-logo-light.svg)
-  static const phosphorLogo = IconData(0xe3ce, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const phosphorLogo = PhosphorFlatIconData(0xe3ce, 'Light');
 
   /// ![pi-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pi-light.svg)
-  static const pi = IconData(0xec80, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pi = PhosphorFlatIconData(0xec80, 'Light');
 
   /// ![piano-keys-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/piano-keys-light.svg)
-  static const pianoKeys = IconData(0xe9c8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pianoKeys = PhosphorFlatIconData(0xe9c8, 'Light');
 
   /// ![picnic-table-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/picnic-table-light.svg)
-  static const picnicTable = IconData(0xee26, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const picnicTable = PhosphorFlatIconData(0xee26, 'Light');
 
   /// ![picture-in-picture-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/picture-in-picture-light.svg)
-  static const pictureInpicture = IconData(0xe64c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pictureInpicture = PhosphorFlatIconData(0xe64c, 'Light');
 
   /// ![piggy-bank-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/piggy-bank-light.svg)
-  static const piggyBank = IconData(0xea04, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const piggyBank = PhosphorFlatIconData(0xea04, 'Light');
 
   /// ![pill-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pill-light.svg)
-  static const pill = IconData(0xe700, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pill = PhosphorFlatIconData(0xe700, 'Light');
 
   /// ![ping-pong-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ping-pong-light.svg)
-  static const pingPong = IconData(0xea42, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pingPong = PhosphorFlatIconData(0xea42, 'Light');
 
   /// ![pint-glass-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pint-glass-light.svg)
-  static const pintGlass = IconData(0xedd0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pintGlass = PhosphorFlatIconData(0xedd0, 'Light');
 
   /// ![pinterest-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pinterest-logo-light.svg)
-  static const pinterestLogo = IconData(0xe64e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pinterestLogo = PhosphorFlatIconData(0xe64e, 'Light');
 
   /// ![pinwheel-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pinwheel-light.svg)
-  static const pinwheel = IconData(0xeb9c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pinwheel = PhosphorFlatIconData(0xeb9c, 'Light');
 
   /// ![pipe-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pipe-light.svg)
-  static const pipe = IconData(0xed86, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pipe = PhosphorFlatIconData(0xed86, 'Light');
 
   /// ![pipe-wrench-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pipe-wrench-light.svg)
-  static const pipeWrench = IconData(0xed88, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pipeWrench = PhosphorFlatIconData(0xed88, 'Light');
 
   /// ![pix-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pix-logo-light.svg)
-  static const pixLogo = IconData(0xecc2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pixLogo = PhosphorFlatIconData(0xecc2, 'Light');
 
   /// ![pizza-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pizza-light.svg)
-  static const pizza = IconData(0xe796, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pizza = PhosphorFlatIconData(0xe796, 'Light');
 
   /// ![placeholder-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/placeholder-light.svg)
-  static const placeholder = IconData(0xe650, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const placeholder = PhosphorFlatIconData(0xe650, 'Light');
 
   /// ![planet-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/planet-light.svg)
-  static const planet = IconData(0xe652, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const planet = PhosphorFlatIconData(0xe652, 'Light');
 
   /// ![plant-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plant-light.svg)
-  static const plant = IconData(0xebae, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const plant = PhosphorFlatIconData(0xebae, 'Light');
 
   /// ![play-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/play-light.svg)
-  static const play = IconData(0xe3d0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const play = PhosphorFlatIconData(0xe3d0, 'Light');
 
   /// ![play-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/play-circle-light.svg)
-  static const playCircle = IconData(0xe3d2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const playCircle = PhosphorFlatIconData(0xe3d2, 'Light');
 
   /// ![play-pause-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/play-pause-light.svg)
-  static const playPause = IconData(0xe8be, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const playPause = PhosphorFlatIconData(0xe8be, 'Light');
 
   /// ![playlist-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/playlist-light.svg)
-  static const playlist = IconData(0xe6aa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const playlist = PhosphorFlatIconData(0xe6aa, 'Light');
 
   /// ![plug-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plug-light.svg)
-  static const plug = IconData(0xe946, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const plug = PhosphorFlatIconData(0xe946, 'Light');
 
   /// ![plug-charging-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plug-charging-light.svg)
-  static const plugCharging = IconData(0xeb5c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const plugCharging = PhosphorFlatIconData(0xeb5c, 'Light');
 
   /// ![plugs-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plugs-light.svg)
-  static const plugs = IconData(0xeb56, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const plugs = PhosphorFlatIconData(0xeb56, 'Light');
 
   /// ![plugs-connected-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plugs-connected-light.svg)
-  static const plugsConnected = IconData(0xeb5a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const plugsConnected = PhosphorFlatIconData(0xeb5a, 'Light');
 
   /// ![plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plus-light.svg)
-  static const plus = IconData(0xe3d4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const plus = PhosphorFlatIconData(0xe3d4, 'Light');
 
   /// ![plus-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plus-circle-light.svg)
-  static const plusCircle = IconData(0xe3d6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const plusCircle = PhosphorFlatIconData(0xe3d6, 'Light');
 
   /// ![plus-minus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plus-minus-light.svg)
-  static const plusMinus = IconData(0xe3d8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const plusMinus = PhosphorFlatIconData(0xe3d8, 'Light');
 
   /// ![plus-square-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/plus-square-light.svg)
-  static const plusSquare = IconData(0xed4a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const plusSquare = PhosphorFlatIconData(0xed4a, 'Light');
 
   /// ![poker-chip-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/poker-chip-light.svg)
-  static const pokerChip = IconData(0xe594, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pokerChip = PhosphorFlatIconData(0xe594, 'Light');
 
   /// ![police-car-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/police-car-light.svg)
-  static const policeCar = IconData(0xec4a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const policeCar = PhosphorFlatIconData(0xec4a, 'Light');
 
   /// ![polygon-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/polygon-light.svg)
-  static const polygon = IconData(0xe6d0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const polygon = PhosphorFlatIconData(0xe6d0, 'Light');
 
   /// ![popcorn-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/popcorn-light.svg)
-  static const popcorn = IconData(0xeb4e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const popcorn = PhosphorFlatIconData(0xeb4e, 'Light');
 
   /// ![popsicle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/popsicle-light.svg)
-  static const popsicle = IconData(0xebbe, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const popsicle = PhosphorFlatIconData(0xebbe, 'Light');
 
   /// ![potted-plant-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/potted-plant-light.svg)
-  static const pottedPlant = IconData(0xec22, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pottedPlant = PhosphorFlatIconData(0xec22, 'Light');
 
   /// ![power-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/power-light.svg)
-  static const power = IconData(0xe3da, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const power = PhosphorFlatIconData(0xe3da, 'Light');
 
   /// ![prescription-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/prescription-light.svg)
-  static const prescription = IconData(0xe7a2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const prescription = PhosphorFlatIconData(0xe7a2, 'Light');
 
   /// ![presentation-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/presentation-light.svg)
-  static const presentation = IconData(0xe654, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const presentation = PhosphorFlatIconData(0xe654, 'Light');
 
   /// ![presentation-chart-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/presentation-chart-light.svg)
-  static const presentationChart = IconData(0xe656, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const presentationChart = PhosphorFlatIconData(0xe656, 'Light');
 
   /// ![printer-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/printer-light.svg)
-  static const printer = IconData(0xe3dc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const printer = PhosphorFlatIconData(0xe3dc, 'Light');
 
   /// ![prohibit-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/prohibit-light.svg)
-  static const prohibit = IconData(0xe3de, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const prohibit = PhosphorFlatIconData(0xe3de, 'Light');
 
   /// ![prohibit-inset-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/prohibit-inset-light.svg)
-  static const prohibitInset = IconData(0xe3e0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const prohibitInset = PhosphorFlatIconData(0xe3e0, 'Light');
 
   /// ![projector-screen-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/projector-screen-light.svg)
-  static const projectorScreen = IconData(0xe658, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const projectorScreen = PhosphorFlatIconData(0xe658, 'Light');
 
   /// ![projector-screen-chart-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/projector-screen-chart-light.svg)
-  static const projectorScreenChart = IconData(0xe65a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const projectorScreenChart = PhosphorFlatIconData(0xe65a, 'Light');
 
   /// ![pulse-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/pulse-light.svg)
-  static const pulse = IconData(0xe000, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pulse = PhosphorFlatIconData(0xe000, 'Light');
 
   /// ![push-pin-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/push-pin-light.svg)
-  static const pushPin = IconData(0xe3e2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pushPin = PhosphorFlatIconData(0xe3e2, 'Light');
 
   /// ![push-pin-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/push-pin-simple-light.svg)
-  static const pushPinSimple = IconData(0xe65c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pushPinSimple = PhosphorFlatIconData(0xe65c, 'Light');
 
   /// ![push-pin-simple-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/push-pin-simple-slash-light.svg)
-  static const pushPinSimpleSlash = IconData(0xe65e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pushPinSimpleSlash = PhosphorFlatIconData(0xe65e, 'Light');
 
   /// ![push-pin-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/push-pin-slash-light.svg)
-  static const pushPinSlash = IconData(0xe3e4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const pushPinSlash = PhosphorFlatIconData(0xe3e4, 'Light');
 
   /// ![puzzle-piece-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/puzzle-piece-light.svg)
-  static const puzzlePiece = IconData(0xe596, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const puzzlePiece = PhosphorFlatIconData(0xe596, 'Light');
 
   /// ![qr-code-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/qr-code-light.svg)
-  static const qrCode = IconData(0xe3e6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const qrCode = PhosphorFlatIconData(0xe3e6, 'Light');
 
   /// ![question-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/question-light.svg)
-  static const question = IconData(0xe3e8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const question = PhosphorFlatIconData(0xe3e8, 'Light');
 
   /// ![question-mark-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/question-mark-light.svg)
-  static const questionMark = IconData(0xe3e9, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const questionMark = PhosphorFlatIconData(0xe3e9, 'Light');
 
   /// ![queue-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/queue-light.svg)
-  static const queue = IconData(0xe6ac, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const queue = PhosphorFlatIconData(0xe6ac, 'Light');
 
   /// ![quotes-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/quotes-light.svg)
-  static const quotes = IconData(0xe660, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const quotes = PhosphorFlatIconData(0xe660, 'Light');
 
   /// ![rabbit-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rabbit-light.svg)
-  static const rabbit = IconData(0xeac2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const rabbit = PhosphorFlatIconData(0xeac2, 'Light');
 
   /// ![racquet-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/racquet-light.svg)
-  static const racquet = IconData(0xee02, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const racquet = PhosphorFlatIconData(0xee02, 'Light');
 
   /// ![radical-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/radical-light.svg)
-  static const radical = IconData(0xe3ea, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const radical = PhosphorFlatIconData(0xe3ea, 'Light');
 
   /// ![radio-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/radio-light.svg)
-  static const radio = IconData(0xe77e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const radio = PhosphorFlatIconData(0xe77e, 'Light');
 
   /// ![radio-button-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/radio-button-light.svg)
-  static const radioButton = IconData(0xeb08, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const radioButton = PhosphorFlatIconData(0xeb08, 'Light');
 
   /// ![radioactive-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/radioactive-light.svg)
-  static const radioactive = IconData(0xe9dc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const radioactive = PhosphorFlatIconData(0xe9dc, 'Light');
 
   /// ![rainbow-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rainbow-light.svg)
-  static const rainbow = IconData(0xe598, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const rainbow = PhosphorFlatIconData(0xe598, 'Light');
 
   /// ![rainbow-cloud-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rainbow-cloud-light.svg)
-  static const rainbowCloud = IconData(0xe59a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const rainbowCloud = PhosphorFlatIconData(0xe59a, 'Light');
 
   /// ![ranking-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ranking-light.svg)
-  static const ranking = IconData(0xed62, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const ranking = PhosphorFlatIconData(0xed62, 'Light');
 
   /// ![read-cv-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/read-cv-logo-light.svg)
-  static const readCvLogo = IconData(0xed0c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const readCvLogo = PhosphorFlatIconData(0xed0c, 'Light');
 
   /// ![receipt-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/receipt-light.svg)
-  static const receipt = IconData(0xe3ec, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const receipt = PhosphorFlatIconData(0xe3ec, 'Light');
 
   /// ![receipt-x-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/receipt-x-light.svg)
-  static const receiptX = IconData(0xed40, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const receiptX = PhosphorFlatIconData(0xed40, 'Light');
 
   /// ![record-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/record-light.svg)
-  static const record = IconData(0xe3ee, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const record = PhosphorFlatIconData(0xe3ee, 'Light');
 
   /// ![rectangle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rectangle-light.svg)
-  static const rectangle = IconData(0xe3f0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const rectangle = PhosphorFlatIconData(0xe3f0, 'Light');
 
   /// ![rectangle-dashed-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rectangle-dashed-light.svg)
-  static const rectangleDashed = IconData(0xe3f2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const rectangleDashed = PhosphorFlatIconData(0xe3f2, 'Light');
 
   /// ![recycle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/recycle-light.svg)
-  static const recycle = IconData(0xe75a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const recycle = PhosphorFlatIconData(0xe75a, 'Light');
 
   /// ![reddit-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/reddit-logo-light.svg)
-  static const redditLogo = IconData(0xe59c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const redditLogo = PhosphorFlatIconData(0xe59c, 'Light');
 
   /// ![repeat-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/repeat-light.svg)
-  static const repeat = IconData(0xe3f6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const repeat = PhosphorFlatIconData(0xe3f6, 'Light');
 
   /// ![repeat-once-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/repeat-once-light.svg)
-  static const repeatOnce = IconData(0xe3f8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const repeatOnce = PhosphorFlatIconData(0xe3f8, 'Light');
 
   /// ![replit-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/replit-logo-light.svg)
-  static const replitLogo = IconData(0xeb8a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const replitLogo = PhosphorFlatIconData(0xeb8a, 'Light');
 
   /// ![resize-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/resize-light.svg)
-  static const resize = IconData(0xed6e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const resize = PhosphorFlatIconData(0xed6e, 'Light');
 
   /// ![rewind-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rewind-light.svg)
-  static const rewind = IconData(0xe6a8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const rewind = PhosphorFlatIconData(0xe6a8, 'Light');
 
   /// ![rewind-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rewind-circle-light.svg)
-  static const rewindCircle = IconData(0xe3fa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const rewindCircle = PhosphorFlatIconData(0xe3fa, 'Light');
 
   /// ![road-horizon-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/road-horizon-light.svg)
-  static const roadHorizon = IconData(0xe838, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const roadHorizon = PhosphorFlatIconData(0xe838, 'Light');
 
   /// ![robot-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/robot-light.svg)
-  static const robot = IconData(0xe762, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const robot = PhosphorFlatIconData(0xe762, 'Light');
 
   /// ![rocket-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rocket-light.svg)
-  static const rocket = IconData(0xe3fc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const rocket = PhosphorFlatIconData(0xe3fc, 'Light');
 
   /// ![rocket-launch-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rocket-launch-light.svg)
-  static const rocketLaunch = IconData(0xe3fe, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const rocketLaunch = PhosphorFlatIconData(0xe3fe, 'Light');
 
   /// ![rows-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rows-light.svg)
-  static const rows = IconData(0xe5a2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const rows = PhosphorFlatIconData(0xe5a2, 'Light');
 
   /// ![rows-plus-bottom-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rows-plus-bottom-light.svg)
-  static const rowsPlusBottom = IconData(0xe59e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const rowsPlusBottom = PhosphorFlatIconData(0xe59e, 'Light');
 
   /// ![rows-plus-top-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rows-plus-top-light.svg)
-  static const rowsPlusTop = IconData(0xe5a0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const rowsPlusTop = PhosphorFlatIconData(0xe5a0, 'Light');
 
   /// ![rss-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rss-light.svg)
-  static const rss = IconData(0xe400, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const rss = PhosphorFlatIconData(0xe400, 'Light');
 
   /// ![rss-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rss-simple-light.svg)
-  static const rssSimple = IconData(0xe402, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const rssSimple = PhosphorFlatIconData(0xe402, 'Light');
 
   /// ![rug-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/rug-light.svg)
-  static const rug = IconData(0xea1a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const rug = PhosphorFlatIconData(0xea1a, 'Light');
 
   /// ![ruler-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ruler-light.svg)
-  static const ruler = IconData(0xe6b8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const ruler = PhosphorFlatIconData(0xe6b8, 'Light');
 
   /// ![sailboat-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sailboat-light.svg)
-  static const sailboat = IconData(0xe78a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sailboat = PhosphorFlatIconData(0xe78a, 'Light');
 
   /// ![scales-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/scales-light.svg)
-  static const scales = IconData(0xe750, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const scales = PhosphorFlatIconData(0xe750, 'Light');
 
   /// ![scan-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/scan-light.svg)
-  static const scan = IconData(0xebb6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const scan = PhosphorFlatIconData(0xebb6, 'Light');
 
   /// ![scan-smiley-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/scan-smiley-light.svg)
-  static const scanSmiley = IconData(0xebb4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const scanSmiley = PhosphorFlatIconData(0xebb4, 'Light');
 
   /// ![scissors-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/scissors-light.svg)
-  static const scissors = IconData(0xeae0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const scissors = PhosphorFlatIconData(0xeae0, 'Light');
 
   /// ![scooter-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/scooter-light.svg)
-  static const scooter = IconData(0xe820, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const scooter = PhosphorFlatIconData(0xe820, 'Light');
 
   /// ![screencast-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/screencast-light.svg)
-  static const screencast = IconData(0xe404, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const screencast = PhosphorFlatIconData(0xe404, 'Light');
 
   /// ![screwdriver-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/screwdriver-light.svg)
-  static const screwdriver = IconData(0xe86e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const screwdriver = PhosphorFlatIconData(0xe86e, 'Light');
 
   /// ![scribble-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/scribble-light.svg)
-  static const scribble = IconData(0xe806, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const scribble = PhosphorFlatIconData(0xe806, 'Light');
 
   /// ![scribble-loop-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/scribble-loop-light.svg)
-  static const scribbleLoop = IconData(0xe662, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const scribbleLoop = PhosphorFlatIconData(0xe662, 'Light');
 
   /// ![scroll-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/scroll-light.svg)
-  static const scroll = IconData(0xeb7a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const scroll = PhosphorFlatIconData(0xeb7a, 'Light');
 
   /// ![seal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/seal-light.svg)
-  static const seal = IconData(0xe604, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const seal = PhosphorFlatIconData(0xe604, 'Light');
 
   /// ![seal-check-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/seal-check-light.svg)
-  static const sealCheck = IconData(0xe606, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sealCheck = PhosphorFlatIconData(0xe606, 'Light');
 
   /// ![seal-percent-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/seal-percent-light.svg)
-  static const sealPercent = IconData(0xe60a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sealPercent = PhosphorFlatIconData(0xe60a, 'Light');
 
   /// ![seal-question-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/seal-question-light.svg)
-  static const sealQuestion = IconData(0xe608, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sealQuestion = PhosphorFlatIconData(0xe608, 'Light');
 
   /// ![seal-warning-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/seal-warning-light.svg)
-  static const sealWarning = IconData(0xe60c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sealWarning = PhosphorFlatIconData(0xe60c, 'Light');
 
   /// ![seat-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/seat-light.svg)
-  static const seat = IconData(0xeb8e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const seat = PhosphorFlatIconData(0xeb8e, 'Light');
 
   /// ![seatbelt-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/seatbelt-light.svg)
-  static const seatbelt = IconData(0xedfe, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const seatbelt = PhosphorFlatIconData(0xedfe, 'Light');
 
   /// ![security-camera-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/security-camera-light.svg)
-  static const securityCamera = IconData(0xeca4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const securityCamera = PhosphorFlatIconData(0xeca4, 'Light');
 
   /// ![selection-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/selection-light.svg)
-  static const selection = IconData(0xe69a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const selection = PhosphorFlatIconData(0xe69a, 'Light');
 
   /// ![selection-all-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/selection-all-light.svg)
-  static const selectionAll = IconData(0xe746, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const selectionAll = PhosphorFlatIconData(0xe746, 'Light');
 
   /// ![selection-background-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/selection-background-light.svg)
-  static const selectionBackground = IconData(0xeaf8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const selectionBackground = PhosphorFlatIconData(0xeaf8, 'Light');
 
   /// ![selection-foreground-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/selection-foreground-light.svg)
-  static const selectionForeground = IconData(0xeaf6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const selectionForeground = PhosphorFlatIconData(0xeaf6, 'Light');
 
   /// ![selection-inverse-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/selection-inverse-light.svg)
-  static const selectionInverse = IconData(0xe744, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const selectionInverse = PhosphorFlatIconData(0xe744, 'Light');
 
   /// ![selection-plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/selection-plus-light.svg)
-  static const selectionPlus = IconData(0xe69c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const selectionPlus = PhosphorFlatIconData(0xe69c, 'Light');
 
   /// ![selection-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/selection-slash-light.svg)
-  static const selectionSlash = IconData(0xe69e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const selectionSlash = PhosphorFlatIconData(0xe69e, 'Light');
 
   /// ![shapes-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shapes-light.svg)
-  static const shapes = IconData(0xec5e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shapes = PhosphorFlatIconData(0xec5e, 'Light');
 
   /// ![share-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/share-light.svg)
-  static const share = IconData(0xe406, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const share = PhosphorFlatIconData(0xe406, 'Light');
 
   /// ![share-fat-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/share-fat-light.svg)
-  static const shareFat = IconData(0xed52, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shareFat = PhosphorFlatIconData(0xed52, 'Light');
 
   /// ![share-network-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/share-network-light.svg)
-  static const shareNetwork = IconData(0xe408, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shareNetwork = PhosphorFlatIconData(0xe408, 'Light');
 
   /// ![shield-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shield-light.svg)
-  static const shield = IconData(0xe40a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shield = PhosphorFlatIconData(0xe40a, 'Light');
 
   /// ![shield-check-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shield-check-light.svg)
-  static const shieldCheck = IconData(0xe40c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shieldCheck = PhosphorFlatIconData(0xe40c, 'Light');
 
   /// ![shield-checkered-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shield-checkered-light.svg)
-  static const shieldCheckered = IconData(0xe708, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shieldCheckered = PhosphorFlatIconData(0xe708, 'Light');
 
   /// ![shield-chevron-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shield-chevron-light.svg)
-  static const shieldChevron = IconData(0xe40e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shieldChevron = PhosphorFlatIconData(0xe40e, 'Light');
 
   /// ![shield-plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shield-plus-light.svg)
-  static const shieldPlus = IconData(0xe706, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shieldPlus = PhosphorFlatIconData(0xe706, 'Light');
 
   /// ![shield-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shield-slash-light.svg)
-  static const shieldSlash = IconData(0xe410, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shieldSlash = PhosphorFlatIconData(0xe410, 'Light');
 
   /// ![shield-star-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shield-star-light.svg)
-  static const shieldStar = IconData(0xec34, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shieldStar = PhosphorFlatIconData(0xec34, 'Light');
 
   /// ![shield-warning-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shield-warning-light.svg)
-  static const shieldWarning = IconData(0xe412, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shieldWarning = PhosphorFlatIconData(0xe412, 'Light');
 
   /// ![shipping-container-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shipping-container-light.svg)
-  static const shippingContainer = IconData(0xe78c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shippingContainer = PhosphorFlatIconData(0xe78c, 'Light');
 
   /// ![shirt-folded-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shirt-folded-light.svg)
-  static const shirtFolded = IconData(0xea92, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shirtFolded = PhosphorFlatIconData(0xea92, 'Light');
 
   /// ![shooting-star-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shooting-star-light.svg)
-  static const shootingStar = IconData(0xecfa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shootingStar = PhosphorFlatIconData(0xecfa, 'Light');
 
   /// ![shopping-bag-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shopping-bag-light.svg)
-  static const shoppingBag = IconData(0xe416, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shoppingBag = PhosphorFlatIconData(0xe416, 'Light');
 
   /// ![shopping-bag-open-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shopping-bag-open-light.svg)
-  static const shoppingBagOpen = IconData(0xe418, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shoppingBagOpen = PhosphorFlatIconData(0xe418, 'Light');
 
   /// ![shopping-cart-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shopping-cart-light.svg)
-  static const shoppingCart = IconData(0xe41e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shoppingCart = PhosphorFlatIconData(0xe41e, 'Light');
 
   /// ![shopping-cart-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shopping-cart-simple-light.svg)
-  static const shoppingCartSimple = IconData(0xe420, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shoppingCartSimple = PhosphorFlatIconData(0xe420, 'Light');
 
   /// ![shovel-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shovel-light.svg)
-  static const shovel = IconData(0xe9e6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shovel = PhosphorFlatIconData(0xe9e6, 'Light');
 
   /// ![shower-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shower-light.svg)
-  static const shower = IconData(0xe776, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shower = PhosphorFlatIconData(0xe776, 'Light');
 
   /// ![shrimp-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shrimp-light.svg)
-  static const shrimp = IconData(0xeab4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shrimp = PhosphorFlatIconData(0xeab4, 'Light');
 
   /// ![shuffle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shuffle-light.svg)
-  static const shuffle = IconData(0xe422, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shuffle = PhosphorFlatIconData(0xe422, 'Light');
 
   /// ![shuffle-angular-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shuffle-angular-light.svg)
-  static const shuffleAngular = IconData(0xe424, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shuffleAngular = PhosphorFlatIconData(0xe424, 'Light');
 
   /// ![shuffle-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/shuffle-simple-light.svg)
-  static const shuffleSimple = IconData(0xe426, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const shuffleSimple = PhosphorFlatIconData(0xe426, 'Light');
 
   /// ![sidebar-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sidebar-light.svg)
-  static const sidebar = IconData(0xeab6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sidebar = PhosphorFlatIconData(0xeab6, 'Light');
 
   /// ![sidebar-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sidebar-simple-light.svg)
-  static const sidebarSimple = IconData(0xec24, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sidebarSimple = PhosphorFlatIconData(0xec24, 'Light');
 
   /// ![sigma-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sigma-light.svg)
-  static const sigma = IconData(0xeab8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sigma = PhosphorFlatIconData(0xeab8, 'Light');
 
   /// ![sign-in-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sign-in-light.svg)
-  static const signIn = IconData(0xe428, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const signIn = PhosphorFlatIconData(0xe428, 'Light');
 
   /// ![sign-out-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sign-out-light.svg)
-  static const signOut = IconData(0xe42a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const signOut = PhosphorFlatIconData(0xe42a, 'Light');
 
   /// ![signature-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/signature-light.svg)
-  static const signature = IconData(0xebac, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const signature = PhosphorFlatIconData(0xebac, 'Light');
 
   /// ![signpost-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/signpost-light.svg)
-  static const signpost = IconData(0xe89c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const signpost = PhosphorFlatIconData(0xe89c, 'Light');
 
   /// ![sim-card-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sim-card-light.svg)
-  static const simCard = IconData(0xe664, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const simCard = PhosphorFlatIconData(0xe664, 'Light');
 
   /// ![siren-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/siren-light.svg)
-  static const siren = IconData(0xe9b8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const siren = PhosphorFlatIconData(0xe9b8, 'Light');
 
   /// ![sketch-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sketch-logo-light.svg)
-  static const sketchLogo = IconData(0xe42c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sketchLogo = PhosphorFlatIconData(0xe42c, 'Light');
 
   /// ![skip-back-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/skip-back-light.svg)
-  static const skipBack = IconData(0xe5a4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const skipBack = PhosphorFlatIconData(0xe5a4, 'Light');
 
   /// ![skip-back-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/skip-back-circle-light.svg)
-  static const skipBackCircle = IconData(0xe42e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const skipBackCircle = PhosphorFlatIconData(0xe42e, 'Light');
 
   /// ![skip-forward-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/skip-forward-light.svg)
-  static const skipForward = IconData(0xe5a6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const skipForward = PhosphorFlatIconData(0xe5a6, 'Light');
 
   /// ![skip-forward-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/skip-forward-circle-light.svg)
-  static const skipForwardCircle = IconData(0xe430, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const skipForwardCircle = PhosphorFlatIconData(0xe430, 'Light');
 
   /// ![skull-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/skull-light.svg)
-  static const skull = IconData(0xe916, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const skull = PhosphorFlatIconData(0xe916, 'Light');
 
   /// ![skype-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/skype-logo-light.svg)
-  static const skypeLogo = IconData(0xe8dc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const skypeLogo = PhosphorFlatIconData(0xe8dc, 'Light');
 
   /// ![slack-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/slack-logo-light.svg)
-  static const slackLogo = IconData(0xe5a8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const slackLogo = PhosphorFlatIconData(0xe5a8, 'Light');
 
   /// ![sliders-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sliders-light.svg)
-  static const sliders = IconData(0xe432, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sliders = PhosphorFlatIconData(0xe432, 'Light');
 
   /// ![sliders-horizontal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sliders-horizontal-light.svg)
-  static const slidersHorizontal = IconData(0xe434, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const slidersHorizontal = PhosphorFlatIconData(0xe434, 'Light');
 
   /// ![slideshow-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/slideshow-light.svg)
-  static const slideshow = IconData(0xed32, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const slideshow = PhosphorFlatIconData(0xed32, 'Light');
 
   /// ![smiley-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-light.svg)
-  static const smiley = IconData(0xe436, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const smiley = PhosphorFlatIconData(0xe436, 'Light');
 
   /// ![smiley-angry-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-angry-light.svg)
-  static const smileyAngry = IconData(0xec62, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const smileyAngry = PhosphorFlatIconData(0xec62, 'Light');
 
   /// ![smiley-blank-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-blank-light.svg)
-  static const smileyBlank = IconData(0xe438, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const smileyBlank = PhosphorFlatIconData(0xe438, 'Light');
 
   /// ![smiley-meh-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-meh-light.svg)
-  static const smileyMeh = IconData(0xe43a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const smileyMeh = PhosphorFlatIconData(0xe43a, 'Light');
 
   /// ![smiley-melting-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-melting-light.svg)
-  static const smileyMelting = IconData(0xee56, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const smileyMelting = PhosphorFlatIconData(0xee56, 'Light');
 
   /// ![smiley-nervous-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-nervous-light.svg)
-  static const smileyNervous = IconData(0xe43c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const smileyNervous = PhosphorFlatIconData(0xe43c, 'Light');
 
   /// ![smiley-sad-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-sad-light.svg)
-  static const smileySad = IconData(0xe43e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const smileySad = PhosphorFlatIconData(0xe43e, 'Light');
 
   /// ![smiley-sticker-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-sticker-light.svg)
-  static const smileySticker = IconData(0xe440, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const smileySticker = PhosphorFlatIconData(0xe440, 'Light');
 
   /// ![smiley-wink-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-wink-light.svg)
-  static const smileyWink = IconData(0xe666, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const smileyWink = PhosphorFlatIconData(0xe666, 'Light');
 
   /// ![smiley-x-eyes-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/smiley-x-eyes-light.svg)
-  static const smileyXEyes = IconData(0xe442, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const smileyXEyes = PhosphorFlatIconData(0xe442, 'Light');
 
   /// ![snapchat-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/snapchat-logo-light.svg)
-  static const snapchatLogo = IconData(0xe668, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const snapchatLogo = PhosphorFlatIconData(0xe668, 'Light');
 
   /// ![sneaker-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sneaker-light.svg)
-  static const sneaker = IconData(0xe80c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sneaker = PhosphorFlatIconData(0xe80c, 'Light');
 
   /// ![sneaker-move-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sneaker-move-light.svg)
-  static const sneakerMove = IconData(0xed60, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sneakerMove = PhosphorFlatIconData(0xed60, 'Light');
 
   /// ![snowflake-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/snowflake-light.svg)
-  static const snowflake = IconData(0xe5aa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const snowflake = PhosphorFlatIconData(0xe5aa, 'Light');
 
   /// ![soccer-ball-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/soccer-ball-light.svg)
-  static const soccerBall = IconData(0xe716, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const soccerBall = PhosphorFlatIconData(0xe716, 'Light');
 
   /// ![sock-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sock-light.svg)
-  static const sock = IconData(0xecce, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sock = PhosphorFlatIconData(0xecce, 'Light');
 
   /// ![solar-panel-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/solar-panel-light.svg)
-  static const solarPanel = IconData(0xed7a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const solarPanel = PhosphorFlatIconData(0xed7a, 'Light');
 
   /// ![solar-roof-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/solar-roof-light.svg)
-  static const solarRoof = IconData(0xed7b, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const solarRoof = PhosphorFlatIconData(0xed7b, 'Light');
 
   /// ![sort-ascending-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sort-ascending-light.svg)
-  static const sortAscending = IconData(0xe444, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sortAscending = PhosphorFlatIconData(0xe444, 'Light');
 
   /// ![sort-descending-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sort-descending-light.svg)
-  static const sortDescending = IconData(0xe446, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sortDescending = PhosphorFlatIconData(0xe446, 'Light');
 
   /// ![soundcloud-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/soundcloud-logo-light.svg)
-  static const soundcloudLogo = IconData(0xe8de, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const soundcloudLogo = PhosphorFlatIconData(0xe8de, 'Light');
 
   /// ![spade-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/spade-light.svg)
-  static const spade = IconData(0xe448, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const spade = PhosphorFlatIconData(0xe448, 'Light');
 
   /// ![sparkle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sparkle-light.svg)
-  static const sparkle = IconData(0xe6a2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sparkle = PhosphorFlatIconData(0xe6a2, 'Light');
 
   /// ![speaker-hifi-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-hifi-light.svg)
-  static const speakerHifi = IconData(0xea08, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const speakerHifi = PhosphorFlatIconData(0xea08, 'Light');
 
   /// ![speaker-high-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-high-light.svg)
-  static const speakerHigh = IconData(0xe44a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const speakerHigh = PhosphorFlatIconData(0xe44a, 'Light');
 
   /// ![speaker-low-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-low-light.svg)
-  static const speakerLow = IconData(0xe44c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const speakerLow = PhosphorFlatIconData(0xe44c, 'Light');
 
   /// ![speaker-none-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-none-light.svg)
-  static const speakerNone = IconData(0xe44e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const speakerNone = PhosphorFlatIconData(0xe44e, 'Light');
 
   /// ![speaker-simple-high-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-simple-high-light.svg)
-  static const speakerSimpleHigh = IconData(0xe450, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const speakerSimpleHigh = PhosphorFlatIconData(0xe450, 'Light');
 
   /// ![speaker-simple-low-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-simple-low-light.svg)
-  static const speakerSimpleLow = IconData(0xe452, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const speakerSimpleLow = PhosphorFlatIconData(0xe452, 'Light');
 
   /// ![speaker-simple-none-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-simple-none-light.svg)
-  static const speakerSimpleNone = IconData(0xe454, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const speakerSimpleNone = PhosphorFlatIconData(0xe454, 'Light');
 
   /// ![speaker-simple-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-simple-slash-light.svg)
-  static const speakerSimpleSlash = IconData(0xe456, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const speakerSimpleSlash = PhosphorFlatIconData(0xe456, 'Light');
 
   /// ![speaker-simple-x-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-simple-x-light.svg)
-  static const speakerSimpleX = IconData(0xe458, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const speakerSimpleX = PhosphorFlatIconData(0xe458, 'Light');
 
   /// ![speaker-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-slash-light.svg)
-  static const speakerSlash = IconData(0xe45a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const speakerSlash = PhosphorFlatIconData(0xe45a, 'Light');
 
   /// ![speaker-x-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speaker-x-light.svg)
-  static const speakerX = IconData(0xe45c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const speakerX = PhosphorFlatIconData(0xe45c, 'Light');
 
   /// ![speedometer-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/speedometer-light.svg)
-  static const speedometer = IconData(0xee74, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const speedometer = PhosphorFlatIconData(0xee74, 'Light');
 
   /// ![sphere-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sphere-light.svg)
-  static const sphere = IconData(0xee66, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sphere = PhosphorFlatIconData(0xee66, 'Light');
 
   /// ![spinner-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/spinner-light.svg)
-  static const spinner = IconData(0xe66a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const spinner = PhosphorFlatIconData(0xe66a, 'Light');
 
   /// ![spinner-ball-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/spinner-ball-light.svg)
-  static const spinnerBall = IconData(0xee28, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const spinnerBall = PhosphorFlatIconData(0xee28, 'Light');
 
   /// ![spinner-gap-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/spinner-gap-light.svg)
-  static const spinnerGap = IconData(0xe66c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const spinnerGap = PhosphorFlatIconData(0xe66c, 'Light');
 
   /// ![spiral-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/spiral-light.svg)
-  static const spiral = IconData(0xe9fa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const spiral = PhosphorFlatIconData(0xe9fa, 'Light');
 
   /// ![split-horizontal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/split-horizontal-light.svg)
-  static const splitHorizontal = IconData(0xe872, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const splitHorizontal = PhosphorFlatIconData(0xe872, 'Light');
 
   /// ![split-vertical-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/split-vertical-light.svg)
-  static const splitVertical = IconData(0xe876, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const splitVertical = PhosphorFlatIconData(0xe876, 'Light');
 
   /// ![spotify-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/spotify-logo-light.svg)
-  static const spotifyLogo = IconData(0xe66e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const spotifyLogo = PhosphorFlatIconData(0xe66e, 'Light');
 
   /// ![spray-bottle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/spray-bottle-light.svg)
-  static const sprayBottle = IconData(0xe7e4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sprayBottle = PhosphorFlatIconData(0xe7e4, 'Light');
 
   /// ![square-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/square-light.svg)
-  static const square = IconData(0xe45e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const square = PhosphorFlatIconData(0xe45e, 'Light');
 
   /// ![square-half-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/square-half-light.svg)
-  static const squareHalf = IconData(0xe462, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const squareHalf = PhosphorFlatIconData(0xe462, 'Light');
 
   /// ![square-half-bottom-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/square-half-bottom-light.svg)
-  static const squareHalfBottom = IconData(0xeb16, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const squareHalfBottom = PhosphorFlatIconData(0xeb16, 'Light');
 
   /// ![square-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/square-logo-light.svg)
-  static const squareLogo = IconData(0xe690, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const squareLogo = PhosphorFlatIconData(0xe690, 'Light');
 
   /// ![square-split-horizontal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/square-split-horizontal-light.svg)
-  static const squareSplitHorizontal = IconData(0xe870, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const squareSplitHorizontal = PhosphorFlatIconData(0xe870, 'Light');
 
   /// ![square-split-vertical-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/square-split-vertical-light.svg)
-  static const squareSplitVertical = IconData(0xe874, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const squareSplitVertical = PhosphorFlatIconData(0xe874, 'Light');
 
   /// ![squares-four-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/squares-four-light.svg)
-  static const squaresFour = IconData(0xe464, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const squaresFour = PhosphorFlatIconData(0xe464, 'Light');
 
   /// ![stack-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stack-light.svg)
-  static const stack = IconData(0xe466, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const stack = PhosphorFlatIconData(0xe466, 'Light');
 
   /// ![stack-minus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stack-minus-light.svg)
-  static const stackMinus = IconData(0xedf4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const stackMinus = PhosphorFlatIconData(0xedf4, 'Light');
 
   /// ![stack-overflow-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stack-overflow-logo-light.svg)
-  static const stackOverflowLogo = IconData(0xeb78, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const stackOverflowLogo = PhosphorFlatIconData(0xeb78, 'Light');
 
   /// ![stack-plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stack-plus-light.svg)
-  static const stackPlus = IconData(0xedf6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const stackPlus = PhosphorFlatIconData(0xedf6, 'Light');
 
   /// ![stack-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stack-simple-light.svg)
-  static const stackSimple = IconData(0xe468, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const stackSimple = PhosphorFlatIconData(0xe468, 'Light');
 
   /// ![stairs-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stairs-light.svg)
-  static const stairs = IconData(0xe8ec, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const stairs = PhosphorFlatIconData(0xe8ec, 'Light');
 
   /// ![stamp-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stamp-light.svg)
-  static const stamp = IconData(0xea48, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const stamp = PhosphorFlatIconData(0xea48, 'Light');
 
   /// ![standard-definition-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/standard-definition-light.svg)
-  static const standardDefinition = IconData(0xea90, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const standardDefinition = PhosphorFlatIconData(0xea90, 'Light');
 
   /// ![star-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/star-light.svg)
-  static const star = IconData(0xe46a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const star = PhosphorFlatIconData(0xe46a, 'Light');
 
   /// ![star-and-crescent-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/star-and-crescent-light.svg)
-  static const starAndCrescent = IconData(0xecf4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const starAndCrescent = PhosphorFlatIconData(0xecf4, 'Light');
 
   /// ![star-four-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/star-four-light.svg)
-  static const starFour = IconData(0xe6a4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const starFour = PhosphorFlatIconData(0xe6a4, 'Light');
 
   /// ![star-half-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/star-half-light.svg)
-  static const starHalf = IconData(0xe70a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const starHalf = PhosphorFlatIconData(0xe70a, 'Light');
 
   /// ![star-of-david-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/star-of-david-light.svg)
-  static const starOfDavid = IconData(0xe89e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const starOfDavid = PhosphorFlatIconData(0xe89e, 'Light');
 
   /// ![steam-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/steam-logo-light.svg)
-  static const steamLogo = IconData(0xead4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const steamLogo = PhosphorFlatIconData(0xead4, 'Light');
 
   /// ![steering-wheel-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/steering-wheel-light.svg)
-  static const steeringWheel = IconData(0xe9ac, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const steeringWheel = PhosphorFlatIconData(0xe9ac, 'Light');
 
   /// ![steps-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/steps-light.svg)
-  static const steps = IconData(0xecbe, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const steps = PhosphorFlatIconData(0xecbe, 'Light');
 
   /// ![stethoscope-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stethoscope-light.svg)
-  static const stethoscope = IconData(0xe7ea, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const stethoscope = PhosphorFlatIconData(0xe7ea, 'Light');
 
   /// ![sticker-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sticker-light.svg)
-  static const sticker = IconData(0xe5ac, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sticker = PhosphorFlatIconData(0xe5ac, 'Light');
 
   /// ![stool-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stool-light.svg)
-  static const stool = IconData(0xea44, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const stool = PhosphorFlatIconData(0xea44, 'Light');
 
   /// ![stop-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stop-light.svg)
-  static const stop = IconData(0xe46c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const stop = PhosphorFlatIconData(0xe46c, 'Light');
 
   /// ![stop-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stop-circle-light.svg)
-  static const stopCircle = IconData(0xe46e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const stopCircle = PhosphorFlatIconData(0xe46e, 'Light');
 
   /// ![storefront-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/storefront-light.svg)
-  static const storefront = IconData(0xe470, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const storefront = PhosphorFlatIconData(0xe470, 'Light');
 
   /// ![strategy-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/strategy-light.svg)
-  static const strategy = IconData(0xea3a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const strategy = PhosphorFlatIconData(0xea3a, 'Light');
 
   /// ![stripe-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/stripe-logo-light.svg)
-  static const stripeLogo = IconData(0xe698, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const stripeLogo = PhosphorFlatIconData(0xe698, 'Light');
 
   /// ![student-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/student-light.svg)
-  static const student = IconData(0xe73e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const student = PhosphorFlatIconData(0xe73e, 'Light');
 
   /// ![subset-of-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/subset-of-light.svg)
-  static const subsetOf = IconData(0xedc0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const subsetOf = PhosphorFlatIconData(0xedc0, 'Light');
 
   /// ![subset-proper-of-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/subset-proper-of-light.svg)
-  static const subsetProperOf = IconData(0xedb6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const subsetProperOf = PhosphorFlatIconData(0xedb6, 'Light');
 
   /// ![subtitles-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/subtitles-light.svg)
-  static const subtitles = IconData(0xe1a8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const subtitles = PhosphorFlatIconData(0xe1a8, 'Light');
 
   /// ![subtitles-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/subtitles-slash-light.svg)
-  static const subtitlesSlash = IconData(0xe1a6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const subtitlesSlash = PhosphorFlatIconData(0xe1a6, 'Light');
 
   /// ![subtract-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/subtract-light.svg)
-  static const subtract = IconData(0xebd6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const subtract = PhosphorFlatIconData(0xebd6, 'Light');
 
   /// ![subtract-square-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/subtract-square-light.svg)
-  static const subtractSquare = IconData(0xebd4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const subtractSquare = PhosphorFlatIconData(0xebd4, 'Light');
 
   /// ![subway-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/subway-light.svg)
-  static const subway = IconData(0xe498, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const subway = PhosphorFlatIconData(0xe498, 'Light');
 
   /// ![suitcase-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/suitcase-light.svg)
-  static const suitcase = IconData(0xe5ae, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const suitcase = PhosphorFlatIconData(0xe5ae, 'Light');
 
   /// ![suitcase-rolling-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/suitcase-rolling-light.svg)
-  static const suitcaseRolling = IconData(0xe9b0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const suitcaseRolling = PhosphorFlatIconData(0xe9b0, 'Light');
 
   /// ![suitcase-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/suitcase-simple-light.svg)
-  static const suitcaseSimple = IconData(0xe5b0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const suitcaseSimple = PhosphorFlatIconData(0xe5b0, 'Light');
 
   /// ![sun-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sun-light.svg)
-  static const sun = IconData(0xe472, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sun = PhosphorFlatIconData(0xe472, 'Light');
 
   /// ![sun-dim-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sun-dim-light.svg)
-  static const sunDim = IconData(0xe474, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sunDim = PhosphorFlatIconData(0xe474, 'Light');
 
   /// ![sun-horizon-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sun-horizon-light.svg)
-  static const sunHorizon = IconData(0xe5b6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sunHorizon = PhosphorFlatIconData(0xe5b6, 'Light');
 
   /// ![sunglasses-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sunglasses-light.svg)
-  static const sunglasses = IconData(0xe816, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sunglasses = PhosphorFlatIconData(0xe816, 'Light');
 
   /// ![superset-of-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/superset-of-light.svg)
-  static const supersetOf = IconData(0xedb8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const supersetOf = PhosphorFlatIconData(0xedb8, 'Light');
 
   /// ![superset-proper-of-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/superset-proper-of-light.svg)
-  static const supersetProperOf = IconData(0xedb4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const supersetProperOf = PhosphorFlatIconData(0xedb4, 'Light');
 
   /// ![swap-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/swap-light.svg)
-  static const swap = IconData(0xe83c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const swap = PhosphorFlatIconData(0xe83c, 'Light');
 
   /// ![swatches-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/swatches-light.svg)
-  static const swatches = IconData(0xe5b8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const swatches = PhosphorFlatIconData(0xe5b8, 'Light');
 
   /// ![swimming-pool-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/swimming-pool-light.svg)
-  static const swimmingPool = IconData(0xecb6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const swimmingPool = PhosphorFlatIconData(0xecb6, 'Light');
 
   /// ![sword-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/sword-light.svg)
-  static const sword = IconData(0xe5ba, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const sword = PhosphorFlatIconData(0xe5ba, 'Light');
 
   /// ![synagogue-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/synagogue-light.svg)
-  static const synagogue = IconData(0xecec, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const synagogue = PhosphorFlatIconData(0xecec, 'Light');
 
   /// ![syringe-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/syringe-light.svg)
-  static const syringe = IconData(0xe968, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const syringe = PhosphorFlatIconData(0xe968, 'Light');
 
   /// ![t-shirt-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/t-shirt-light.svg)
-  static const tShirt = IconData(0xe670, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tShirt = PhosphorFlatIconData(0xe670, 'Light');
 
   /// ![table-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/table-light.svg)
-  static const table = IconData(0xe476, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const table = PhosphorFlatIconData(0xe476, 'Light');
 
   /// ![tabs-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tabs-light.svg)
-  static const tabs = IconData(0xe778, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tabs = PhosphorFlatIconData(0xe778, 'Light');
 
   /// ![tag-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tag-light.svg)
-  static const tag = IconData(0xe478, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tag = PhosphorFlatIconData(0xe478, 'Light');
 
   /// ![tag-chevron-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tag-chevron-light.svg)
-  static const tagChevron = IconData(0xe672, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tagChevron = PhosphorFlatIconData(0xe672, 'Light');
 
   /// ![tag-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tag-simple-light.svg)
-  static const tagSimple = IconData(0xe47a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tagSimple = PhosphorFlatIconData(0xe47a, 'Light');
 
   /// ![target-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/target-light.svg)
-  static const target = IconData(0xe47c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const target = PhosphorFlatIconData(0xe47c, 'Light');
 
   /// ![taxi-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/taxi-light.svg)
-  static const taxi = IconData(0xe902, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const taxi = PhosphorFlatIconData(0xe902, 'Light');
 
   /// ![tea-bag-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tea-bag-light.svg)
-  static const teaBag = IconData(0xe8e6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const teaBag = PhosphorFlatIconData(0xe8e6, 'Light');
 
   /// ![telegram-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/telegram-logo-light.svg)
-  static const telegramLogo = IconData(0xe5bc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const telegramLogo = PhosphorFlatIconData(0xe5bc, 'Light');
 
   /// ![television-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/television-light.svg)
-  static const television = IconData(0xe754, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const television = PhosphorFlatIconData(0xe754, 'Light');
 
   /// ![television-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/television-simple-light.svg)
-  static const televisionSimple = IconData(0xeae6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const televisionSimple = PhosphorFlatIconData(0xeae6, 'Light');
 
   /// ![tennis-ball-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tennis-ball-light.svg)
-  static const tennisBall = IconData(0xe720, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tennisBall = PhosphorFlatIconData(0xe720, 'Light');
 
   /// ![tent-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tent-light.svg)
-  static const tent = IconData(0xe8ba, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tent = PhosphorFlatIconData(0xe8ba, 'Light');
 
   /// ![terminal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/terminal-light.svg)
-  static const terminal = IconData(0xe47e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const terminal = PhosphorFlatIconData(0xe47e, 'Light');
 
   /// ![terminal-window-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/terminal-window-light.svg)
-  static const terminalWindow = IconData(0xeae8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const terminalWindow = PhosphorFlatIconData(0xeae8, 'Light');
 
   /// ![test-tube-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/test-tube-light.svg)
-  static const testTube = IconData(0xe7a0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const testTube = PhosphorFlatIconData(0xe7a0, 'Light');
 
   /// ![text-a-underline-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-a-underline-light.svg)
-  static const textAUnderline = IconData(0xed34, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textAUnderline = PhosphorFlatIconData(0xed34, 'Light');
 
   /// ![text-aa-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-aa-light.svg)
-  static const textAa = IconData(0xe6ee, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textAa = PhosphorFlatIconData(0xe6ee, 'Light');
 
   /// ![text-align-center-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-align-center-light.svg)
-  static const textAlignCenter = IconData(0xe480, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textAlignCenter = PhosphorFlatIconData(0xe480, 'Light');
 
   /// ![text-align-justify-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-align-justify-light.svg)
-  static const textAlignJustify = IconData(0xe482, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textAlignJustify = PhosphorFlatIconData(0xe482, 'Light');
 
   /// ![text-align-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-align-left-light.svg)
-  static const textAlignLeft = IconData(0xe484, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textAlignLeft = PhosphorFlatIconData(0xe484, 'Light');
 
   /// ![text-align-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-align-right-light.svg)
-  static const textAlignRight = IconData(0xe486, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textAlignRight = PhosphorFlatIconData(0xe486, 'Light');
 
   /// ![text-b-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-b-light.svg)
-  static const textB = IconData(0xe5be, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textB = PhosphorFlatIconData(0xe5be, 'Light');
 
   /// ![text-columns-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-columns-light.svg)
-  static const textColumns = IconData(0xec96, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textColumns = PhosphorFlatIconData(0xec96, 'Light');
 
   /// ![text-h-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-h-light.svg)
-  static const textH = IconData(0xe6ba, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textH = PhosphorFlatIconData(0xe6ba, 'Light');
 
   /// ![text-h-five-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-h-five-light.svg)
-  static const textHFive = IconData(0xe6c4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textHFive = PhosphorFlatIconData(0xe6c4, 'Light');
 
   /// ![text-h-four-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-h-four-light.svg)
-  static const textHFour = IconData(0xe6c2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textHFour = PhosphorFlatIconData(0xe6c2, 'Light');
 
   /// ![text-h-one-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-h-one-light.svg)
-  static const textHOne = IconData(0xe6bc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textHOne = PhosphorFlatIconData(0xe6bc, 'Light');
 
   /// ![text-h-six-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-h-six-light.svg)
-  static const textHSix = IconData(0xe6c6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textHSix = PhosphorFlatIconData(0xe6c6, 'Light');
 
   /// ![text-h-three-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-h-three-light.svg)
-  static const textHThree = IconData(0xe6c0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textHThree = PhosphorFlatIconData(0xe6c0, 'Light');
 
   /// ![text-h-two-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-h-two-light.svg)
-  static const textHTwo = IconData(0xe6be, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textHTwo = PhosphorFlatIconData(0xe6be, 'Light');
 
   /// ![text-indent-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-indent-light.svg)
-  static const textIndent = IconData(0xea1e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textIndent = PhosphorFlatIconData(0xea1e, 'Light');
 
   /// ![text-italic-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-italic-light.svg)
-  static const textItalic = IconData(0xe5c0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textItalic = PhosphorFlatIconData(0xe5c0, 'Light');
 
   /// ![text-outdent-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-outdent-light.svg)
-  static const textOutdent = IconData(0xea1c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textOutdent = PhosphorFlatIconData(0xea1c, 'Light');
 
   /// ![text-strikethrough-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-strikethrough-light.svg)
-  static const textStrikethrough = IconData(0xe5c2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textStrikethrough = PhosphorFlatIconData(0xe5c2, 'Light');
 
   /// ![text-subscript-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-subscript-light.svg)
-  static const textSubscript = IconData(0xec98, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textSubscript = PhosphorFlatIconData(0xec98, 'Light');
 
   /// ![text-superscript-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-superscript-light.svg)
-  static const textSuperscript = IconData(0xec9a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textSuperscript = PhosphorFlatIconData(0xec9a, 'Light');
 
   /// ![text-t-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-t-light.svg)
-  static const textT = IconData(0xe48a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textT = PhosphorFlatIconData(0xe48a, 'Light');
 
   /// ![text-t-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-t-slash-light.svg)
-  static const textTSlash = IconData(0xe488, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textTSlash = PhosphorFlatIconData(0xe488, 'Light');
 
   /// ![text-underline-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/text-underline-light.svg)
-  static const textUnderline = IconData(0xe5c4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textUnderline = PhosphorFlatIconData(0xe5c4, 'Light');
 
   /// ![textbox-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/textbox-light.svg)
-  static const textbox = IconData(0xeb0a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const textbox = PhosphorFlatIconData(0xeb0a, 'Light');
 
   /// ![thermometer-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/thermometer-light.svg)
-  static const thermometer = IconData(0xe5c6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const thermometer = PhosphorFlatIconData(0xe5c6, 'Light');
 
   /// ![thermometer-cold-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/thermometer-cold-light.svg)
-  static const thermometerCold = IconData(0xe5c8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const thermometerCold = PhosphorFlatIconData(0xe5c8, 'Light');
 
   /// ![thermometer-hot-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/thermometer-hot-light.svg)
-  static const thermometerHot = IconData(0xe5ca, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const thermometerHot = PhosphorFlatIconData(0xe5ca, 'Light');
 
   /// ![thermometer-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/thermometer-simple-light.svg)
-  static const thermometerSimple = IconData(0xe5cc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const thermometerSimple = PhosphorFlatIconData(0xe5cc, 'Light');
 
   /// ![threads-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/threads-logo-light.svg)
-  static const threadsLogo = IconData(0xed9e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const threadsLogo = PhosphorFlatIconData(0xed9e, 'Light');
 
   /// ![three-d-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/three-d-light.svg)
-  static const threeD = IconData(0xea5a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const threeD = PhosphorFlatIconData(0xea5a, 'Light');
 
   /// ![thumbs-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/thumbs-down-light.svg)
-  static const thumbsDown = IconData(0xe48c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const thumbsDown = PhosphorFlatIconData(0xe48c, 'Light');
 
   /// ![thumbs-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/thumbs-up-light.svg)
-  static const thumbsUp = IconData(0xe48e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const thumbsUp = PhosphorFlatIconData(0xe48e, 'Light');
 
   /// ![ticket-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/ticket-light.svg)
-  static const ticket = IconData(0xe490, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const ticket = PhosphorFlatIconData(0xe490, 'Light');
 
   /// ![tidal-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tidal-logo-light.svg)
-  static const tidalLogo = IconData(0xed1c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tidalLogo = PhosphorFlatIconData(0xed1c, 'Light');
 
   /// ![tiktok-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tiktok-logo-light.svg)
-  static const tiktokLogo = IconData(0xeaf2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tiktokLogo = PhosphorFlatIconData(0xeaf2, 'Light');
 
   /// ![tilde-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tilde-light.svg)
-  static const tilde = IconData(0xeda8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tilde = PhosphorFlatIconData(0xeda8, 'Light');
 
   /// ![timer-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/timer-light.svg)
-  static const timer = IconData(0xe492, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const timer = PhosphorFlatIconData(0xe492, 'Light');
 
   /// ![tip-jar-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tip-jar-light.svg)
-  static const tipJar = IconData(0xe7e2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tipJar = PhosphorFlatIconData(0xe7e2, 'Light');
 
   /// ![tipi-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tipi-light.svg)
-  static const tipi = IconData(0xed30, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tipi = PhosphorFlatIconData(0xed30, 'Light');
 
   /// ![tire-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tire-light.svg)
-  static const tire = IconData(0xedd2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tire = PhosphorFlatIconData(0xedd2, 'Light');
 
   /// ![toggle-left-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/toggle-left-light.svg)
-  static const toggleLeft = IconData(0xe674, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const toggleLeft = PhosphorFlatIconData(0xe674, 'Light');
 
   /// ![toggle-right-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/toggle-right-light.svg)
-  static const toggleRight = IconData(0xe676, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const toggleRight = PhosphorFlatIconData(0xe676, 'Light');
 
   /// ![toilet-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/toilet-light.svg)
-  static const toilet = IconData(0xe79a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const toilet = PhosphorFlatIconData(0xe79a, 'Light');
 
   /// ![toilet-paper-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/toilet-paper-light.svg)
-  static const toiletPaper = IconData(0xe79c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const toiletPaper = PhosphorFlatIconData(0xe79c, 'Light');
 
   /// ![toolbox-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/toolbox-light.svg)
-  static const toolbox = IconData(0xeca0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const toolbox = PhosphorFlatIconData(0xeca0, 'Light');
 
   /// ![tooth-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tooth-light.svg)
-  static const tooth = IconData(0xe9cc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tooth = PhosphorFlatIconData(0xe9cc, 'Light');
 
   /// ![tornado-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tornado-light.svg)
-  static const tornado = IconData(0xe88c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tornado = PhosphorFlatIconData(0xe88c, 'Light');
 
   /// ![tote-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tote-light.svg)
-  static const tote = IconData(0xe494, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tote = PhosphorFlatIconData(0xe494, 'Light');
 
   /// ![tote-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tote-simple-light.svg)
-  static const toteSimple = IconData(0xe678, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const toteSimple = PhosphorFlatIconData(0xe678, 'Light');
 
   /// ![towel-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/towel-light.svg)
-  static const towel = IconData(0xede6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const towel = PhosphorFlatIconData(0xede6, 'Light');
 
   /// ![tractor-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tractor-light.svg)
-  static const tractor = IconData(0xec6e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tractor = PhosphorFlatIconData(0xec6e, 'Light');
 
   /// ![trademark-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trademark-light.svg)
-  static const trademark = IconData(0xe9f0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const trademark = PhosphorFlatIconData(0xe9f0, 'Light');
 
   /// ![trademark-registered-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trademark-registered-light.svg)
-  static const trademarkRegistered = IconData(0xe3f4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const trademarkRegistered = PhosphorFlatIconData(0xe3f4, 'Light');
 
   /// ![traffic-cone-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/traffic-cone-light.svg)
-  static const trafficCone = IconData(0xe9a8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const trafficCone = PhosphorFlatIconData(0xe9a8, 'Light');
 
   /// ![traffic-sign-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/traffic-sign-light.svg)
-  static const trafficSign = IconData(0xe67a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const trafficSign = PhosphorFlatIconData(0xe67a, 'Light');
 
   /// ![traffic-signal-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/traffic-signal-light.svg)
-  static const trafficSignal = IconData(0xe9aa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const trafficSignal = PhosphorFlatIconData(0xe9aa, 'Light');
 
   /// ![train-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/train-light.svg)
-  static const train = IconData(0xe496, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const train = PhosphorFlatIconData(0xe496, 'Light');
 
   /// ![train-regional-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/train-regional-light.svg)
-  static const trainRegional = IconData(0xe49e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const trainRegional = PhosphorFlatIconData(0xe49e, 'Light');
 
   /// ![train-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/train-simple-light.svg)
-  static const trainSimple = IconData(0xe4a0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const trainSimple = PhosphorFlatIconData(0xe4a0, 'Light');
 
   /// ![tram-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tram-light.svg)
-  static const tram = IconData(0xe9ec, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tram = PhosphorFlatIconData(0xe9ec, 'Light');
 
   /// ![translate-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/translate-light.svg)
-  static const translate = IconData(0xe4a2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const translate = PhosphorFlatIconData(0xe4a2, 'Light');
 
   /// ![trash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trash-light.svg)
-  static const trash = IconData(0xe4a6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const trash = PhosphorFlatIconData(0xe4a6, 'Light');
 
   /// ![trash-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trash-simple-light.svg)
-  static const trashSimple = IconData(0xe4a8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const trashSimple = PhosphorFlatIconData(0xe4a8, 'Light');
 
   /// ![tray-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tray-light.svg)
-  static const tray = IconData(0xe4aa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tray = PhosphorFlatIconData(0xe4aa, 'Light');
 
   /// ![tray-arrow-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tray-arrow-down-light.svg)
-  static const trayArrowDown = IconData(0xe010, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const trayArrowDown = PhosphorFlatIconData(0xe010, 'Light');
 
   /// ![tray-arrow-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tray-arrow-up-light.svg)
-  static const trayArrowUp = IconData(0xee52, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const trayArrowUp = PhosphorFlatIconData(0xee52, 'Light');
 
   /// ![treasure-chest-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/treasure-chest-light.svg)
-  static const treasureChest = IconData(0xede2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const treasureChest = PhosphorFlatIconData(0xede2, 'Light');
 
   /// ![tree-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tree-light.svg)
-  static const tree = IconData(0xe6da, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tree = PhosphorFlatIconData(0xe6da, 'Light');
 
   /// ![tree-evergreen-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tree-evergreen-light.svg)
-  static const treeEvergreen = IconData(0xe6dc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const treeEvergreen = PhosphorFlatIconData(0xe6dc, 'Light');
 
   /// ![tree-palm-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tree-palm-light.svg)
-  static const treePalm = IconData(0xe91a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const treePalm = PhosphorFlatIconData(0xe91a, 'Light');
 
   /// ![tree-structure-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tree-structure-light.svg)
-  static const treeStructure = IconData(0xe67c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const treeStructure = PhosphorFlatIconData(0xe67c, 'Light');
 
   /// ![tree-view-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tree-view-light.svg)
-  static const treeView = IconData(0xee48, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const treeView = PhosphorFlatIconData(0xee48, 'Light');
 
   /// ![trend-down-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trend-down-light.svg)
-  static const trendDown = IconData(0xe4ac, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const trendDown = PhosphorFlatIconData(0xe4ac, 'Light');
 
   /// ![trend-up-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trend-up-light.svg)
-  static const trendUp = IconData(0xe4ae, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const trendUp = PhosphorFlatIconData(0xe4ae, 'Light');
 
   /// ![triangle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/triangle-light.svg)
-  static const triangle = IconData(0xe4b0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const triangle = PhosphorFlatIconData(0xe4b0, 'Light');
 
   /// ![triangle-dashed-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/triangle-dashed-light.svg)
-  static const triangleDashed = IconData(0xe4b2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const triangleDashed = PhosphorFlatIconData(0xe4b2, 'Light');
 
   /// ![trolley-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trolley-light.svg)
-  static const trolley = IconData(0xe5b2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const trolley = PhosphorFlatIconData(0xe5b2, 'Light');
 
   /// ![trolley-suitcase-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trolley-suitcase-light.svg)
-  static const trolleySuitcase = IconData(0xe5b4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const trolleySuitcase = PhosphorFlatIconData(0xe5b4, 'Light');
 
   /// ![trophy-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/trophy-light.svg)
-  static const trophy = IconData(0xe67e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const trophy = PhosphorFlatIconData(0xe67e, 'Light');
 
   /// ![truck-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/truck-light.svg)
-  static const truck = IconData(0xe4b4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const truck = PhosphorFlatIconData(0xe4b4, 'Light');
 
   /// ![truck-trailer-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/truck-trailer-light.svg)
-  static const truckTrailer = IconData(0xe4b6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const truckTrailer = PhosphorFlatIconData(0xe4b6, 'Light');
 
   /// ![tumblr-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/tumblr-logo-light.svg)
-  static const tumblrLogo = IconData(0xe8d4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const tumblrLogo = PhosphorFlatIconData(0xe8d4, 'Light');
 
   /// ![twitch-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/twitch-logo-light.svg)
-  static const twitchLogo = IconData(0xe5ce, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const twitchLogo = PhosphorFlatIconData(0xe5ce, 'Light');
 
   /// ![twitter-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/twitter-logo-light.svg)
-  static const twitterLogo = IconData(0xe4ba, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const twitterLogo = PhosphorFlatIconData(0xe4ba, 'Light');
 
   /// ![umbrella-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/umbrella-light.svg)
-  static const umbrella = IconData(0xe684, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const umbrella = PhosphorFlatIconData(0xe684, 'Light');
 
   /// ![umbrella-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/umbrella-simple-light.svg)
-  static const umbrellaSimple = IconData(0xe686, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const umbrellaSimple = PhosphorFlatIconData(0xe686, 'Light');
 
   /// ![union-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/union-light.svg)
-  static const union = IconData(0xedbe, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const union = PhosphorFlatIconData(0xedbe, 'Light');
 
   /// ![unite-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/unite-light.svg)
-  static const unite = IconData(0xe87e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const unite = PhosphorFlatIconData(0xe87e, 'Light');
 
   /// ![unite-square-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/unite-square-light.svg)
-  static const uniteSquare = IconData(0xe878, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const uniteSquare = PhosphorFlatIconData(0xe878, 'Light');
 
   /// ![upload-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/upload-light.svg)
-  static const upload = IconData(0xe4be, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const upload = PhosphorFlatIconData(0xe4be, 'Light');
 
   /// ![upload-simple-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/upload-simple-light.svg)
-  static const uploadSimple = IconData(0xe4c0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const uploadSimple = PhosphorFlatIconData(0xe4c0, 'Light');
 
   /// ![usb-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/usb-light.svg)
-  static const usb = IconData(0xe956, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const usb = PhosphorFlatIconData(0xe956, 'Light');
 
   /// ![user-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-light.svg)
-  static const user = IconData(0xe4c2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const user = PhosphorFlatIconData(0xe4c2, 'Light');
 
   /// ![user-check-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-check-light.svg)
-  static const userCheck = IconData(0xeafa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const userCheck = PhosphorFlatIconData(0xeafa, 'Light');
 
   /// ![user-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-circle-light.svg)
-  static const userCircle = IconData(0xe4c4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const userCircle = PhosphorFlatIconData(0xe4c4, 'Light');
 
   /// ![user-circle-check-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-circle-check-light.svg)
-  static const userCircleCheck = IconData(0xec38, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const userCircleCheck = PhosphorFlatIconData(0xec38, 'Light');
 
   /// ![user-circle-dashed-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-circle-dashed-light.svg)
-  static const userCircleDashed = IconData(0xec36, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const userCircleDashed = PhosphorFlatIconData(0xec36, 'Light');
 
   /// ![user-circle-gear-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-circle-gear-light.svg)
-  static const userCircleGear = IconData(0xe4c6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const userCircleGear = PhosphorFlatIconData(0xe4c6, 'Light');
 
   /// ![user-circle-minus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-circle-minus-light.svg)
-  static const userCircleMinus = IconData(0xe4c8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const userCircleMinus = PhosphorFlatIconData(0xe4c8, 'Light');
 
   /// ![user-circle-plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-circle-plus-light.svg)
-  static const userCirclePlus = IconData(0xe4ca, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const userCirclePlus = PhosphorFlatIconData(0xe4ca, 'Light');
 
   /// ![user-focus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-focus-light.svg)
-  static const userFocus = IconData(0xe6fc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const userFocus = PhosphorFlatIconData(0xe6fc, 'Light');
 
   /// ![user-gear-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-gear-light.svg)
-  static const userGear = IconData(0xe4cc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const userGear = PhosphorFlatIconData(0xe4cc, 'Light');
 
   /// ![user-list-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-list-light.svg)
-  static const userList = IconData(0xe73c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const userList = PhosphorFlatIconData(0xe73c, 'Light');
 
   /// ![user-minus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-minus-light.svg)
-  static const userMinus = IconData(0xe4ce, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const userMinus = PhosphorFlatIconData(0xe4ce, 'Light');
 
   /// ![user-plus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-plus-light.svg)
-  static const userPlus = IconData(0xe4d0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const userPlus = PhosphorFlatIconData(0xe4d0, 'Light');
 
   /// ![user-rectangle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-rectangle-light.svg)
-  static const userRectangle = IconData(0xe4d2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const userRectangle = PhosphorFlatIconData(0xe4d2, 'Light');
 
   /// ![user-sound-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-sound-light.svg)
-  static const userSound = IconData(0xeca8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const userSound = PhosphorFlatIconData(0xeca8, 'Light');
 
   /// ![user-square-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-square-light.svg)
-  static const userSquare = IconData(0xe4d4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const userSquare = PhosphorFlatIconData(0xe4d4, 'Light');
 
   /// ![user-switch-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/user-switch-light.svg)
-  static const userSwitch = IconData(0xe756, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const userSwitch = PhosphorFlatIconData(0xe756, 'Light');
 
   /// ![users-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/users-light.svg)
-  static const users = IconData(0xe4d6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const users = PhosphorFlatIconData(0xe4d6, 'Light');
 
   /// ![users-four-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/users-four-light.svg)
-  static const usersFour = IconData(0xe68c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const usersFour = PhosphorFlatIconData(0xe68c, 'Light');
 
   /// ![users-three-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/users-three-light.svg)
-  static const usersThree = IconData(0xe68e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const usersThree = PhosphorFlatIconData(0xe68e, 'Light');
 
   /// ![van-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/van-light.svg)
-  static const van = IconData(0xe826, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const van = PhosphorFlatIconData(0xe826, 'Light');
 
   /// ![vault-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/vault-light.svg)
-  static const vault = IconData(0xe76e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const vault = PhosphorFlatIconData(0xe76e, 'Light');
 
   /// ![vector-three-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/vector-three-light.svg)
-  static const vectorThree = IconData(0xee62, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const vectorThree = PhosphorFlatIconData(0xee62, 'Light');
 
   /// ![vector-two-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/vector-two-light.svg)
-  static const vectorTwo = IconData(0xee64, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const vectorTwo = PhosphorFlatIconData(0xee64, 'Light');
 
   /// ![vibrate-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/vibrate-light.svg)
-  static const vibrate = IconData(0xe4d8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const vibrate = PhosphorFlatIconData(0xe4d8, 'Light');
 
   /// ![video-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/video-light.svg)
-  static const video = IconData(0xe740, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const video = PhosphorFlatIconData(0xe740, 'Light');
 
   /// ![video-camera-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/video-camera-light.svg)
-  static const videoCamera = IconData(0xe4da, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const videoCamera = PhosphorFlatIconData(0xe4da, 'Light');
 
   /// ![video-camera-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/video-camera-slash-light.svg)
-  static const videoCameraSlash = IconData(0xe4dc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const videoCameraSlash = PhosphorFlatIconData(0xe4dc, 'Light');
 
   /// ![video-conference-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/video-conference-light.svg)
-  static const videoConference = IconData(0xedce, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const videoConference = PhosphorFlatIconData(0xedce, 'Light');
 
   /// ![vignette-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/vignette-light.svg)
-  static const vignette = IconData(0xeba2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const vignette = PhosphorFlatIconData(0xeba2, 'Light');
 
   /// ![vinyl-record-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/vinyl-record-light.svg)
-  static const vinylRecord = IconData(0xecac, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const vinylRecord = PhosphorFlatIconData(0xecac, 'Light');
 
   /// ![virtual-reality-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/virtual-reality-light.svg)
-  static const virtualReality = IconData(0xe7b8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const virtualReality = PhosphorFlatIconData(0xe7b8, 'Light');
 
   /// ![virus-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/virus-light.svg)
-  static const virus = IconData(0xe7d6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const virus = PhosphorFlatIconData(0xe7d6, 'Light');
 
   /// ![visor-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/visor-light.svg)
-  static const visor = IconData(0xee2a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const visor = PhosphorFlatIconData(0xee2a, 'Light');
 
   /// ![voicemail-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/voicemail-light.svg)
-  static const voicemail = IconData(0xe4de, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const voicemail = PhosphorFlatIconData(0xe4de, 'Light');
 
   /// ![volleyball-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/volleyball-light.svg)
-  static const volleyball = IconData(0xe726, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const volleyball = PhosphorFlatIconData(0xe726, 'Light');
 
   /// ![wall-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wall-light.svg)
-  static const wall = IconData(0xe688, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const wall = PhosphorFlatIconData(0xe688, 'Light');
 
   /// ![wallet-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wallet-light.svg)
-  static const wallet = IconData(0xe68a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const wallet = PhosphorFlatIconData(0xe68a, 'Light');
 
   /// ![warehouse-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/warehouse-light.svg)
-  static const warehouse = IconData(0xecd4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const warehouse = PhosphorFlatIconData(0xecd4, 'Light');
 
   /// ![warning-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/warning-light.svg)
-  static const warning = IconData(0xe4e0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const warning = PhosphorFlatIconData(0xe4e0, 'Light');
 
   /// ![warning-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/warning-circle-light.svg)
-  static const warningCircle = IconData(0xe4e2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const warningCircle = PhosphorFlatIconData(0xe4e2, 'Light');
 
   /// ![warning-diamond-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/warning-diamond-light.svg)
-  static const warningDiamond = IconData(0xe7fc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const warningDiamond = PhosphorFlatIconData(0xe7fc, 'Light');
 
   /// ![warning-octagon-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/warning-octagon-light.svg)
-  static const warningOctagon = IconData(0xe4e4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const warningOctagon = PhosphorFlatIconData(0xe4e4, 'Light');
 
   /// ![washing-machine-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/washing-machine-light.svg)
-  static const washingMachine = IconData(0xede8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const washingMachine = PhosphorFlatIconData(0xede8, 'Light');
 
   /// ![watch-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/watch-light.svg)
-  static const watch = IconData(0xe4e6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const watch = PhosphorFlatIconData(0xe4e6, 'Light');
 
   /// ![wave-sawtooth-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wave-sawtooth-light.svg)
-  static const waveSawtooth = IconData(0xea9c, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const waveSawtooth = PhosphorFlatIconData(0xea9c, 'Light');
 
   /// ![wave-sine-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wave-sine-light.svg)
-  static const waveSine = IconData(0xea9a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const waveSine = PhosphorFlatIconData(0xea9a, 'Light');
 
   /// ![wave-square-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wave-square-light.svg)
-  static const waveSquare = IconData(0xea9e, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const waveSquare = PhosphorFlatIconData(0xea9e, 'Light');
 
   /// ![wave-triangle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wave-triangle-light.svg)
-  static const waveTriangle = IconData(0xeaa0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const waveTriangle = PhosphorFlatIconData(0xeaa0, 'Light');
 
   /// ![waveform-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/waveform-light.svg)
-  static const waveform = IconData(0xe802, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const waveform = PhosphorFlatIconData(0xe802, 'Light');
 
   /// ![waveform-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/waveform-slash-light.svg)
-  static const waveformSlash = IconData(0xe800, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const waveformSlash = PhosphorFlatIconData(0xe800, 'Light');
 
   /// ![waves-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/waves-light.svg)
-  static const waves = IconData(0xe6de, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const waves = PhosphorFlatIconData(0xe6de, 'Light');
 
   /// ![webcam-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/webcam-light.svg)
-  static const webcam = IconData(0xe9b2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const webcam = PhosphorFlatIconData(0xe9b2, 'Light');
 
   /// ![webcam-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/webcam-slash-light.svg)
-  static const webcamSlash = IconData(0xecdc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const webcamSlash = PhosphorFlatIconData(0xecdc, 'Light');
 
   /// ![webhooks-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/webhooks-logo-light.svg)
-  static const webhooksLogo = IconData(0xecae, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const webhooksLogo = PhosphorFlatIconData(0xecae, 'Light');
 
   /// ![wechat-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wechat-logo-light.svg)
-  static const wechatLogo = IconData(0xe8d2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const wechatLogo = PhosphorFlatIconData(0xe8d2, 'Light');
 
   /// ![whatsapp-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/whatsapp-logo-light.svg)
-  static const whatsappLogo = IconData(0xe5d0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const whatsappLogo = PhosphorFlatIconData(0xe5d0, 'Light');
 
   /// ![wheelchair-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wheelchair-light.svg)
-  static const wheelchair = IconData(0xe4e8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const wheelchair = PhosphorFlatIconData(0xe4e8, 'Light');
 
   /// ![wheelchair-motion-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wheelchair-motion-light.svg)
-  static const wheelchairMotion = IconData(0xe89a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const wheelchairMotion = PhosphorFlatIconData(0xe89a, 'Light');
 
   /// ![wifi-high-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wifi-high-light.svg)
-  static const wifiHigh = IconData(0xe4ea, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const wifiHigh = PhosphorFlatIconData(0xe4ea, 'Light');
 
   /// ![wifi-low-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wifi-low-light.svg)
-  static const wifiLow = IconData(0xe4ec, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const wifiLow = PhosphorFlatIconData(0xe4ec, 'Light');
 
   /// ![wifi-medium-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wifi-medium-light.svg)
-  static const wifiMedium = IconData(0xe4ee, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const wifiMedium = PhosphorFlatIconData(0xe4ee, 'Light');
 
   /// ![wifi-none-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wifi-none-light.svg)
-  static const wifiNone = IconData(0xe4f0, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const wifiNone = PhosphorFlatIconData(0xe4f0, 'Light');
 
   /// ![wifi-slash-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wifi-slash-light.svg)
-  static const wifiSlash = IconData(0xe4f2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const wifiSlash = PhosphorFlatIconData(0xe4f2, 'Light');
 
   /// ![wifi-x-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wifi-x-light.svg)
-  static const wifiX = IconData(0xe4f4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const wifiX = PhosphorFlatIconData(0xe4f4, 'Light');
 
   /// ![wind-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wind-light.svg)
-  static const wind = IconData(0xe5d2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const wind = PhosphorFlatIconData(0xe5d2, 'Light');
 
   /// ![windmill-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/windmill-light.svg)
-  static const windmill = IconData(0xe9f8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const windmill = PhosphorFlatIconData(0xe9f8, 'Light');
 
   /// ![windows-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/windows-logo-light.svg)
-  static const windowsLogo = IconData(0xe692, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const windowsLogo = PhosphorFlatIconData(0xe692, 'Light');
 
   /// ![wine-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wine-light.svg)
-  static const wine = IconData(0xe6b2, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const wine = PhosphorFlatIconData(0xe6b2, 'Light');
 
   /// ![wrench-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/wrench-light.svg)
-  static const wrench = IconData(0xe5d4, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const wrench = PhosphorFlatIconData(0xe5d4, 'Light');
 
   /// ![x-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/x-light.svg)
-  static const x = IconData(0xe4f6, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const x = PhosphorFlatIconData(0xe4f6, 'Light');
 
   /// ![x-circle-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/x-circle-light.svg)
-  static const xCircle = IconData(0xe4f8, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const xCircle = PhosphorFlatIconData(0xe4f8, 'Light');
 
   /// ![x-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/x-logo-light.svg)
-  static const xLogo = IconData(0xe4bc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const xLogo = PhosphorFlatIconData(0xe4bc, 'Light');
 
   /// ![x-square-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/x-square-light.svg)
-  static const xSquare = IconData(0xe4fa, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const xSquare = PhosphorFlatIconData(0xe4fa, 'Light');
 
   /// ![yarn-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/yarn-light.svg)
-  static const yarn = IconData(0xed9a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const yarn = PhosphorFlatIconData(0xed9a, 'Light');
 
   /// ![yin-yang-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/yin-yang-light.svg)
-  static const yinYang = IconData(0xe92a, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const yinYang = PhosphorFlatIconData(0xe92a, 'Light');
 
   /// ![youtube-logo-light](https://raw.githubusercontent.com/phosphor-icons/core/main/assets/light/youtube-logo-light.svg)
-  static const youtubeLogo = IconData(0xe4fc, fontFamily: 'PhosphorLight', fontPackage: 'phosphor_flutter', matchTextDirection: true);
+  static const youtubeLogo = PhosphorFlatIconData(0xe4fc, 'Light');
 }

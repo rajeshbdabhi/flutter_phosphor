@@ -175,13 +175,13 @@ Field buildFieldIconByStyle(dynamic icon, {required StyleFileData style}) {
     final backgroundHexCode = '0x' + graphCodes.first.toRadixString(16);
     final foregroundHexCode = '0x' + graphCodes.last.toRadixString(16);
     codeStatement = Code(
-      "IconData($foregroundHexCode, fontFamily: 'PhosphorDuotone', fontPackage: 'phosphor_flutter', matchTextDirection: true,)",
+      "PhosphorDuotoneIconData($foregroundHexCode, PhosphorIconData($backgroundHexCode, 'Duotone'),)",
     );
   } else {
     final graphCode = properties['code'] as int;
     final hexCode = '0x' + graphCode.toRadixString(16);
     codeStatement = Code(
-      "IconData($hexCode, fontFamily: 'Phosphor${style.styleName.capitalize()}', fontPackage: 'phosphor_flutter', matchTextDirection: true,)",
+      "PhosphorFlatIconData($hexCode, '${style.styleName.capitalize()}')",
     );
   }
 
